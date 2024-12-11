@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 6eb438a721045c547be5e17d0da89dbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6948465957398193262
+    second: luffy attacks_0
+  - first:
+      213: -452923469800921616
+    second: luffy attacks_1
+  - first:
+      213: 2627289765571797955
+    second: luffy attacks_2
+  - first:
+      213: -6534951774320771892
+    second: luffy attacks_3
+  - first:
+      213: -7718307108546419863
+    second: luffy attacks_4
+  - first:
+      213: -1883800434058266953
+    second: luffy attacks_5
+  - first:
+      213: -5417594706373971176
+    second: luffy attacks_6
+  - first:
+      213: -6372914622025576880
+    second: luffy attacks_7
+  - first:
+      213: -3270433183939429474
+    second: luffy attacks_8
+  - first:
+      213: -1437129366617971918
+    second: luffy attacks_9
+  - first:
+      213: -5474367481894862701
+    second: luffy attacks_10
+  - first:
+      213: -6747906101237077641
+    second: luffy attacks_11
+  - first:
+      213: -833561142089115040
+    second: luffy attacks_12
+  - first:
+      213: -6856939482951672895
+    second: luffy attacks_13
+  - first:
+      213: 709261904624956869
+    second: luffy attacks_14
+  - first:
+      213: 4238036486399399217
+    second: luffy attacks_15
+  - first:
+      213: -1525861060459114594
+    second: luffy attacks_16
+  - first:
+      213: -2519936008875144683
+    second: luffy attacks_17
+  - first:
+      213: -2055597052816913220
+    second: luffy attacks_18
+  - first:
+      213: 4936037247521695570
+    second: luffy attacks_19
+  - first:
+      213: 5310151595547296361
+    second: luffy attacks_20
+  - first:
+      213: 688859599544515141
+    second: luffy attacks_21
+  - first:
+      213: -2230954639645920470
+    second: luffy attacks_22
+  - first:
+      213: -122644968040125203
+    second: luffy attacks_23
+  - first:
+      213: -613500935096998484
+    second: luffy attacks_24
+  - first:
+      213: 4352601517772720946
+    second: luffy attacks_25
+  - first:
+      213: -3919645484544672887
+    second: luffy attacks_26
+  - first:
+      213: 7981960258465481066
+    second: luffy attacks_27
+  - first:
+      213: 7890431497122824376
+    second: luffy attacks_28
+  - first:
+      213: 5223613245170212887
+    second: luffy attacks_29
+  - first:
+      213: -6190965648106847942
+    second: luffy attacks_30
+  - first:
+      213: 2748358623751085228
+    second: luffy attacks_31
+  - first:
+      213: -2877383072130762570
+    second: luffy attacks_32
+  - first:
+      213: 8918297887787994177
+    second: luffy attacks_33
+  - first:
+      213: 4662784552321234432
+    second: luffy attacks_34
+  - first:
+      213: 7606583250710737415
+    second: luffy attacks_35
+  - first:
+      213: 4193781311236722893
+    second: luffy attacks_36
+  - first:
+      213: -3570629971806739611
+    second: luffy attacks_37
+  - first:
+      213: 4488608805164385616
+    second: luffy attacks_38
+  - first:
+      213: 3952828538505959697
+    second: luffy attacks_39
+  - first:
+      213: 3854379250859687390
+    second: luffy attacks_40
+  - first:
+      213: 2288840379937042344
+    second: luffy attacks_41
+  - first:
+      213: 2652260441943652644
+    second: luffy attacks_42
+  - first:
+      213: 8358493439411544622
+    second: luffy attacks_43
+  - first:
+      213: -6300133573076699574
+    second: luffy attacks_44
+  - first:
+      213: -9210571253137525395
+    second: luffy attacks_45
+  - first:
+      213: 8286037265636953389
+    second: luffy attacks_46
+  - first:
+      213: -1349129871836303823
+    second: luffy attacks_47
+  - first:
+      213: 7674312106121029456
+    second: luffy attacks_48
+  - first:
+      213: 4242310982891879426
+    second: luffy attacks_49
+  - first:
+      213: 915662297458968769
+    second: luffy attacks_50
+  - first:
+      213: 2904102086938918391
+    second: luffy attacks_51
+  - first:
+      213: -5958784355806098347
+    second: luffy attacks_52
+  - first:
+      213: -8172373185641708941
+    second: luffy attacks_53
+  - first:
+      213: 7275147198466806589
+    second: luffy attacks_54
+  - first:
+      213: -6771531688127981738
+    second: luffy attacks_55
+  - first:
+      213: -3100899546872735027
+    second: luffy attacks_56
+  - first:
+      213: -7466745787809229768
+    second: luffy attacks_57
+  - first:
+      213: -3054969171181375958
+    second: luffy attacks_58
+  - first:
+      213: -3112871074087921445
+    second: luffy attacks_59
+  - first:
+      213: -7323270234772578048
+    second: luffy attacks_60
+  - first:
+      213: 2821112248003376381
+    second: luffy attacks_61
+  - first:
+      213: -7507621231112785783
+    second: luffy attacks_62
+  - first:
+      213: 7588763460160670565
+    second: luffy attacks_63
+  - first:
+      213: 1633521778282236509
+    second: luffy attacks_64
+  - first:
+      213: 2962974919424144133
+    second: luffy attacks_65
+  - first:
+      213: -5267731525492580506
+    second: luffy attacks_66
+  - first:
+      213: -3199408640056050793
+    second: luffy attacks_67
+  - first:
+      213: -157093103120881111
+    second: luffy attacks_68
+  - first:
+      213: 7839337866306945680
+    second: luffy attacks_69
+  - first:
+      213: 2310796789006183305
+    second: luffy attacks_70
+  - first:
+      213: -3353215141457115984
+    second: luffy attacks_71
+  - first:
+      213: -279546008468538867
+    second: luffy attacks_72
+  - first:
+      213: -1345818069026789250
+    second: luffy attacks_73
+  - first:
+      213: 8795230593052446863
+    second: luffy attacks_74
+  - first:
+      213: -4829198669197528810
+    second: luffy attacks_75
+  - first:
+      213: -3958220464350649403
+    second: luffy attacks_76
+  - first:
+      213: -1247841378153508207
+    second: luffy attacks_77
+  - first:
+      213: 1964532244990217113
+    second: luffy attacks_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luffy attacks_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 494
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bd26bb607129f90800000000000000
+      internalID: -6948465957398193262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 494
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f524100184e6b9f0800000000000000
+      internalID: -452923469800921616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 494
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32dee2f12067420800000000000000
+      internalID: 2627289765571797955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 463
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc3d432cff2f45a0800000000000000
+      internalID: -6534951774320771892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e7bff39013e490800000000000000
+      internalID: -7718307108546419863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 463
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6fa3c6c756bd5e0800000000000000
+      internalID: -1883800434058266953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 463
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813fa857156d0d4b0800000000000000
+      internalID: -5417594706373971176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 462
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec54a9aebde87a0800000000000000
+      internalID: -6372914622025576880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 463
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf3a1c8561d92d0800000000000000
+      internalID: -3270433183939429474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 463
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233247e847a4e0ce0800000000000000
+      internalID: -1437129366617971918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 463
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39005b797c32704b0800000000000000
+      internalID: -5474367481894862701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 464
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779a212272f9a52a0800000000000000
+      internalID: -6747906101237077641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a9533ce889e64f0800000000000000
+      internalID: -833561142089115040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 425
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb9050bed147d0a0800000000000000
+      internalID: -6856939482951672895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 424
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c533e5c1fdc7d900800000000000000
+      internalID: 709261904624956869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 429
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351bf4fab780da30800000000000000
+      internalID: 4238036486399399217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fcbba237d03dae0800000000000000
+      internalID: -1525861060459114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 424
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a08461d83670dd0800000000000000
+      internalID: -2519936008875144683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 424
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc02891f5d0973e0800000000000000
+      internalID: -2055597052816913220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a0a079b3508440800000000000000
+      internalID: 4936037247521695570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 390
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9620214edb271b940800000000000000
+      internalID: 5310151595547296361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 395
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54af7f2f7225f8900800000000000000
+      internalID: 688859599544515141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 394
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2335e9439e0a01e0800000000000000
+      internalID: -2230954639645920470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 395
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decaa762d074c4ef0800000000000000
+      internalID: -122644968040125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 394
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca56c2666286c77f0800000000000000
+      internalID: -613500935096998484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 395
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b4ba3f40c876c30800000000000000
+      internalID: 4352601517772720946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 391
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3040f23f9a99c0800000000000000
+      internalID: -3919645484544672887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 391
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ce19909e95ce60800000000000000
+      internalID: 7981960258465481066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 391
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04f8e24a1708d60800000000000000
+      internalID: 7890431497122824376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 391
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710656212900e7840800000000000000
+      internalID: 5223613245170212887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 353
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3102ff4b85451aa0800000000000000
+      internalID: -6190965648106847942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 353
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac901c5b91242620800000000000000
+      internalID: 2748358623751085228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 355
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87ce6475b7118d0800000000000000
+      internalID: -2877383072130762570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 354
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c48b28da824cb70800000000000000
+      internalID: 8918297887787994177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006394988d985b040800000000000000
+      internalID: 4662784552321234432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 282
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702bc054a23009960800000000000000
+      internalID: 7606583250710737415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0dfe902ed433a30800000000000000
+      internalID: 4193781311236722893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 321
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a81a65f2927ec0800000000000000
+      internalID: -3570629971806739611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 281
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05583873dedba4e30800000000000000
+      internalID: 4488608805164385616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 320
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199cafdc944bd630800000000000000
+      internalID: 3952828538505959697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb02dd1818d7530800000000000000
+      internalID: 3854379250859687390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 306
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa7b1e23893cf10800000000000000
+      internalID: 2288840379937042344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293fd5d1d8bec420800000000000000
+      internalID: 2652260441943652644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 243
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22ee897f755ff370800000000000000
+      internalID: 8358493439411544622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 243
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46304315ed6198a0800000000000000
+      internalID: -6300133573076699574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 243
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653056be3a7d2080800000000000000
+      internalID: -9210571253137525395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 261
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d80f5edfaedf270800000000000000
+      internalID: 8286037265636953389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2451978de64de0800000000000000
+      internalID: -1349129871836303823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e2d44332a08a60800000000000000
+      internalID: 7674312106121029456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 211
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c320abc57bfda30800000000000000
+      internalID: 4242310982891879426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 210
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88246120615bc00800000000000000
+      internalID: 915662297458968769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 211
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf67326717d4820800000000000000
+      internalID: 2904102086938918391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 211
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc50b03352e4da0800000000000000
+      internalID: -5958784355806098347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37206e103e5e59e80800000000000000
+      internalID: -8172373185641708941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_54
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 174
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33da45e4d386f460800000000000000
+      internalID: 7275147198466806589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 175
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65794d78ecfa602a0800000000000000
+      internalID: -6771531688127981738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 174
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1b789a4467f4d0800000000000000
+      internalID: -3100899546872735027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 139
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349c79344ac06890800000000000000
+      internalID: -7466745787809229768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 139
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee6f789b19a95d0800000000000000
+      internalID: -3054969171181375958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 139
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd89665304cdcc4d0800000000000000
+      internalID: -3112871074087921445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001603695848e5a90800000000000000
+      internalID: -7323270234772578048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4beb584aa962720800000000000000
+      internalID: 2821112248003376381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980775374429fc790800000000000000
+      internalID: -7507621231112785783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 90
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b4757f824b05960800000000000000
+      internalID: 7588763460160670565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_64
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a806f076f6ba610800000000000000
+      internalID: 1633521778282236509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 89
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503faae9df99e1920800000000000000
+      internalID: 2962974919424144133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 89
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f53e2561245e6b0800000000000000
+      internalID: -5267731525492580506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 91
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb4260bca6993d0800000000000000
+      internalID: -3199408640056050793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 91
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae0dfa7a4e1ddf0800000000000000
+      internalID: -157093103120881111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928e7b314ceacc60800000000000000
+      internalID: 7839337866306945680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 46
+        width: 109
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba3dcbf69911020800000000000000
+      internalID: 2310796789006183305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 46
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4ccfd489cf671d0800000000000000
+      internalID: -3353215141457115984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 46
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0abadae26ade1cf0800000000000000
+      internalID: -279546008468538867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_73
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 46
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e782b5fb891b25de0800000000000000
+      internalID: -1345818069026789250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801a8010afee0a70800000000000000
+      internalID: 8795230593052446863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61131b4856d3bfcb0800000000000000
+      internalID: -4829198669197528810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a2bf85739119c0800000000000000
+      internalID: -3958220464350649403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192502fb0e6ceaee0800000000000000
+      internalID: -1247841378153508207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy attacks_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b41741bab634b10800000000000000
+      internalID: 1964532244990217113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f3d5b013354632a48930fc2e8c23ec7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      luffy attacks_0: -6948465957398193262
+      luffy attacks_1: -452923469800921616
+      luffy attacks_10: -5474367481894862701
+      luffy attacks_11: -6747906101237077641
+      luffy attacks_12: -833561142089115040
+      luffy attacks_13: -6856939482951672895
+      luffy attacks_14: 709261904624956869
+      luffy attacks_15: 4238036486399399217
+      luffy attacks_16: -1525861060459114594
+      luffy attacks_17: -2519936008875144683
+      luffy attacks_18: -2055597052816913220
+      luffy attacks_19: 4936037247521695570
+      luffy attacks_2: 2627289765571797955
+      luffy attacks_20: 5310151595547296361
+      luffy attacks_21: 688859599544515141
+      luffy attacks_22: -2230954639645920470
+      luffy attacks_23: -122644968040125203
+      luffy attacks_24: -613500935096998484
+      luffy attacks_25: 4352601517772720946
+      luffy attacks_26: -3919645484544672887
+      luffy attacks_27: 7981960258465481066
+      luffy attacks_28: 7890431497122824376
+      luffy attacks_29: 5223613245170212887
+      luffy attacks_3: -6534951774320771892
+      luffy attacks_30: -6190965648106847942
+      luffy attacks_31: 2748358623751085228
+      luffy attacks_32: -2877383072130762570
+      luffy attacks_33: 8918297887787994177
+      luffy attacks_34: 4662784552321234432
+      luffy attacks_35: 7606583250710737415
+      luffy attacks_36: 4193781311236722893
+      luffy attacks_37: -3570629971806739611
+      luffy attacks_38: 4488608805164385616
+      luffy attacks_39: 3952828538505959697
+      luffy attacks_4: -7718307108546419863
+      luffy attacks_40: 3854379250859687390
+      luffy attacks_41: 2288840379937042344
+      luffy attacks_42: 2652260441943652644
+      luffy attacks_43: 8358493439411544622
+      luffy attacks_44: -6300133573076699574
+      luffy attacks_45: -9210571253137525395
+      luffy attacks_46: 8286037265636953389
+      luffy attacks_47: -1349129871836303823
+      luffy attacks_48: 7674312106121029456
+      luffy attacks_49: 4242310982891879426
+      luffy attacks_5: -1883800434058266953
+      luffy attacks_50: 915662297458968769
+      luffy attacks_51: 2904102086938918391
+      luffy attacks_52: -5958784355806098347
+      luffy attacks_53: -8172373185641708941
+      luffy attacks_54: 7275147198466806589
+      luffy attacks_55: -6771531688127981738
+      luffy attacks_56: -3100899546872735027
+      luffy attacks_57: -7466745787809229768
+      luffy attacks_58: -3054969171181375958
+      luffy attacks_59: -3112871074087921445
+      luffy attacks_6: -5417594706373971176
+      luffy attacks_60: -7323270234772578048
+      luffy attacks_61: 2821112248003376381
+      luffy attacks_62: -7507621231112785783
+      luffy attacks_63: 7588763460160670565
+      luffy attacks_64: 1633521778282236509
+      luffy attacks_65: 2962974919424144133
+      luffy attacks_66: -5267731525492580506
+      luffy attacks_67: -3199408640056050793
+      luffy attacks_68: -157093103120881111
+      luffy attacks_69: 7839337866306945680
+      luffy attacks_7: -6372914622025576880
+      luffy attacks_70: 2310796789006183305
+      luffy attacks_71: -3353215141457115984
+      luffy attacks_72: -279546008468538867
+      luffy attacks_73: -1345818069026789250
+      luffy attacks_74: 8795230593052446863
+      luffy attacks_75: -4829198669197528810
+      luffy attacks_76: -3958220464350649403
+      luffy attacks_77: -1247841378153508207
+      luffy attacks_78: 1964532244990217113
+      luffy attacks_8: -3270433183939429474
+      luffy attacks_9: -1437129366617971918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
