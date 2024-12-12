@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 89ee6f05902ea4b4abb0451ebdd732cd
+  productGUID: 2aa9f4e1dc59caf418fd956b80085221
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -687,11 +687,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3f421d84-43e1-470b-8924-30ed27b69095
+  cloudProjectId: e8f94cc7-53fe-48fd-b2ca-7f149076a105
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ROM2
-  organizationId: ouali42
+  projectName: ROM2 2024-12-10_14-35-42
+  organizationId: subaru400
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
