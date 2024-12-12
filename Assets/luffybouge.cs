@@ -88,22 +88,22 @@ public class LuffyBouge : MonoBehaviour
 
         MovePlayer(horizontalMovement);
 
-        Flip(rb.velocity.x);
+        Flip(rb.linearVelocity.x);
 
-        float characterVelocity = Mathf.Abs(rb.velocity.x);
+        float characterVelocity = Mathf.Abs(rb.linearVelocity.x);
         animator.SetFloat("speed", characterVelocity);
     }
 
     void MovePlayer(float _horizontalMovement)
     {
         // Vitesse horizontale
-        Vector3 targetVelocity = new Vector2(_horizontalMovement, rb.velocity.y);
-        rb.velocity = Vector3.SmoothDamp(rb.velocity, targetVelocity, ref velocity, .05f);
+        Vector3 targetVelocity = new Vector2(_horizontalMovement, rb.linearVelocity.y);
+        rb.linearVelocity = Vector3.SmoothDamp(rb.linearVelocity, targetVelocity, ref velocity, .05f);
 
         // Saut
         if (isJumping)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce / rb.mass);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce / rb.mass);
             isJumping = false;
         }
     }
