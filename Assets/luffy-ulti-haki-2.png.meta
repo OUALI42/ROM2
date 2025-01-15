@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      luffy-ulti-haki-2_0: 5503527750389473799
+      luffy-ulti-haki-2_1: -1873466865530536602
+      luffy-ulti-haki-2_2: 971398961223065150
+      luffy-ulti-haki-2_3: 6126532051524855465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
