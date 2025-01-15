@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 4467046787cffe34f997b8fe4e7e4961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6214939469301400384
+    second: itachi_items-removebg-preview_0
+  - first:
+      213: 8111861803954478944
+    second: itachi_items-removebg-preview_1
+  - first:
+      213: -8549654702131028099
+    second: itachi_items-removebg-preview_2
+  - first:
+      213: 5462489588584313833
+    second: itachi_items-removebg-preview_3
+  - first:
+      213: -8391731215961501637
+    second: itachi_items-removebg-preview_4
+  - first:
+      213: -5701023501714070752
+    second: itachi_items-removebg-preview_5
+  - first:
+      213: 6624568328944328725
+    second: itachi_items-removebg-preview_6
+  - first:
+      213: -8879422226011864959
+    second: itachi_items-removebg-preview_7
+  - first:
+      213: 6893776462632961031
+    second: itachi_items-removebg-preview_8
+  - first:
+      213: 8310603874003435488
+    second: itachi_items-removebg-preview_9
+  - first:
+      213: -8935425448183555792
+    second: itachi_items-removebg-preview_10
+  - first:
+      213: 2920046180776574246
+    second: itachi_items-removebg-preview_11
+  - first:
+      213: 1206316595475276854
+    second: itachi_items-removebg-preview_12
+  - first:
+      213: -5538158319899138131
+    second: itachi_items-removebg-preview_13
+  - first:
+      213: 897509502061587857
+    second: itachi_items-removebg-preview_14
+  - first:
+      213: 7954857086997734985
+    second: itachi_items-removebg-preview_15
+  - first:
+      213: -1396254691053609146
+    second: itachi_items-removebg-preview_16
+  - first:
+      213: 8514107124238084465
+    second: itachi_items-removebg-preview_17
+  - first:
+      213: -272767831654086610
+    second: itachi_items-removebg-preview_18
+  - first:
+      213: 8356206855095594304
+    second: itachi_items-removebg-preview_19
+  - first:
+      213: -5867619385856633096
+    second: itachi_items-removebg-preview_20
+  - first:
+      213: 7081102730385798440
+    second: itachi_items-removebg-preview_21
+  - first:
+      213: 5330537874161821077
+    second: itachi_items-removebg-preview_22
+  - first:
+      213: -7884610993994028291
+    second: itachi_items-removebg-preview_23
+  - first:
+      213: 6927182157399227821
+    second: itachi_items-removebg-preview_24
+  - first:
+      213: 3035503256213460094
+    second: itachi_items-removebg-preview_25
+  - first:
+      213: 18108683764684849
+    second: itachi_items-removebg-preview_26
+  - first:
+      213: -425495981487195507
+    second: itachi_items-removebg-preview_27
+  - first:
+      213: 2161511781173528275
+    second: itachi_items-removebg-preview_28
+  - first:
+      213: 3840411265386774314
+    second: itachi_items-removebg-preview_29
+  - first:
+      213: 8481239119259263221
+    second: itachi_items-removebg-preview_30
+  - first:
+      213: -6699255541576950319
+    second: itachi_items-removebg-preview_31
+  - first:
+      213: 1074720183001186970
+    second: itachi_items-removebg-preview_32
+  - first:
+      213: -6054679499502989387
+    second: itachi_items-removebg-preview_33
+  - first:
+      213: 122441671506622234
+    second: itachi_items-removebg-preview_34
+  - first:
+      213: 7230721350172499908
+    second: itachi_items-removebg-preview_35
+  - first:
+      213: 512813567039133318
+    second: itachi_items-removebg-preview_36
+  - first:
+      213: -6779473864390345655
+    second: itachi_items-removebg-preview_37
+  - first:
+      213: -6432578068291336670
+    second: itachi_items-removebg-preview_38
+  - first:
+      213: -3756990849837506696
+    second: itachi_items-removebg-preview_39
+  - first:
+      213: 6476968444375803218
+    second: itachi_items-removebg-preview_40
+  - first:
+      213: -8873426464320154682
+    second: itachi_items-removebg-preview_41
+  - first:
+      213: -5385200497498855535
+    second: itachi_items-removebg-preview_42
+  - first:
+      213: 4134252621359432088
+    second: itachi_items-removebg-preview_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 334
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c348e486ef3650800000000000000
+      internalID: 6214939469301400384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 335
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f14cb055f139070800000000000000
+      internalID: 8111861803954478944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 301
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5b3fa856895980800000000000000
+      internalID: -8549654702131028099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 300
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e376dcd659aecb40800000000000000
+      internalID: 5462489588584313833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 299
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30de0e9be49a8b80800000000000000
+      internalID: -8391731215961501637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 296
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ed2c9455e1e0b0800000000000000
+      internalID: -5701023501714070752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a705fbc13feb50800000000000000
+      internalID: 6624568328944328725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 263
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180cad7d784f5c480800000000000000
+      internalID: -8879422226011864959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 259
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cf200b2d9baf50800000000000000
+      internalID: 6893776462632961031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 253
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb5f22132355370800000000000000
+      internalID: 8310603874003435488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 247
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039980495edfef380800000000000000
+      internalID: -8935425448183555792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 217
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d7ce4c786168820800000000000000
+      internalID: 2920046180776574246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 217
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63466ff5d82bdb010800000000000000
+      internalID: 1206316595475276854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 217
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a988b9528423b0800000000000000
+      internalID: -5538158319899138131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 217
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d2bec0328947c00800000000000000
+      internalID: 897509502061587857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 217
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946af7dbf54556e60800000000000000
+      internalID: 7954857086997734985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 217
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd6c391c18f9ce0800000000000000
+      internalID: -1396254691053609146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17965dfd15f282670800000000000000
+      internalID: 8514107124238084465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 180
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ca103a1fe63cf0800000000000000
+      internalID: -272767831654086610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d28a39cd537f370800000000000000
+      internalID: 8356206855095594304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 179
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d1dca147029ea0800000000000000
+      internalID: -5867619385856633096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b1be7a61254260800000000000000
+      internalID: 7081102730385798440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5956e2344ffd9f940800000000000000
+      internalID: 5330537874161821077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 146
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa8de431c349290800000000000000
+      internalID: -7884610993994028291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad743a687b422060800000000000000
+      internalID: 6927182157399227821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e741525f026402a20800000000000000
+      internalID: 3035503256213460094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d42f70c5504000800000000000000
+      internalID: 18108683764684849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7912c8a5581af0800000000000000
+      internalID: -425495981487195507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 121
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68ba6438b3ffd10800000000000000
+      internalID: 2161511781173528275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 77
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f79c0d2b1eb4530800000000000000
+      internalID: 3840411265386774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0689e1b0a63b570800000000000000
+      internalID: 8481239119259263221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1db044967703a0800000000000000
+      internalID: -6699255541576950319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928ab4ff4c2aee00800000000000000
+      internalID: 1074720183001186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 86
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc843031579fba0800000000000000
+      internalID: -6054679499502989387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 85
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a177bdf2d0003b100800000000000000
+      internalID: 122441671506622234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 80
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5dda02cea85460800000000000000
+      internalID: 7230721350172499908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6865e53e831ed1700800000000000000
+      internalID: 512813567039133318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 80
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf7f480787ae1a0800000000000000
+      internalID: -6779473864390345655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 80
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c6810454eab6a0800000000000000
+      internalID: -6432578068291336670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fda0b3abc7cdbc0800000000000000
+      internalID: -3756990849837506696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 31
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552f64db70d2e950800000000000000
+      internalID: 6476968444375803218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c395a5e4a14bd480800000000000000
+      internalID: -8873426464320154682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 26
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e256fdace345b0800000000000000
+      internalID: -5385200497498855535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_items-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 25
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8914bdbdad0df5930800000000000000
+      internalID: 4134252621359432088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57b58a8d45a34df499f3d08858974184
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      itachi_items-removebg-preview_0: 6214939469301400384
+      itachi_items-removebg-preview_1: 8111861803954478944
+      itachi_items-removebg-preview_10: -8935425448183555792
+      itachi_items-removebg-preview_11: 2920046180776574246
+      itachi_items-removebg-preview_12: 1206316595475276854
+      itachi_items-removebg-preview_13: -5538158319899138131
+      itachi_items-removebg-preview_14: 897509502061587857
+      itachi_items-removebg-preview_15: 7954857086997734985
+      itachi_items-removebg-preview_16: -1396254691053609146
+      itachi_items-removebg-preview_17: 8514107124238084465
+      itachi_items-removebg-preview_18: -272767831654086610
+      itachi_items-removebg-preview_19: 8356206855095594304
+      itachi_items-removebg-preview_2: -8549654702131028099
+      itachi_items-removebg-preview_20: -5867619385856633096
+      itachi_items-removebg-preview_21: 7081102730385798440
+      itachi_items-removebg-preview_22: 5330537874161821077
+      itachi_items-removebg-preview_23: -7884610993994028291
+      itachi_items-removebg-preview_24: 6927182157399227821
+      itachi_items-removebg-preview_25: 3035503256213460094
+      itachi_items-removebg-preview_26: 18108683764684849
+      itachi_items-removebg-preview_27: -425495981487195507
+      itachi_items-removebg-preview_28: 2161511781173528275
+      itachi_items-removebg-preview_29: 3840411265386774314
+      itachi_items-removebg-preview_3: 5462489588584313833
+      itachi_items-removebg-preview_30: 8481239119259263221
+      itachi_items-removebg-preview_31: -6699255541576950319
+      itachi_items-removebg-preview_32: 1074720183001186970
+      itachi_items-removebg-preview_33: -6054679499502989387
+      itachi_items-removebg-preview_34: 122441671506622234
+      itachi_items-removebg-preview_35: 7230721350172499908
+      itachi_items-removebg-preview_36: 512813567039133318
+      itachi_items-removebg-preview_37: -6779473864390345655
+      itachi_items-removebg-preview_38: -6432578068291336670
+      itachi_items-removebg-preview_39: -3756990849837506696
+      itachi_items-removebg-preview_4: -8391731215961501637
+      itachi_items-removebg-preview_40: 6476968444375803218
+      itachi_items-removebg-preview_41: -8873426464320154682
+      itachi_items-removebg-preview_42: -5385200497498855535
+      itachi_items-removebg-preview_43: 4134252621359432088
+      itachi_items-removebg-preview_5: -5701023501714070752
+      itachi_items-removebg-preview_6: 6624568328944328725
+      itachi_items-removebg-preview_7: -8879422226011864959
+      itachi_items-removebg-preview_8: 6893776462632961031
+      itachi_items-removebg-preview_9: 8310603874003435488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

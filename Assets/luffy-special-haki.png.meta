@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 57a0344aa53805340887ea8961b7566a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2196599491164315247
+    second: luffy-special-haki_0
+  - first:
+      213: -2737003137879808333
+    second: luffy-special-haki_1
+  - first:
+      213: 2825469644983947949
+    second: luffy-special-haki_2
+  - first:
+      213: 6348137425447883404
+    second: luffy-special-haki_3
+  - first:
+      213: 5309352369300083771
+    second: luffy-special-haki_4
+  - first:
+      213: 4499875459507804693
+    second: luffy-special-haki_5
+  - first:
+      213: -6913313833251984115
+    second: luffy-special-haki_6
+  - first:
+      213: -7314213437029233541
+    second: luffy-special-haki_7
+  - first:
+      213: 6755534323369927599
+    second: luffy-special-haki_8
+  - first:
+      213: 3871351243260920460
+    second: luffy-special-haki_9
+  - first:
+      213: -1042353756769299598
+    second: luffy-special-haki_10
+  - first:
+      213: -529396396933195401
+    second: luffy-special-haki_11
+  - first:
+      213: 5381124012794113074
+    second: luffy-special-haki_12
+  - first:
+      213: 5561246926693982206
+    second: luffy-special-haki_13
+  - first:
+      213: 7836287726718976765
+    second: luffy-special-haki_14
+  - first:
+      213: 2164274941477132891
+    second: luffy-special-haki_15
+  - first:
+      213: 1222653001561717233
+    second: luffy-special-haki_16
+  - first:
+      213: -2372213982000951299
+    second: luffy-special-haki_17
+  - first:
+      213: 7544644135065550978
+    second: luffy-special-haki_18
+  - first:
+      213: -3431140663420729303
+    second: luffy-special-haki_19
+  - first:
+      213: -2290792936270931856
+    second: luffy-special-haki_20
+  - first:
+      213: -8796916753536846535
+    second: luffy-special-haki_21
+  - first:
+      213: -47908359504598497
+    second: luffy-special-haki_22
+  - first:
+      213: -2959809157591501424
+    second: luffy-special-haki_23
+  - first:
+      213: -3844348948877933
+    second: luffy-special-haki_24
+  - first:
+      213: 6086383931998996371
+    second: luffy-special-haki_25
+  - first:
+      213: 5826917699872461084
+    second: luffy-special-haki_26
+  - first:
+      213: -129130803929529996
+    second: luffy-special-haki_27
+  - first:
+      213: 3236488369244402859
+    second: luffy-special-haki_28
+  - first:
+      213: -7800834269017172608
+    second: luffy-special-haki_29
+  - first:
+      213: 971300608914164210
+    second: luffy-special-haki_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luffy-special-haki_0
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e17a06993eb7e10800000000000000
+      internalID: 2196599491164315247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_1
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 6
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b66b89b526340ad0800000000000000
+      internalID: -2737003137879808333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_2
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 146
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2dae01ca5163720800000000000000
+      internalID: 2825469644983947949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_3
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 141
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c821f25ca5d191850800000000000000
+      internalID: 6348137425447883404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_4
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 137
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34928789db9ea940800000000000000
+      internalID: 5309352369300083771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad57993e4c27e30800000000000000
+      internalID: 4499875459507804693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_6
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 131
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da83c62b9fe00a0800000000000000
+      internalID: -6913313833251984115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ccb72a1a1be7a90800000000000000
+      internalID: -7314213437029233541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_8
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 124
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa36c6cbcaa70cd50800000000000000
+      internalID: 6755534323369927599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_9
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 118
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c828557c17dc9b530800000000000000
+      internalID: 3871351243260920460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273d875e7c0d881f0800000000000000
+      internalID: -1042353756769299598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779dc6728c437a8f0800000000000000
+      internalID: -529396396933195401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ceaea77c79daa40800000000000000
+      internalID: 5381124012794113074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 9
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effd3d57d948d2d40800000000000000
+      internalID: 5561246926693982206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 9
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df286d44b2610cc60800000000000000
+      internalID: 7836287726718976765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a160ba79c090e10800000000000000
+      internalID: 2164274941477132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9b6a15d6cb7f010800000000000000
+      internalID: 1222653001561717233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 115
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4e9fa3f3341fd0800000000000000
+      internalID: -2372213982000951299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_18
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 6
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280015b1ed5f3b860800000000000000
+      internalID: 7544644135065550978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 6
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c86edeb32260d0800000000000000
+      internalID: -3431140663420729303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_20
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 6
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d89b26f77530e0800000000000000
+      internalID: -2290792936270931856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 6
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f0ca12d21be580800000000000000
+      internalID: -8796916753536846535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_22
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 6
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae4f1d99bc55ff0800000000000000
+      internalID: -47908359504598497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_23
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 88
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0957fceb045ace6d0800000000000000
+      internalID: -2959809157591501424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_24
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 89
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6282c59752fff0800000000000000
+      internalID: -3844348948877933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_25
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 101
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397027960fd277450800000000000000
+      internalID: 6086383931998996371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_26
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 92
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11955496ce5dd050800000000000000
+      internalID: 5826917699872461084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_27
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 24
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471483ec73c353ef0800000000000000
+      internalID: -129130803929529996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_28
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fe7036015aec20800000000000000
+      internalID: 3236488369244402859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_29
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 27
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085998b109eddb390800000000000000
+      internalID: -7800834269017172608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-special-haki_30
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 17
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90374f1c0ca7d00800000000000000
+      internalID: 971300608914164210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
