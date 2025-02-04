@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: f4a4bb530c44fc649a21874b5d6989ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1283330814475923655
+    second: luffy-asset-iddle-walk-removebg-preview_0
+  - first:
+      213: -9179557130486981427
+    second: luffy-asset-iddle-walk-removebg-preview_1
+  - first:
+      213: 3450683751727314564
+    second: luffy-asset-iddle-walk-removebg-preview_2
+  - first:
+      213: -8205580013858142744
+    second: luffy-asset-iddle-walk-removebg-preview_3
+  - first:
+      213: -7878589395055138641
+    second: luffy-asset-iddle-walk-removebg-preview_4
+  - first:
+      213: 395797678804502979
+    second: luffy-asset-iddle-walk-removebg-preview_5
+  - first:
+      213: 7041443308836594339
+    second: luffy-asset-iddle-walk-removebg-preview_6
+  - first:
+      213: -3592238473776797913
+    second: luffy-asset-iddle-walk-removebg-preview_7
+  - first:
+      213: 8369774096716716932
+    second: luffy-asset-iddle-walk-removebg-preview_8
+  - first:
+      213: -2604467490082826171
+    second: luffy-asset-iddle-walk-removebg-preview_9
+  - first:
+      213: 8257817141162584010
+    second: luffy-asset-iddle-walk-removebg-preview_10
+  - first:
+      213: 1030448386307176234
+    second: luffy-asset-iddle-walk-removebg-preview_11
+  - first:
+      213: -7205165811560044506
+    second: luffy-asset-iddle-walk-removebg-preview_12
+  - first:
+      213: 7558216214123007608
+    second: luffy-asset-iddle-walk-removebg-preview_13
+  - first:
+      213: -1328591571824180555
+    second: luffy-asset-iddle-walk-removebg-preview_14
+  - first:
+      213: 5173402044481460940
+    second: luffy-asset-iddle-walk-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0762e839e4fc110800000000000000
+      internalID: 1283330814475923655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 14
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5be9dc69ab9080800000000000000
+      internalID: -9179557130486981427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 80
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4863be5f69a43ef20800000000000000
+      internalID: 3450683751727314564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5c0f1d37cef1e80800000000000000
+      internalID: -8205580013858142744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8249010b0a9a290800000000000000
+      internalID: -7878589395055138641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 14
+        width: 74
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9011054e72e7500800000000000000
+      internalID: 395797678804502979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 14
+        width: 62
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a149d16b38b160800000000000000
+      internalID: 7041443308836594339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ea0ef32ec52ec0800000000000000
+      internalID: -3592238473776797913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 14
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd01d2239672470800000000000000
+      internalID: 8369774096716716932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 14
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485f88ed921bdbd0800000000000000
+      internalID: -2604467490082826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 14
+        width: 106
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a02720f8a99270800000000000000
+      internalID: 8257817141162584010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 14
+        width: 94
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b6390953ec4e00800000000000000
+      internalID: 1030448386307176234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 14
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628ac267edb120c90800000000000000
+      internalID: -7205165811560044506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 14
+        width: 95
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e46620a9d24e860800000000000000
+      internalID: 7558216214123007608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 14
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b287dd2105ef8de0800000000000000
+      internalID: -1328591571824180555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luffy-asset-iddle-walk-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 14
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad895efbd9bc740800000000000000
+      internalID: 5173402044481460940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee3a0e53127fc1b499a82b69fac049a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      luffy-asset-iddle-walk-removebg-preview_0: 1283330814475923655
+      luffy-asset-iddle-walk-removebg-preview_1: -9179557130486981427
+      luffy-asset-iddle-walk-removebg-preview_10: 8257817141162584010
+      luffy-asset-iddle-walk-removebg-preview_11: 1030448386307176234
+      luffy-asset-iddle-walk-removebg-preview_12: -7205165811560044506
+      luffy-asset-iddle-walk-removebg-preview_13: 7558216214123007608
+      luffy-asset-iddle-walk-removebg-preview_14: -1328591571824180555
+      luffy-asset-iddle-walk-removebg-preview_15: 5173402044481460940
+      luffy-asset-iddle-walk-removebg-preview_2: 3450683751727314564
+      luffy-asset-iddle-walk-removebg-preview_3: -8205580013858142744
+      luffy-asset-iddle-walk-removebg-preview_4: -7878589395055138641
+      luffy-asset-iddle-walk-removebg-preview_5: 395797678804502979
+      luffy-asset-iddle-walk-removebg-preview_6: 7041443308836594339
+      luffy-asset-iddle-walk-removebg-preview_7: -3592238473776797913
+      luffy-asset-iddle-walk-removebg-preview_8: 8369774096716716932
+      luffy-asset-iddle-walk-removebg-preview_9: -2604467490082826171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
