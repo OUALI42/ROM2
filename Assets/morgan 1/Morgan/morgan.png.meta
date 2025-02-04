@@ -1,199 +1,199 @@
 fileFormatVersion: 2
-guid: 23d89f0dfe520b34d8e9987f8b657f6d
+guid: 02e8738d3bf6a324089fe9f776c2c9b0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5494565079309419126
-    second: 15779_0
+      213: 5927882187559961596
+    second: morgan_0
   - first:
-      213: -4809661528326437193
-    second: 15779_1
+      213: -2264094948481321240
+    second: morgan_1
   - first:
-      213: 5285881235684694668
-    second: 15779_2
+      213: 8524817111056730432
+    second: morgan_2
   - first:
-      213: 5004105517579478053
-    second: 15779_3
+      213: -8746551012230393353
+    second: morgan_3
   - first:
-      213: 1033264223432336600
-    second: 15779_4
+      213: -2739792643492509466
+    second: morgan_4
   - first:
-      213: 2874864581272180129
-    second: 15779_5
+      213: 6903694227769077350
+    second: morgan_5
   - first:
-      213: -294587662211086705
-    second: 15779_6
+      213: 1560857905190486289
+    second: morgan_6
   - first:
-      213: 5541493074981382923
-    second: 15779_7
+      213: 2091111571507873192
+    second: morgan_7
   - first:
-      213: 1722506074536376729
-    second: 15779_8
+      213: -6948181938623307527
+    second: morgan_8
   - first:
-      213: 4072639194784705328
-    second: 15779_9
+      213: -7425657441580736106
+    second: morgan_9
   - first:
-      213: -2471635992006623902
-    second: 15779_10
+      213: -6480872306751761402
+    second: morgan_10
   - first:
-      213: 692051005589061874
-    second: 15779_11
+      213: -191881241774303316
+    second: morgan_11
   - first:
-      213: 4729291208419221987
-    second: 15779_12
+      213: 6054096009150500999
+    second: morgan_12
   - first:
-      213: 6443922971027206106
-    second: 15779_13
+      213: 3650955456311310686
+    second: morgan_13
   - first:
-      213: 8273488430962875363
-    second: 15779_14
+      213: -1275180715649678265
+    second: morgan_14
   - first:
-      213: -8413589974924394813
-    second: 15779_15
+      213: -8187732909527704732
+    second: morgan_15
   - first:
-      213: 4447314243306914961
-    second: 15779_16
+      213: 6966936803524330247
+    second: morgan_16
   - first:
-      213: 3363316825570705888
-    second: 15779_17
+      213: -3267660241669242926
+    second: morgan_17
   - first:
-      213: -5551128609526960489
-    second: 15779_18
+      213: 3955652463953494372
+    second: morgan_18
   - first:
-      213: -2167679370067768269
-    second: 15779_19
+      213: 6894229844858659546
+    second: morgan_19
   - first:
-      213: 6303065326742001683
-    second: 15779_20
+      213: 7157114761011220678
+    second: morgan_20
   - first:
-      213: -7670438779377927021
-    second: 15779_21
+      213: -9056496130848504660
+    second: morgan_21
   - first:
-      213: -6523727177951498235
-    second: 15779_22
+      213: -2395902935469591881
+    second: morgan_22
   - first:
-      213: -2092586748562075403
-    second: 15779_23
+      213: 1168249004826803472
+    second: morgan_23
   - first:
-      213: 191375164730155991
-    second: 15779_24
+      213: -1196272557684207917
+    second: morgan_24
   - first:
-      213: -6403217383334003069
-    second: 15779_25
+      213: 8264135017570955542
+    second: morgan_25
   - first:
-      213: -3001255542807873472
-    second: 15779_26
+      213: 3934141130326561596
+    second: morgan_26
   - first:
-      213: 8197702165744451577
-    second: 15779_27
+      213: 4357569488490552695
+    second: morgan_27
   - first:
-      213: -7299716048396170855
-    second: 15779_28
+      213: 8415921085268838296
+    second: morgan_28
   - first:
-      213: -886372368773255369
-    second: 15779_29
+      213: -1406554160078941120
+    second: morgan_29
   - first:
-      213: -5879733044895663356
-    second: 15779_30
+      213: 2567078739134579864
+    second: morgan_30
   - first:
-      213: 673219805830816326
-    second: 15779_31
+      213: 287583210623077572
+    second: morgan_31
   - first:
-      213: -6229465519762317566
-    second: 15779_32
+      213: 6241446386598955133
+    second: morgan_32
   - first:
-      213: 2814296109361970411
-    second: 15779_33
+      213: -670823339879282086
+    second: morgan_33
   - first:
-      213: -4256048344941823644
-    second: 15779_34
+      213: 4240281745674264838
+    second: morgan_34
   - first:
-      213: 6622326149117191693
-    second: 15779_35
+      213: 104999458797754522
+    second: morgan_35
   - first:
-      213: 3379232856612107679
-    second: 15779_36
+      213: 956875335531429114
+    second: morgan_36
   - first:
-      213: 7992294157623699282
-    second: 15779_37
+      213: -1191953974455045337
+    second: morgan_37
   - first:
-      213: -4014580113634145908
-    second: 15779_38
+      213: 907625510809561100
+    second: morgan_38
   - first:
-      213: -4986433288244784947
-    second: 15779_39
+      213: 2908815416555086171
+    second: morgan_39
   - first:
-      213: -7596168937226588714
-    second: 15779_40
+      213: -8259714067573693661
+    second: morgan_40
   - first:
-      213: -3952123967425221401
-    second: 15779_41
+      213: -5626360396745652808
+    second: morgan_41
   - first:
-      213: 114987420530299529
-    second: 15779_42
+      213: -4756884990606323661
+    second: morgan_42
   - first:
-      213: 3926938189500667824
-    second: 15779_43
+      213: -2022986622068123099
+    second: morgan_43
   - first:
-      213: 5405646865994378226
-    second: 15779_44
+      213: 6340713934703438096
+    second: morgan_44
   - first:
-      213: -5030614311520239289
-    second: 15779_45
+      213: 4238733913637058324
+    second: morgan_45
   - first:
-      213: 1273379716382695835
-    second: 15779_46
+      213: 4268805368963945529
+    second: morgan_46
   - first:
-      213: 1978605798870420492
-    second: 15779_47
+      213: -5931138853768832141
+    second: morgan_47
   - first:
-      213: -5791133550134142631
-    second: 15779_48
+      213: -3357763448164412576
+    second: morgan_48
   - first:
-      213: -4579854095985705160
-    second: 15779_49
+      213: -1511031787077464972
+    second: morgan_49
   - first:
-      213: 3754525781400858332
-    second: 15779_50
+      213: -8206282984993119716
+    second: morgan_50
   - first:
-      213: -5206804119208374566
-    second: 15779_51
+      213: -7248802098629036936
+    second: morgan_51
   - first:
-      213: 6700411047910797954
-    second: 15779_52
+      213: -4320561781771342436
+    second: morgan_52
   - first:
-      213: -8306678798520362562
-    second: 15779_53
+      213: 8678137832895066264
+    second: morgan_53
   - first:
-      213: -8582889108911719139
-    second: 15779_54
+      213: -7391574203123535155
+    second: morgan_54
   - first:
-      213: -6958568847628280669
-    second: 15779_55
+      213: -8867825926147319851
+    second: morgan_55
   - first:
-      213: -1589282630798034690
-    second: 15779_56
+      213: 2281420005791700965
+    second: morgan_56
   - first:
-      213: -5197143380783751304
-    second: 15779_57
+      213: -3951267953104585564
+    second: morgan_57
   - first:
-      213: 3890547198272855994
-    second: 15779_58
+      213: 8862058757292486898
+    second: morgan_58
   - first:
-      213: -1789147003655569432
-    second: 15779_59
+      213: -2256914102383067772
+    second: morgan_59
   - first:
-      213: 2331808031013873452
-    second: 15779_60
+      213: -1382410215546600019
+    second: morgan_60
   - first:
-      213: 1951328497492467483
-    second: 15779_61
+      213: -643899263184344267
+    second: morgan_61
   - first:
-      213: 6640612317136194770
-    second: 15779_62
+      213: 6164032396910233439
+    second: morgan_62
   - first:
-      213: -3463932649219556673
-    second: 15779_63
+      213: -4202414095487576834
+    second: morgan_63
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -302,7 +302,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 15779_0
+      name: morgan_0
       rect:
         serializedVersion: 2
         x: 1
@@ -310,21 +310,21 @@ TextureImporter:
         width: 46
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 672018304dd904c40800000000000000
-      internalID: 5494565079309419126
+      spriteID: cf380eb3171144250800000000000000
+      internalID: 5927882187559961596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_1
+      name: morgan_1
       rect:
         serializedVersion: 2
         x: 57
@@ -332,21 +332,21 @@ TextureImporter:
         width: 46
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b68d3a9256a04db0800000000000000
-      internalID: -4809661528326437193
+      spriteID: 8e6b30ad3a15490e0800000000000000
+      internalID: -2264094948481321240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_2
+      name: morgan_2
       rect:
         serializedVersion: 2
         x: 113
@@ -354,21 +354,21 @@ TextureImporter:
         width: 47
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8a93e16af83b5940800000000000000
-      internalID: 5285881235684694668
+      spriteID: 04945bffefb3e4670800000000000000
+      internalID: 8524817111056730432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_3
+      name: morgan_3
       rect:
         serializedVersion: 2
         x: 168
@@ -376,43 +376,43 @@ TextureImporter:
         width: 48
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 524a5e19477227540800000000000000
-      internalID: 5004105517579478053
+      spriteID: 7f19c2212320e9680800000000000000
+      internalID: -8746551012230393353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_4
+      name: morgan_4
       rect:
         serializedVersion: 2
-        x: 249
+        x: 250
         y: 538
         width: 90
         height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d4edc43654e65e00800000000000000
-      internalID: 1033264223432336600
+      spriteID: 6e886665b1d4af9d0800000000000000
+      internalID: -2739792643492509466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_5
+      name: morgan_5
       rect:
         serializedVersion: 2
         x: 6
@@ -420,21 +420,21 @@ TextureImporter:
         width: 56
         height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a59410ea1295e720800000000000000
-      internalID: 2874864581272180129
+      spriteID: 66e2714a259decf50800000000000000
+      internalID: 6903694227769077350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_6
+      name: morgan_6
       rect:
         serializedVersion: 2
         x: 68
@@ -442,21 +442,21 @@ TextureImporter:
         width: 59
         height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8602bef41a69ebf0800000000000000
-      internalID: -294587662211086705
+      spriteID: 1114db7bef749a510800000000000000
+      internalID: 1560857905190486289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_7
+      name: morgan_7
       rect:
         serializedVersion: 2
         x: 141
@@ -464,21 +464,21 @@ TextureImporter:
         width: 51
         height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0b6d83779657ec40800000000000000
-      internalID: 5541493074981382923
+      spriteID: 8a58f6525ee150d10800000000000000
+      internalID: 2091111571507873192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_8
+      name: morgan_8
       rect:
         serializedVersion: 2
         x: 205
@@ -486,21 +486,21 @@ TextureImporter:
         width: 46
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9997138062297e710800000000000000
-      internalID: 1722506074536376729
+      spriteID: 9f0a2910759139f90800000000000000
+      internalID: -6948181938623307527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_9
+      name: morgan_9
       rect:
         serializedVersion: 2
         x: 259
@@ -508,21 +508,21 @@ TextureImporter:
         width: 47
         height: 74
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03ba97715cbe48830800000000000000
-      internalID: 4072639194784705328
+      spriteID: 69128d256e3c2f890800000000000000
+      internalID: -7425657441580736106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_10
+      name: morgan_10
       rect:
         serializedVersion: 2
         x: 312
@@ -530,21 +530,21 @@ TextureImporter:
         width: 42
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26dff5a192cf2bdd0800000000000000
-      internalID: -2471635992006623902
+      spriteID: 604156169f05f06a0800000000000000
+      internalID: -6480872306751761402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_11
+      name: morgan_11
       rect:
         serializedVersion: 2
         x: 374
@@ -552,21 +552,21 @@ TextureImporter:
         width: 32
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f0869219b8aa9900800000000000000
-      internalID: 692051005589061874
+      spriteID: ca75bf8f60d465df0800000000000000
+      internalID: -191881241774303316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_12
+      name: morgan_12
       rect:
         serializedVersion: 2
         x: 418
@@ -574,21 +574,21 @@ TextureImporter:
         width: 33
         height: 43
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e1a4351c41d1a140800000000000000
-      internalID: 4729291208419221987
+      spriteID: 780968d8e38740450800000000000000
+      internalID: 6054096009150500999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_13
+      name: morgan_13
       rect:
         serializedVersion: 2
         x: 0
@@ -596,21 +596,21 @@ TextureImporter:
         width: 43
         height: 71
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adf6e000dc96d6950800000000000000
-      internalID: 6443922971027206106
+      spriteID: e59b538d4accaa230800000000000000
+      internalID: 3650955456311310686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_14
+      name: morgan_14
       rect:
         serializedVersion: 2
         x: 49
@@ -618,21 +618,21 @@ TextureImporter:
         width: 43
         height: 69
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3eb98d4a4e551d270800000000000000
-      internalID: 8273488430962875363
+      spriteID: 744c54335e5ad4ee0800000000000000
+      internalID: -1275180715649678265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_15
+      name: morgan_15
       rect:
         serializedVersion: 2
         x: 98
@@ -640,21 +640,21 @@ TextureImporter:
         width: 47
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cef7d2be7cec3b80800000000000000
-      internalID: -8413589974924394813
+      spriteID: 46b53db9c445f5e80800000000000000
+      internalID: -8187732909527704732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_16
+      name: morgan_16
       rect:
         serializedVersion: 2
         x: 152
@@ -662,21 +662,21 @@ TextureImporter:
         width: 43
         height: 72
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19408dccdb808bd30800000000000000
-      internalID: 4447314243306914961
+      spriteID: 703c9a24c188fa060800000000000000
+      internalID: 6966936803524330247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_17
+      name: morgan_17
       rect:
         serializedVersion: 2
         x: 200
@@ -684,21 +684,21 @@ TextureImporter:
         width: 41
         height: 70
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e18c3f45d6ecae20800000000000000
-      internalID: 3363316825570705888
+      spriteID: 2df33a0b250f6a2d0800000000000000
+      internalID: -3267660241669242926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_18
+      name: morgan_18
       rect:
         serializedVersion: 2
         x: 4
@@ -706,21 +706,21 @@ TextureImporter:
         width: 38
         height: 73
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79e23a6d0fd66f2b0800000000000000
-      internalID: -5551128609526960489
+      spriteID: 461c8d045fc45e630800000000000000
+      internalID: 3955652463953494372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_19
+      name: morgan_19
       rect:
         serializedVersion: 2
         x: 54
@@ -728,21 +728,21 @@ TextureImporter:
         width: 70
         height: 82
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33c0b28091bdae1e0800000000000000
-      internalID: -2167679370067768269
+      spriteID: ad262b644893daf50800000000000000
+      internalID: 6894229844858659546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_20
+      name: morgan_20
       rect:
         serializedVersion: 2
         x: 127
@@ -750,21 +750,21 @@ TextureImporter:
         width: 60
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 318d984058cf87750800000000000000
-      internalID: 6303065326742001683
+      spriteID: 6c057c284fd235360800000000000000
+      internalID: 7157114761011220678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_21
+      name: morgan_21
       rect:
         serializedVersion: 2
         x: 198
@@ -772,21 +772,21 @@ TextureImporter:
         width: 53
         height: 45
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39c3cc3e1902d8590800000000000000
-      internalID: -7670438779377927021
+      spriteID: ca4431b90ccd05280800000000000000
+      internalID: -9056496130848504660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_22
+      name: morgan_22
       rect:
         serializedVersion: 2
         x: 256
@@ -794,21 +794,21 @@ TextureImporter:
         width: 50
         height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 500b3a222b01775a0800000000000000
-      internalID: -6523727177951498235
+      spriteID: 7b2f40769fa00ced0800000000000000
+      internalID: -2395902935469591881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_23
+      name: morgan_23
       rect:
         serializedVersion: 2
         x: 325
@@ -816,21 +816,21 @@ TextureImporter:
         width: 51
         height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f0944e6073a5f2e0800000000000000
-      internalID: -2092586748562075403
+      spriteID: 01db7edb744763010800000000000000
+      internalID: 1168249004826803472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_24
+      name: morgan_24
       rect:
         serializedVersion: 2
         x: 404
@@ -838,21 +838,21 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d3a298c2b6e7a200800000000000000
-      internalID: 191375164730155991
+      spriteID: 3de4fa8627cf56fe0800000000000000
+      internalID: -1196272557684207917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_25
+      name: morgan_25
       rect:
         serializedVersion: 2
         x: 424
@@ -860,21 +860,21 @@ TextureImporter:
         width: 41
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38e35ce27b33327a0800000000000000
-      internalID: -6403217383334003069
+      spriteID: 611fe22630b10b270800000000000000
+      internalID: 8264135017570955542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_26
+      name: morgan_26
       rect:
         serializedVersion: 2
         x: 460
@@ -882,21 +882,21 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 048b3c23cf56956d0800000000000000
-      internalID: -3001255542807873472
+      spriteID: c335e599380e89630800000000000000
+      internalID: 3934141130326561596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_27
+      name: morgan_27
       rect:
         serializedVersion: 2
         x: 492
@@ -904,21 +904,21 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9fff5abbfa614c170800000000000000
-      internalID: 8197702165744451577
+      spriteID: 77d5f85cc52397c30800000000000000
+      internalID: 4357569488490552695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_28
+      name: morgan_28
       rect:
         serializedVersion: 2
         x: 496
@@ -926,21 +926,21 @@ TextureImporter:
         width: 37
         height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 999c026fde232ba90800000000000000
-      internalID: -7299716048396170855
+      spriteID: 8974b2933ab5bc470800000000000000
+      internalID: 8415921085268838296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_29
+      name: morgan_29
       rect:
         serializedVersion: 2
         x: 372
@@ -948,21 +948,21 @@ TextureImporter:
         width: 7
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73f6c8cd609f2b3f0800000000000000
-      internalID: -886372368773255369
+      spriteID: 0449523917aea7ce0800000000000000
+      internalID: -1406554160078941120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_30
+      name: morgan_30
       rect:
         serializedVersion: 2
         x: 410
@@ -970,21 +970,21 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40b3ed4a2fdf66ea0800000000000000
-      internalID: -5879733044895663356
+      spriteID: 8940394238810a320800000000000000
+      internalID: 2567078739134579864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_31
+      name: morgan_31
       rect:
         serializedVersion: 2
         x: 464
@@ -992,21 +992,21 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 642ad46b8d1c75900800000000000000
-      internalID: 673219805830816326
+      spriteID: 4cc0e880863bdf300800000000000000
+      internalID: 287583210623077572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_32
+      name: morgan_32
       rect:
         serializedVersion: 2
         x: 489
@@ -1014,21 +1014,21 @@ TextureImporter:
         width: 7
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20fd50a6d1e7c89a0800000000000000
-      internalID: -6229465519762317566
+      spriteID: d7840e58b621e9650800000000000000
+      internalID: 6241446386598955133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_33
+      name: morgan_33
       rect:
         serializedVersion: 2
         x: 371
@@ -1036,21 +1036,21 @@ TextureImporter:
         width: 7
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: becb84396636e0720800000000000000
-      internalID: 2814296109361970411
+      spriteID: a5a447ff9b1c0b6f0800000000000000
+      internalID: -670823339879282086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_34
+      name: morgan_34
       rect:
         serializedVersion: 2
         x: 378
@@ -1058,21 +1058,21 @@ TextureImporter:
         width: 10
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4697adc649a7fe4c0800000000000000
-      internalID: -4256048344941823644
+      spriteID: 601ec7e18c188da30800000000000000
+      internalID: 4240281745674264838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_35
+      name: morgan_35
       rect:
         serializedVersion: 2
         x: 410
@@ -1080,21 +1080,21 @@ TextureImporter:
         width: 9
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0629e8cb8a37eb50800000000000000
-      internalID: 6622326149117191693
+      spriteID: a989f339378057100800000000000000
+      internalID: 104999458797754522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_36
+      name: morgan_36
       rect:
         serializedVersion: 2
         x: 526
@@ -1102,21 +1102,21 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9571bf016275ee20800000000000000
-      internalID: 3379232856612107679
+      spriteID: afcfea44c01874d00800000000000000
+      internalID: 956875335531429114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_37
+      name: morgan_37
       rect:
         serializedVersion: 2
         x: 0
@@ -1124,21 +1124,21 @@ TextureImporter:
         width: 47
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 257279df0355aee60800000000000000
-      internalID: 7992294157623699282
+      spriteID: 723fdfbec24557fe0800000000000000
+      internalID: -1191953974455045337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_38
+      name: morgan_38
       rect:
         serializedVersion: 2
         x: 55
@@ -1146,21 +1146,21 @@ TextureImporter:
         width: 51
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c894d7428a85948c0800000000000000
-      internalID: -4014580113634145908
+      spriteID: c08e2e0e798889c00800000000000000
+      internalID: 907625510809561100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_39
+      name: morgan_39
       rect:
         serializedVersion: 2
         x: 116
@@ -1168,21 +1168,21 @@ TextureImporter:
         width: 101
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc09cf5f751accab0800000000000000
-      internalID: -4986433288244784947
+      spriteID: b5122f4b5303e5820800000000000000
+      internalID: 2908815416555086171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_40
+      name: morgan_40
       rect:
         serializedVersion: 2
         x: 226
@@ -1190,21 +1190,21 @@ TextureImporter:
         width: 21
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6dda0ca099cf49690800000000000000
-      internalID: -7596168937226588714
+      spriteID: 32329ff31d99f5d80800000000000000
+      internalID: -8259714067573693661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_41
+      name: morgan_41
       rect:
         serializedVersion: 2
         x: 256
@@ -1212,21 +1212,21 @@ TextureImporter:
         width: 57
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ecef4dd03c3729c0800000000000000
-      internalID: -3952123967425221401
+      spriteID: 8b546a567072be1b0800000000000000
+      internalID: -5626360396745652808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_42
+      name: morgan_42
       rect:
         serializedVersion: 2
         x: 330
@@ -1234,21 +1234,21 @@ TextureImporter:
         width: 57
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 982d8522374889100800000000000000
-      internalID: 114987420530299529
+      spriteID: 330d589dd462cfdb0800000000000000
+      internalID: -4756884990606323661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_43
+      name: morgan_43
       rect:
         serializedVersion: 2
         x: 393
@@ -1256,21 +1256,21 @@ TextureImporter:
         width: 57
         height: 53
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b75a104a794f7630800000000000000
-      internalID: 3926938189500667824
+      spriteID: 52a134ea268ece3e0800000000000000
+      internalID: -2022986622068123099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_44
+      name: morgan_44
       rect:
         serializedVersion: 2
         x: 469
@@ -1278,21 +1278,21 @@ TextureImporter:
         width: 37
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fb6ccc2f27b40b40800000000000000
-      internalID: 5405646865994378226
+      spriteID: 0192e54aabdbef750800000000000000
+      internalID: 6340713934703438096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_45
+      name: morgan_45
       rect:
         serializedVersion: 2
         x: 518
@@ -1300,21 +1300,21 @@ TextureImporter:
         width: 36
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74107dfdfeaaf2ab0800000000000000
-      internalID: -5030614311520239289
+      spriteID: 417fcb3690203da30800000000000000
+      internalID: 4238733913637058324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_46
+      name: morgan_46
       rect:
         serializedVersion: 2
         x: 2
@@ -1322,21 +1322,21 @@ TextureImporter:
         width: 41
         height: 61
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b91ad2bfa14fba110800000000000000
-      internalID: 1273379716382695835
+      spriteID: 9345060bdd7dd3b30800000000000000
+      internalID: 4268805368963945529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_47
+      name: morgan_47
       rect:
         serializedVersion: 2
         x: 53
@@ -1344,21 +1344,21 @@ TextureImporter:
         width: 39
         height: 60
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0c0330bd7b657b10800000000000000
-      internalID: 1978605798870420492
+      spriteID: 37b579313ac50bda0800000000000000
+      internalID: -5931138853768832141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_48
+      name: morgan_48
       rect:
         serializedVersion: 2
         x: 97
@@ -1366,21 +1366,21 @@ TextureImporter:
         width: 41
         height: 70
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 959586908b2c1afa0800000000000000
-      internalID: -5791133550134142631
+      spriteID: 0639e502fe3d661d0800000000000000
+      internalID: -3357763448164412576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_49
+      name: morgan_49
       rect:
         serializedVersion: 2
         x: 139
@@ -1388,21 +1388,21 @@ TextureImporter:
         width: 38
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83f77adf6f61170c0800000000000000
-      internalID: -4579854095985705160
+      spriteID: 47c8cee689cb70be0800000000000000
+      internalID: -1511031787077464972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_50
+      name: morgan_50
       rect:
         serializedVersion: 2
         x: 182
@@ -1410,21 +1410,21 @@ TextureImporter:
         width: 43
         height: 85
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdea17c4e41ca1430800000000000000
-      internalID: 3754525781400858332
+      spriteID: c1227299a1d6d1e80800000000000000
+      internalID: -8206282984993119716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_51
+      name: morgan_51
       rect:
         serializedVersion: 2
         x: 228
@@ -1432,21 +1432,21 @@ TextureImporter:
         width: 61
         height: 68
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ade4b8b8d37bdb7b0800000000000000
-      internalID: -5206804119208374566
+      spriteID: 8743c18a5e4176b90800000000000000
+      internalID: -7248802098629036936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_52
+      name: morgan_52
       rect:
         serializedVersion: 2
         x: 364
@@ -1454,21 +1454,21 @@ TextureImporter:
         width: 166
         height: 56
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28273d70954acfc50800000000000000
-      internalID: 6700411047910797954
+      spriteID: c9de36763f74a04c0800000000000000
+      internalID: -4320561781771342436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_53
+      name: morgan_53
       rect:
         serializedVersion: 2
         x: 4
@@ -1476,21 +1476,21 @@ TextureImporter:
         width: 40
         height: 67
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb9dce6b4afb8bc80800000000000000
-      internalID: -8306678798520362562
+      spriteID: 890b6995160fe6870800000000000000
+      internalID: 8678137832895066264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_54
+      name: morgan_54
       rect:
         serializedVersion: 2
         x: 54
@@ -1498,21 +1498,21 @@ TextureImporter:
         width: 44
         height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d7fbc54d373e880800000000000000
-      internalID: -8582889108911719139
+      spriteID: dc271ebac6adb6990800000000000000
+      internalID: -7391574203123535155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_55
+      name: morgan_55
       rect:
         serializedVersion: 2
         x: 108
@@ -1520,21 +1520,21 @@ TextureImporter:
         width: 52
         height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ac540c40823e6f90800000000000000
-      internalID: -6958568847628280669
+      spriteID: 5d75dfdcd472fe480800000000000000
+      internalID: -8867825926147319851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_56
+      name: morgan_56
       rect:
         serializedVersion: 2
         x: 165
@@ -1542,21 +1542,21 @@ TextureImporter:
         width: 62
         height: 68
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef8b59f1edbb1f9e0800000000000000
-      internalID: -1589282630798034690
+      spriteID: 5e71fa4686b39af10800000000000000
+      internalID: 2281420005791700965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_57
+      name: morgan_57
       rect:
         serializedVersion: 2
         x: 241
@@ -1564,21 +1564,21 @@ TextureImporter:
         width: 65
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87f9c9d71a900e7b0800000000000000
-      internalID: -5197143380783751304
+      spriteID: 4acf0da3bb64a29c0800000000000000
+      internalID: -3951267953104585564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_58
+      name: morgan_58
       rect:
         serializedVersion: 2
         x: 313
@@ -1586,21 +1586,21 @@ TextureImporter:
         width: 55
         height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: abfd1f650100ef530800000000000000
-      internalID: 3890547198272855994
+      spriteID: 2f0fe0f8c7b5cfa70800000000000000
+      internalID: 8862058757292486898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_59
+      name: morgan_59
       rect:
         serializedVersion: 2
         x: 4
@@ -1608,21 +1608,21 @@ TextureImporter:
         width: 78
         height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8efb72c874cab27e0800000000000000
-      internalID: -1789147003655569432
+      spriteID: 48d33eed494dda0e0800000000000000
+      internalID: -2256914102383067772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_60
+      name: morgan_60
       rect:
         serializedVersion: 2
         x: 92
@@ -1630,21 +1630,21 @@ TextureImporter:
         width: 78
         height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c272cfcbc0f3c5020800000000000000
-      internalID: 2331808031013873452
+      spriteID: da54978bb31b0dce0800000000000000
+      internalID: -1382410215546600019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_61
+      name: morgan_61
       rect:
         serializedVersion: 2
         x: 181
@@ -1652,21 +1652,21 @@ TextureImporter:
         width: 74
         height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1f922d0ee2841b10800000000000000
-      internalID: 1951328497492467483
+      spriteID: 53be2ca18096017f0800000000000000
+      internalID: -643899263184344267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_62
+      name: morgan_62
       rect:
         serializedVersion: 2
         x: 267
@@ -1674,21 +1674,21 @@ TextureImporter:
         width: 57
         height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dc8cfd08b1382c50800000000000000
-      internalID: 6640612317136194770
+      spriteID: f5785d97eca0b8550800000000000000
+      internalID: 6164032396910233439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 15779_63
+      name: morgan_63
       rect:
         serializedVersion: 2
         x: 328
@@ -1696,15 +1696,15 @@ TextureImporter:
         width: 59
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fbaf365bb93adefc0800000000000000
-      internalID: -3463932649219556673
+      spriteID: ef45e5f35a60ea5c0800000000000000
+      internalID: -4202414095487576834
       vertices: []
       indices: 
       edges: []
@@ -1713,7 +1713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fac91ace8729006408dc690e16171bad
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1722,71 +1722,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      15779_0: 5494565079309419126
-      15779_1: -4809661528326437193
-      15779_10: -2471635992006623902
-      15779_11: 692051005589061874
-      15779_12: 4729291208419221987
-      15779_13: 6443922971027206106
-      15779_14: 8273488430962875363
-      15779_15: -8413589974924394813
-      15779_16: 4447314243306914961
-      15779_17: 3363316825570705888
-      15779_18: -5551128609526960489
-      15779_19: -2167679370067768269
-      15779_2: 5285881235684694668
-      15779_20: 6303065326742001683
-      15779_21: -7670438779377927021
-      15779_22: -6523727177951498235
-      15779_23: -2092586748562075403
-      15779_24: 191375164730155991
-      15779_25: -6403217383334003069
-      15779_26: -3001255542807873472
-      15779_27: 8197702165744451577
-      15779_28: -7299716048396170855
-      15779_29: -886372368773255369
-      15779_3: 5004105517579478053
-      15779_30: -5879733044895663356
-      15779_31: 673219805830816326
-      15779_32: -6229465519762317566
-      15779_33: 2814296109361970411
-      15779_34: -4256048344941823644
-      15779_35: 6622326149117191693
-      15779_36: 3379232856612107679
-      15779_37: 7992294157623699282
-      15779_38: -4014580113634145908
-      15779_39: -4986433288244784947
-      15779_4: 1033264223432336600
-      15779_40: -7596168937226588714
-      15779_41: -3952123967425221401
-      15779_42: 114987420530299529
-      15779_43: 3926938189500667824
-      15779_44: 5405646865994378226
-      15779_45: -5030614311520239289
-      15779_46: 1273379716382695835
-      15779_47: 1978605798870420492
-      15779_48: -5791133550134142631
-      15779_49: -4579854095985705160
-      15779_5: 2874864581272180129
-      15779_50: 3754525781400858332
-      15779_51: -5206804119208374566
-      15779_52: 6700411047910797954
-      15779_53: -8306678798520362562
-      15779_54: -8582889108911719139
-      15779_55: -6958568847628280669
-      15779_56: -1589282630798034690
-      15779_57: -5197143380783751304
-      15779_58: 3890547198272855994
-      15779_59: -1789147003655569432
-      15779_6: -294587662211086705
-      15779_60: 2331808031013873452
-      15779_61: 1951328497492467483
-      15779_62: 6640612317136194770
-      15779_63: -3463932649219556673
-      15779_7: 5541493074981382923
-      15779_8: 1722506074536376729
-      15779_9: 4072639194784705328
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

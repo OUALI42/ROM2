@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      luffy-bien-manger 1_0: 6561812194136334540
+      luffy-bien-manger 1_1: 1494407430194844102
+      luffy-bien-manger 1_2: 6322882239418315412
+      luffy-bien-manger 1_3: -4029489770771073761
+      luffy-bien-manger 1_4: -6002393687285785048
+      luffy-bien-manger 1_5: -1085586459649297267
+      luffy-bien-manger 1_6: -2676325137179211171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

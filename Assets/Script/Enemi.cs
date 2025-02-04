@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class enemi : MonoBehaviour
+public class Enemi : MonoBehaviour
 {
     public float speed;
     public Transform[] waypoints;
