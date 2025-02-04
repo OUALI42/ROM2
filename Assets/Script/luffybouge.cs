@@ -77,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
             Die(); 
         }
     }
+    
 
     void Die()
     {
