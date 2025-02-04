@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: c0cc28f7352461b46bc284da18cbc427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -419222559923416185
+    second: samuel-maciel-portalanimation-1_0
+  - first:
+      213: 4761648824998794533
+    second: samuel-maciel-portalanimation-1_1
+  - first:
+      213: 2840253238346801697
+    second: samuel-maciel-portalanimation-1_2
+  - first:
+      213: -298613345534758137
+    second: samuel-maciel-portalanimation-1_3
+  - first:
+      213: 5822654253437523445
+    second: samuel-maciel-portalanimation-1_4
+  - first:
+      213: 2853843534248374943
+    second: samuel-maciel-portalanimation-1_5
+  - first:
+      213: 8789116207270572612
+    second: samuel-maciel-portalanimation-1_6
+  - first:
+      213: 2930774358909607930
+    second: samuel-maciel-portalanimation-1_7
+  - first:
+      213: -7905152143481951384
+    second: samuel-maciel-portalanimation-1_8
+  - first:
+      213: 2094601663249348179
+    second: samuel-maciel-portalanimation-1_9
+  - first:
+      213: -110523418739743398
+    second: samuel-maciel-portalanimation-1_10
+  - first:
+      213: -3401693150363609567
+    second: samuel-maciel-portalanimation-1_11
+  - first:
+      213: -959149195473598666
+    second: samuel-maciel-portalanimation-1_12
+  - first:
+      213: 5084444810164905884
+    second: samuel-maciel-portalanimation-1_13
+  - first:
+      213: -6960581329820313124
+    second: samuel-maciel-portalanimation-1_14
+  - first:
+      213: -3726264095878906750
+    second: samuel-maciel-portalanimation-1_15
+  - first:
+      213: -2487464256641289717
+    second: samuel-maciel-portalanimation-1_16
+  - first:
+      213: -295052015072005290
+    second: samuel-maciel-portalanimation-1_17
+  - first:
+      213: -3408197781440779046
+    second: samuel-maciel-portalanimation-1_18
+  - first:
+      213: 4250034954938100728
+    second: samuel-maciel-portalanimation-1_19
+  - first:
+      213: 4982122122166142295
+    second: samuel-maciel-portalanimation-1_20
+  - first:
+      213: 3998708069492851612
+    second: samuel-maciel-portalanimation-1_21
+  - first:
+      213: 714295668304933661
+    second: samuel-maciel-portalanimation-1_22
+  - first:
+      213: -8024820661475947109
+    second: samuel-maciel-portalanimation-1_23
+  - first:
+      213: 5489723276258793788
+    second: samuel-maciel-portalanimation-1_24
+  - first:
+      213: -8375262606313337454
+    second: samuel-maciel-portalanimation-1_25
+  - first:
+      213: 1140488470807381451
+    second: samuel-maciel-portalanimation-1_26
+  - first:
+      213: -6524179797136683143
+    second: samuel-maciel-portalanimation-1_27
+  - first:
+      213: -8658541072970848888
+    second: samuel-maciel-portalanimation-1_28
+  - first:
+      213: -8681681866561579029
+    second: samuel-maciel-portalanimation-1_29
+  - first:
+      213: -1533615826855705896
+    second: samuel-maciel-portalanimation-1_30
+  - first:
+      213: -2301408462412004950
+    second: samuel-maciel-portalanimation-1_31
+  - first:
+      213: -3777167549361024689
+    second: samuel-maciel-portalanimation-1_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 497
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835fe98d4f9e2af0800000000000000
+      internalID: -419222559923416185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259537c066c41240800000000000000
+      internalID: 4761648824998794533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 480
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12260df954b9a6720800000000000000
+      internalID: 2840253238346801697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703b53e8ebc1bdbf0800000000000000
+      internalID: -298613345534758137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 453
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59f0a91393ec050800000000000000
+      internalID: 5822654253437523445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 139
+        width: 215
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f927b67f293ea9720800000000000000
+      internalID: 2853843534248374943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442bdffaf9639f970800000000000000
+      internalID: 8789116207270572612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff51a360c33ca820800000000000000
+      internalID: 2930774358909607930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b275042024b4290800000000000000
+      internalID: -7905152143481951384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567be37d15811d10800000000000000
+      internalID: 2094601663249348179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e7a64987577ef0800000000000000
+      internalID: -110523418739743398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 356
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12692b94a12cac0d0800000000000000
+      internalID: -3401693150363609567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c13573ea60b2f0800000000000000
+      internalID: -959149195473598666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9725f5cd939f8640800000000000000
+      internalID: 5084444810164905884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 316
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd918d5c82c076f90800000000000000
+      internalID: -6960581329820313124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c78d12c86a94cc0800000000000000
+      internalID: -3726264095878906750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b023a6f0070ca7dd0800000000000000
+      internalID: -2487464256641289717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653be5b61c3c7ebf0800000000000000
+      internalID: -295052015072005290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 276
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca2f8dc26a3b0d0800000000000000
+      internalID: -3408197781440779046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb241c16482bfa30800000000000000
+      internalID: 4250034954938100728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75504577cad042540800000000000000
+      internalID: 4982122122166142295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930c9a9dc34e7730800000000000000
+      internalID: 3998708069492851612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 223
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137ae53020b9e900800000000000000
+      internalID: 714295668304933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dc28e202c12a090800000000000000
+      internalID: -8024820661475947109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 170
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395994eb3a6f2c40800000000000000
+      internalID: 5489723276258793788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dc41a980715cb80800000000000000
+      internalID: -8375262606313337454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc507ecb834d3df00800000000000000
+      internalID: 1140488470807381451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f43e48a057575a0800000000000000
+      internalID: -6524179797136683143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8856170e4cea6d780800000000000000
+      internalID: -8658541072970848888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be795a20758748780800000000000000
+      internalID: -8681681866561579029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2495ae78087bae0800000000000000
+      internalID: -1533615826855705896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 125
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1cad26231cf00e0800000000000000
+      internalID: -2301408462412004950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samuel-maciel-portalanimation-1_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41143b402ec49bc0800000000000000
+      internalID: -3777167549361024689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
