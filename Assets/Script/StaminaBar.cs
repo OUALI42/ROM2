@@ -14,7 +14,7 @@ public class StaminaBar : MonoBehaviour
     public void SetStamina(int stamina)
 {
     slider.value = stamina; // Assure que le slider est bien mis à jour
-    Debug.Log($"Endurance mise à jour sur la barre : {stamina}");
+    // Debug.Log($"Endurance mise à jour sur la barre : {stamina}");
 }
 
 }

@@ -1,4 +1,3 @@
-
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
@@ -59,7 +58,7 @@ public class PlayerMovement : MonoBehaviour
             ls.x *= -1f;
             transform.localScale = ls;
 
-            Debug.Log("Direction inversée : " + (isFacingRight ? "Droite" : "Gauche"));
+            // Debug.Log("Direction inversée : " + (isFacingRight ? "Droite" : "Gauche"));
         }
     }
 
@@ -72,10 +71,11 @@ public class PlayerMovement : MonoBehaviour
             return; 
 
         
-        if (collision.CompareTag("Danger"))
+        if (collision.CompareTag("Danger") && !FindObjectOfType<LuffyCombatController>().isGuarding)
         {
-            Die(); 
+            Die();
         }
+
     }
     
 
@@ -97,7 +97,7 @@ public class PlayerMovement : MonoBehaviour
         GetComponent<Collider2D>().enabled = false;
 
         
-        Invoke("RestartLevel", 5f);
+        Invoke("RestartLevel", 2f);
     }
 
     void RestartLevel()
@@ -106,6 +106,37 @@ public class PlayerMovement : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

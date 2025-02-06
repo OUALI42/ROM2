@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ROM2.sln"
+    "dotnet.defaultSolution": "ROM3.sln"
 }

@@ -1,45 +1,8 @@
-// using UnityEngine;
-
-// public class MorganHealth : MonoBehaviour
-// {
-//     public int maxHealth = 100;
-//     public int currentHealth;
-
-//     public HealthBar healthBar;
-
-//     void Start()
-//     {
-//         currentHealth = maxHealth;
-//         healthBar.SetMaxHealth(maxHealth);
-//     }
-
-//     public void TakeDamage(int damage)
-//     {
-//         currentHealth -= damage;
-//         healthBar.SetHealth(currentHealth);
-
-//         if (currentHealth <= 0)
-//         {
-//             Die();
-//         }
-//     }
-
-//     private void Die()
-//     {
-//         Debug.Log("Morgan est mort !");
-        
-//         // Désactive le mob ou joue une animation de mort
-//         Destroy(gameObject); // Détruit l'objet de jeu
-//     }
-// }
-
-
-
 using UnityEngine;
 
 public class MorganHealth : MonoBehaviour
 {
-    public int maxHealth = 200;
+    public int maxHealth = 100;
     public int currentHealth;
 
     public HealthBar healthBar;

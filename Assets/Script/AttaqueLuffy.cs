@@ -1,5 +1,3 @@
-
-
 // using UnityEngine;
 
 
@@ -24,8 +22,14 @@
 //     public int ultimateAttackDamage = 50;
 
 //     [Header("Stamina")]
-//     public int  specialAttackStaminaCost = 30; // Coût en endurance pour l'attaque spéciale
+//     public int  specialAttackStaminaCost = 33 ; // Coût en endurance pour l'attaque spéciale
 //     private LuffyStamina stamina; // Référence au script d'endurance
+
+//     public bool isGuarding = false;
+//     private bool canGuard = true;
+//     public float guardDuration = 1.5f; // Durée de la garde
+//     public float guardCooldown = 2f; // Temps de recharge avant de pouvoir bloquer à nouveau
+
     
 
 //     void Start()
@@ -38,36 +42,39 @@
 //     {
 //         HandleCombat();
 //     }
+//     public void TriggerAttack(int damage)
+//     {
+//         PerformAttack(damage);
+//     }
+
 
 //     private void HandleCombat()
 //     {
-//         if (Input.GetKeyDown(guardKey))
+//         if (Input.GetKeyDown(guardKey) && canGuard)
 //         {
-//             SetCombatState("isGuarding");
+//             StartGuarding();
 //         }
+
 
 //         if (Input.GetKeyDown(autoAttackKey))
 //         {
 //             SetCombatState("isAutoAttacking");
-//             PerformAttack(autoAttackDamage);
+            
 //         }
 
 //         if (Input.GetKeyDown(specialAttackKey) && stamina.currentStamina >= specialAttackStaminaCost)
 //         {
 //             SetCombatState("isSpecialAttacking");
-//             stamina.UseStamina(specialAttackStaminaCost); // Décrément de l'endurance
-//             PerformAttack(specialAttackDamage);
-//         }
-//         else if (Input.GetKeyDown(specialAttackKey) && stamina.currentStamina < specialAttackStaminaCost)
-//         {
-//             Debug.Log("Pas assez d'endurance pour cette attaque !");
+//             stamina.UseStamina(specialAttackStaminaCost);
+            
 //         }
 
 //         if (Input.GetKeyDown(ultimateAttackKey))
 //         {
 //             SetCombatState("isUltimateAttacking");
-//             PerformAttack(ultimateAttackDamage);
+            
 //         }
+
 //     }
 
 //     private void SetCombatState(string state)
@@ -105,7 +112,31 @@
 //         Gizmos.color = Color.red;
 //         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
 //     }
+
+//     void StartGuarding()
+//     {
+//         isGuarding = true;
+//         canGuard = false;
+//         animator.SetBool("isGuarding", true);
+
+//         Invoke("StopGuarding", guardDuration);
+//         Invoke("ResetGuardCooldown", guardCooldown);
+//     }
+
+//     void StopGuarding()
+//     {
+//         isGuarding = false;
+//         animator.SetBool("isGuarding", false);
+//     }
+
+//     void ResetGuardCooldown()
+//     {
+//         canGuard = true;
+//     }
+
+
 // }
+
 
 
 using UnityEngine;
@@ -132,8 +163,14 @@ public class LuffyCombatController : MonoBehaviour
     public int ultimateAttackDamage = 50;
 
     [Header("Stamina")]
-    public int  specialAttackStaminaCost = 30; // Coût en endurance pour l'attaque spéciale
+    public int  specialAttackStaminaCost = 33 ; // Coût en endurance pour l'attaque spéciale
     private LuffyStamina stamina; // Référence au script d'endurance
+
+    public bool isGuarding = false;
+    private bool canGuard = true;
+    public float guardDuration = 1.5f; // Durée de la garde
+    public float guardCooldown = 2f; // Temps de recharge avant de pouvoir bloquer à nouveau
+
     
 
     void Start()
@@ -146,6 +183,8 @@ public class LuffyCombatController : MonoBehaviour
     {
         HandleCombat();
     }
+    
+
     public void TriggerAttack(int damage)
     {
         PerformAttack(damage);
@@ -154,10 +193,11 @@ public class LuffyCombatController : MonoBehaviour
 
     private void HandleCombat()
     {
-        if (Input.GetKeyDown(guardKey))
+        if (Input.GetKeyDown(guardKey) && canGuard)
         {
-            SetCombatState("isGuarding");
+            StartGuarding();
         }
+
 
         if (Input.GetKeyDown(autoAttackKey))
         {
@@ -197,15 +237,24 @@ public class LuffyCombatController : MonoBehaviour
         animator.SetBool(state, false);
     }
 
+     // Ajoute cette variable pour définir les ennemis que Luffy peut toucher
+
     private void PerformAttack(int damage)
     {
+        // Vérifie les ennemis dans la zone de l'attaque en utilisant le LayerMask
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<MorganHealth>()?.TakeDamage(damage);
+            // Vérifie que l'objet touché est bien de type `MorganHealth` (Morgan)
+            MorganHealth enemyHealth = enemy.GetComponent<MorganHealth>();
+            if (enemyHealth != null)
+            {
+                enemyHealth.TakeDamage(damage);
+            }
         }
     }
+
 
     void OnDrawGizmosSelected()
     {
@@ -215,4 +264,42 @@ public class LuffyCombatController : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
+
+    void StartGuarding()
+    {
+        isGuarding = true;
+        canGuard = false;
+        animator.SetBool("isGuarding", true);
+
+        Invoke("StopGuarding", guardDuration);
+        Invoke("ResetGuardCooldown", guardCooldown);
+    }
+
+    void StopGuarding()
+    {
+        isGuarding = false;
+        animator.SetBool("isGuarding", false);
+    }
+
+    void ResetGuardCooldown()
+    {
+        canGuard = true;
+    }
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

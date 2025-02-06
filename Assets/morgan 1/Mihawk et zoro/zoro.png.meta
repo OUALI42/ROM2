@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zoro_0: 1610986430838935688
+      zoro_1: 2717315571050582532
+      zoro_2: 2796647212185503476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

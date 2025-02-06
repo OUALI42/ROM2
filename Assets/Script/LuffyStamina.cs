@@ -1,26 +1,3 @@
-// using UnityEngine;
-
-// public class LuffyStamina : MonoBehaviour
-// {
-//     public int maxStamina = 100;
-//     public int currentStamina;
-
-//     public StaminaBar staminaBar;
-//     void Start()
-//     {
-//         currentStamina = maxStamina;
-//         staminaBar.SetMaxStamina(maxStamina);
-
-//     }
-
-//     // Update is called once per frame
-//     void Update()
-//     {
-        
-//     }
-// }
-
-
 using UnityEngine;
 
 public class LuffyStamina : MonoBehaviour
