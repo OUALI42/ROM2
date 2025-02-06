@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     Animator animator;
     bool isDead = false; 
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpPower);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             isGrounded = false;
             animator.SetBool("isJumping", !isGrounded);
         }
@@ -44,9 +45,9 @@ public class PlayerMovement : MonoBehaviour
         if (isDead)
             return; 
 
-        rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
-        animator.SetFloat("xVelocity", Math.Abs(rb.velocity.x));
-        animator.SetFloat("yVelocity", rb.velocity.y);
+        rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
+        animator.SetFloat("xVelocity", Math.Abs(rb.linearVelocity.x));
+        animator.SetFloat("yVelocity", rb.linearVelocity.y);
     }
 
     void FlipSprite()
@@ -90,7 +91,7 @@ public class PlayerMovement : MonoBehaviour
         animator.SetTrigger("Death");
 
         
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         rb.isKinematic = true; 
 
         
