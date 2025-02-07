@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5fcfbd1776690fa43a61deca44901649
+guid: e8f5e97c4269f2b4288b9241688d1db0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9190829709442370778
-    second: luffy vs naruto_0
+      213: 7204474824536624342
+    second: baratier_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: luffy vs naruto_0
+      name: baratier_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 736
-        height: 736
+        x: 33
+        y: 41
+        width: 574
+        height: 323
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 623b499031d937080800000000000000
-      internalID: -9190829709442370778
+      spriteID: 6dc00c59eaf6bf360800000000000000
+      internalID: 7204474824536624342
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      luffy vs naruto_0: -9190829709442370778
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

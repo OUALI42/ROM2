@@ -4,12 +4,14 @@ public class LuffyStamina : MonoBehaviour
 {
     
     public int maxStamina = 100;
-    public int currentStamina;
+    public float currentStamina;
+    public float regen = 0.1f;
+
 
     public StaminaBar staminaBar;
 
     [Header("Stamina Regeneration")]
-    public int staminaRegenRate = 25; // Augmenté pour accélérer la régénération (valeur à ajuster).
+    public float staminaRegenRate = 25f; // Augmenté pour accélérer la régénération (valeur à ajuster).
     public float regenMultiplier = 2f; // Permet d'amplifier la régénération.
     public float regenDelay = 0.4f; // Temps avant de commencer la régénération.
 
@@ -40,20 +42,17 @@ public class LuffyStamina : MonoBehaviour
     }
 
     private void RegenerateStamina()
-{
-    // Attend un délai avant de commencer la régénération
-    if (regenTimer >= 0 && regenTimer >= regenDelay)
-{
-   currentStamina += Mathf.FloorToInt(staminaRegenRate * regenMultiplier * Time.deltaTime);
-    if (currentStamina > maxStamina)
     {
-        currentStamina = maxStamina;
-    }
-    staminaBar.SetStamina(currentStamina);
-    }
-    regenTimer += Time.deltaTime;
+        if(currentStamina<= maxStamina){
+            currentStamina += regen;
+            staminaBar.SetStamina(currentStamina);
+        }
+        if(currentStamina>maxStamina){
+            currentStamina = maxStamina;
+            staminaBar.SetStamina(currentStamina);
 
-}
+        }
+    }
 
 }
 
