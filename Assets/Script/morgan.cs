@@ -16,7 +16,10 @@ public class morgan : MonoBehaviour
 
     public GameObject attackZone1; // Zone de l'attaque 1
     public GameObject attackZone2; // Zone de l'attaque 2
-
+    public AudioClip attackSound1; // Effet sonore de l'attaque 1
+    public AudioClip attackSound2; // Effet sonore de l'attaque 2
+    public AudioClip talkSound; // Effet sonore de la parole
+    private AudioSource audioSource;
 
     private Transform target;
     private int destPoint = 0;
@@ -31,7 +34,6 @@ public class morgan : MonoBehaviour
     public float attackCooldown = 5f;
     public GameObject healthBar; // Référence à la barre de vie
 
-
     void Start()
     {
         target = waypoints[0];
@@ -39,6 +41,7 @@ public class morgan : MonoBehaviour
         attackZone1.SetActive(false);
         attackZone2.SetActive(false);
         healthBar.SetActive(false);
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -95,10 +98,10 @@ public class morgan : MonoBehaviour
                 playerInRange = true;
                 animator.SetTrigger("parle");
                 StartDialogue();
+                audioSource.PlayOneShot(talkSound);
             }
         }
     }
-
 
     private void OnTriggerExit2D(Collider2D other)
     {
@@ -109,6 +112,28 @@ public class morgan : MonoBehaviour
         }
     }
 
+    // Fonction pour activer la zone d'attaque 1
+    public void ActivateAttackZone1()
+    {
+        attackZone1.SetActive(true);
+        StartCoroutine(DeactivateAttackZone(attackZone1, attack1Duration));
+        PlayAttackSound(1);
+    }
+
+    // Fonction pour activer la zone d'attaque 2
+    public void ActivateAttackZone2()
+    {
+        attackZone2.SetActive(true);
+        StartCoroutine(DeactivateAttackZone(attackZone2, attack2Duration));
+        PlayAttackSound(2);
+    }
+
+    IEnumerator DeactivateAttackZone(GameObject attackZone, float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        attackZone.SetActive(false);
+    }
+
     IEnumerator AttackCycle()
     {
         isAttacking = true; // Empêche le boss de bouger une fois qu'il attaque
@@ -117,20 +142,25 @@ public class morgan : MonoBehaviour
         {
             // Attaque 1
             animator.SetTrigger("Attack1");
-            attackZone1.SetActive(true);
-            yield return new WaitForSeconds(attack1Duration);
-            attackZone1.SetActive(false);
 
-            yield return new WaitForSeconds(attackCooldown); // Pause
+            yield return new WaitForSeconds(attack1Duration + attackCooldown); // Pause
 
             // Attaque 2
             animator.SetTrigger("Attack2");
-            attackZone2.SetActive(true);
-            yield return new WaitForSeconds(attack2Duration);
-            attackZone2.SetActive(false);
 
-            yield return new WaitForSeconds(attackCooldown); // Pause avant de recommencer
+            yield return new WaitForSeconds(attack2Duration + attackCooldown); // Pause avant de recommencer
         }
     }
-    
+
+    void PlayAttackSound(int attackNumber)
+    {
+        if (attackNumber == 1 && attackSound1 != null)
+        {
+            audioSource.PlayOneShot(attackSound1);
+        }
+        else if (attackNumber == 2 && attackSound2 != null)
+        {
+            audioSource.PlayOneShot(attackSound2);
+        }
+    }
 }

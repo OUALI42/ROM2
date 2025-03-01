@@ -1126,7 +1126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13da2fe370dc02c41889724d9cab9391, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: zone1
+  levelToLoad: Didacticiel V.Final
   settingsWindow: {fileID: 1107552312}
 --- !u!114 &414024342
 MonoBehaviour:

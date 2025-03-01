@@ -1,9 +1,8 @@
 using UnityEngine;
-
-
 public class LuffyCombatController : MonoBehaviour
 {
-    
+
+    private PlayerMovement mouvement;
     private Animator animator;
 
     [Header("Input Keys")]
@@ -30,12 +29,33 @@ public class LuffyCombatController : MonoBehaviour
     public float guardDuration = 1.5f; // Durée de la garde
     public float guardCooldown = 2f; // Temps de recharge avant de pouvoir bloquer à nouveau
 
-    
+    [Header("SoundEffect")]
+    public AudioClip autoAttackSound; 
+    public AudioClip specialAttackSound; 
+    public AudioClip ultimateAttackSound;
+    private AudioSource audioSource;
+
+    [Header("cinématique ultimeAttack")]
+    public Canvas cinematicCanvas;  // Canvas pour la cinématique
+    public float cinematicDuration = 3f;  // Durée de la cinématique
+    private bool isInCinematic = false;  // Indicateur pour savoir si la cinématique est en cours
+
+    [Header(" Haki")]
+    [SerializeField] private GameObject Hakiprefab; // Le prefab du slash
+    [SerializeField] private Transform Hakipoint; // L'endroit où le slash apparaît
+    [SerializeField] private float time_destruct;
+
+
+
+
 
     void Start()
     {
+        mouvement = GetComponent<PlayerMovement>();
         animator = GetComponent<Animator>();
-        stamina = GetComponent<LuffyStamina>(); // On récupère le script d'endurance sur le même GameObject
+        stamina = GetComponent<LuffyStamina>(); 
+        audioSource = GetComponent<AudioSource>();
+        cinematicCanvas.gameObject.SetActive(false);
     }
 
     void Update()
@@ -60,24 +80,58 @@ public class LuffyCombatController : MonoBehaviour
 
         if (Input.GetKeyDown(autoAttackKey))
         {
-            SetCombatState("isAutoAttacking");
-            
+            if (!mouvement.isGrounded){
+                SetCombatState("isAutoAttacking");
+                animator.SetBool("isJumping", false); //  Désactive l'animation de saut
+            }else{
+                SetCombatState("isAutoAttacking");
+            }
+            PlaySound(autoAttackSound); 
         }
 
         if (Input.GetKeyDown(specialAttackKey) && stamina.currentStamina >= specialAttackStaminaCost)
         {
+            mouvement.isAttacking = true;
             SetCombatState("isSpecialAttacking");
             stamina.UseStamina(specialAttackStaminaCost);
+            PlaySound(specialAttackSound);
             
         }
-
-        if (Input.GetKeyDown(ultimateAttackKey))
+        if (Input.GetKeyDown(ultimateAttackKey) && !isInCinematic)
         {
-            SetCombatState("isUltimateAttacking");
-            
+            StartCoroutine(PlayCinematicAndUltimateAttack());
         }
 
     }
+    private System.Collections.IEnumerator PlayCinematicAndUltimateAttack()
+    {
+        isInCinematic = true;
+
+        // Affiche le canvas de la cinématique
+        cinematicCanvas.gameObject.SetActive(true);
+
+        // Gèle le jeu (arrête le temps)
+        Time.timeScale = 0f;
+
+        // Attends la durée de la cinématique
+        yield return new WaitForSecondsRealtime(cinematicDuration);  // WaitForSecondsRealtime permet de garder un temps réel, même si Time.timeScale est à 0
+
+        // Cache le canvas de la cinématique
+        cinematicCanvas.gameObject.SetActive(false);
+
+        // Redémarre le temps du jeu
+        Time.timeScale = 1f;
+
+        // Lancer l'attaque ultime
+        SetCombatState("isUltimateAttacking");
+        PlaySound(ultimateAttackSound);
+
+        // Attends que l'attaque se termine avant de réactiver les autres comportements
+        yield return new WaitForSeconds(1f); // 1 seconde par exemple, tu peux ajuster la durée de l'attaque
+
+        isInCinematic = false;
+    }
+
 
     private void SetCombatState(string state)
     {
@@ -94,6 +148,7 @@ public class LuffyCombatController : MonoBehaviour
     {
         yield return new WaitForSeconds(delay);
         animator.SetBool(state, false);
+        mouvement.isAttacking = false;
     }
 
      // Ajoute cette variable pour définir les ennemis que Luffy peut toucher
@@ -144,9 +199,46 @@ public class LuffyCombatController : MonoBehaviour
     {
         canGuard = true;
     }
+       public void PlaySound(AudioClip clip)
+    {
+        if (audioSource != null && clip != null)
+        {
+            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+        }
+    }
+
+    void SpawnSlashEffect()
+    {
+        if (Hakiprefab != null && Hakipoint != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Hakiprefab, Hakipoint.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct); // Détruire après 0.5 secondes
+        }
+    }
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
