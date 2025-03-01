@@ -37,6 +37,7 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             isGrounded = false;
             animator.SetBool("isJumping", !isGrounded);
+            animator.Play("Movement");
         }
     }
 
