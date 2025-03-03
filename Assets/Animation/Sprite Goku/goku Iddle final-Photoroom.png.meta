@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 59c09a259b402964b81f818a798f5c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3468423831780602970
+    second: goku Iddle final-Photoroom_0
+  - first:
+      213: 1800523412467631410
+    second: goku Iddle final-Photoroom_1
+  - first:
+      213: 8304319079202095781
+    second: goku Iddle final-Photoroom_2
+  - first:
+      213: 7236427222044681192
+    second: goku Iddle final-Photoroom_3
+  - first:
+      213: 241328282677206444
+    second: goku Iddle final-Photoroom_4
+  - first:
+      213: -2145681784910656267
+    second: goku Iddle final-Photoroom_5
+  - first:
+      213: 8944185664437714275
+    second: goku Iddle final-Photoroom_6
+  - first:
+      213: -8647473829849585830
+    second: goku Iddle final-Photoroom_7
+  - first:
+      213: -2972920471803106228
+    second: goku Iddle final-Photoroom_8
+  - first:
+      213: 348528149272654627
+    second: goku Iddle final-Photoroom_9
+  - first:
+      213: 2844769488916106962
+    second: goku Iddle final-Photoroom_10
+  - first:
+      213: -5502038990380625734
+    second: goku Iddle final-Photoroom_11
+  - first:
+      213: 4163877192703968331
+    second: goku Iddle final-Photoroom_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5438c73911522030800000000000000
+      internalID: 3468423831780602970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23548e9018ebcf810800000000000000
+      internalID: 1800523412467631410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20751543ede3370800000000000000
+      internalID: 8304319079202095781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3a0fcd734fc6460800000000000000
+      internalID: 7236427222044681192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 13
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadda336bce595300800000000000000
+      internalID: 241328282677206444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 12
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fccf51f8c10932e0800000000000000
+      internalID: -2145681784910656267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 10
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d73f53971202c70800000000000000
+      internalID: 8944185664437714275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 13
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5724573e500ef780800000000000000
+      internalID: -8647473829849585830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 15
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c60b405901eb6d0800000000000000
+      internalID: -2972920471803106228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 13
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fe93518836d400800000000000000
+      internalID: 348528149272654627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 12
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec6b627c6aa7720800000000000000
+      internalID: 2844769488916106962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 12
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0930670b4d4a3b0800000000000000
+      internalID: -5502038990380625734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku Iddle final-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 12
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44887fde3019c930800000000000000
+      internalID: 4163877192703968331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 096765a2e405495419b213aa861422d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goku Iddle final-Photoroom_0: 3468423831780602970
+      goku Iddle final-Photoroom_1: 1800523412467631410
+      goku Iddle final-Photoroom_10: 2844769488916106962
+      goku Iddle final-Photoroom_11: -5502038990380625734
+      goku Iddle final-Photoroom_12: 4163877192703968331
+      goku Iddle final-Photoroom_2: 8304319079202095781
+      goku Iddle final-Photoroom_3: 7236427222044681192
+      goku Iddle final-Photoroom_4: 241328282677206444
+      goku Iddle final-Photoroom_5: -2145681784910656267
+      goku Iddle final-Photoroom_6: 8944185664437714275
+      goku Iddle final-Photoroom_7: -8647473829849585830
+      goku Iddle final-Photoroom_8: -2972920471803106228
+      goku Iddle final-Photoroom_9: 348528149272654627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

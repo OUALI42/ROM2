@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 4ea4bdfca618e0846ae711ea901c64be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2085526661304124788
+    second: Aura ssj1 -Photoroom_0
+  - first:
+      213: 1906685767558788963
+    second: Aura ssj1 -Photoroom_1
+  - first:
+      213: -6783090983853108720
+    second: Aura ssj1 -Photoroom_2
+  - first:
+      213: 8461772979411990550
+    second: Aura ssj1 -Photoroom_3
+  - first:
+      213: -46608737318509612
+    second: Aura ssj1 -Photoroom_4
+  - first:
+      213: 2827617101341485718
+    second: Aura ssj1 -Photoroom_5
+  - first:
+      213: -3152846530636022807
+    second: Aura ssj1 -Photoroom_6
+  - first:
+      213: 2227889501749081275
+    second: Aura ssj1 -Photoroom_7
+  - first:
+      213: 5878747733844205463
+    second: Aura ssj1 -Photoroom_8
+  - first:
+      213: -2742116344404249129
+    second: Aura ssj1 -Photoroom_9
+  - first:
+      213: 5260531682990521
+    second: Aura ssj1 -Photoroom_10
+  - first:
+      213: -9102754422166811557
+    second: Aura ssj1 -Photoroom_11
+  - first:
+      213: -7832832279716824639
+    second: Aura ssj1 -Photoroom_12
+  - first:
+      213: 4363145645346240378
+    second: Aura ssj1 -Photoroom_13
+  - first:
+      213: 7426725967306212848
+    second: Aura ssj1 -Photoroom_14
+  - first:
+      213: 6393894475145812629
+    second: Aura ssj1 -Photoroom_15
+  - first:
+      213: 6778302767250957547
+    second: Aura ssj1 -Photoroom_16
+  - first:
+      213: -7429941127831646127
+    second: Aura ssj1 -Photoroom_17
+  - first:
+      213: -4581984440550395425
+    second: Aura ssj1 -Photoroom_18
+  - first:
+      213: 5079123840554033469
+    second: Aura ssj1 -Photoroom_19
+  - first:
+      213: -545415809961088872
+    second: Aura ssj1 -Photoroom_20
+  - first:
+      213: -8658350298610690625
+    second: Aura ssj1 -Photoroom_21
+  - first:
+      213: 1601642042656288083
+    second: Aura ssj1 -Photoroom_22
+  - first:
+      213: 2648913104389247242
+    second: Aura ssj1 -Photoroom_23
+  - first:
+      213: 6021244608881753382
+    second: Aura ssj1 -Photoroom_24
+  - first:
+      213: 1086608396945289523
+    second: Aura ssj1 -Photoroom_25
+  - first:
+      213: 8076297236075393910
+    second: Aura ssj1 -Photoroom_26
+  - first:
+      213: -6854723184881982247
+    second: Aura ssj1 -Photoroom_27
+  - first:
+      213: 8300466702816788598
+    second: Aura ssj1 -Photoroom_28
+  - first:
+      213: 296113572647404613
+    second: Aura ssj1 -Photoroom_29
+  - first:
+      213: -7833696724598024008
+    second: Aura ssj1 -Photoroom_30
+  - first:
+      213: 7260464018988048401
+    second: Aura ssj1 -Photoroom_31
+  - first:
+      213: 2347437954144405978
+    second: Aura ssj1 -Photoroom_32
+  - first:
+      213: 886003027199845846
+    second: Aura ssj1 -Photoroom_33
+  - first:
+      213: 6154169690945526401
+    second: Aura ssj1 -Photoroom_34
+  - first:
+      213: 657754423075955039
+    second: Aura ssj1 -Photoroom_35
+  - first:
+      213: 7625145098661600809
+    second: Aura ssj1 -Photoroom_36
+  - first:
+      213: -9047224786810660776
+    second: Aura ssj1 -Photoroom_37
+  - first:
+      213: 4497143496858373804
+    second: Aura ssj1 -Photoroom_38
+  - first:
+      213: 1202266229672024093
+    second: Aura ssj1 -Photoroom_39
+  - first:
+      213: -826859979964992795
+    second: Aura ssj1 -Photoroom_40
+  - first:
+      213: 6909014674922885668
+    second: Aura ssj1 -Photoroom_41
+  - first:
+      213: 5074785339497234062
+    second: Aura ssj1 -Photoroom_42
+  - first:
+      213: 8714175437625906458
+    second: Aura ssj1 -Photoroom_43
+  - first:
+      213: 162407295276876502
+    second: Aura ssj1 -Photoroom_44
+  - first:
+      213: 2404862826858797266
+    second: Aura ssj1 -Photoroom_45
+  - first:
+      213: 5830027706717101324
+    second: Aura ssj1 -Photoroom_46
+  - first:
+      213: 7545173894193641067
+    second: Aura ssj1 -Photoroom_47
+  - first:
+      213: 175661030854274311
+    second: Aura ssj1 -Photoroom_48
+  - first:
+      213: -1805027573468404766
+    second: Aura ssj1 -Photoroom_49
+  - first:
+      213: 4278160025748503124
+    second: Aura ssj1 -Photoroom_50
+  - first:
+      213: -8073584603008650184
+    second: Aura ssj1 -Photoroom_51
+  - first:
+      213: 710749920153528420
+    second: Aura ssj1 -Photoroom_52
+  - first:
+      213: -2036939069822689555
+    second: Aura ssj1 -Photoroom_53
+  - first:
+      213: -6038742867377178316
+    second: Aura ssj1 -Photoroom_54
+  - first:
+      213: -1948288512228339757
+    second: Aura ssj1 -Photoroom_55
+  - first:
+      213: -1905749915848341049
+    second: Aura ssj1 -Photoroom_56
+  - first:
+      213: 6370144487274286533
+    second: Aura ssj1 -Photoroom_57
+  - first:
+      213: 8843381000550957237
+    second: Aura ssj1 -Photoroom_58
+  - first:
+      213: -1789331460527468114
+    second: Aura ssj1 -Photoroom_59
+  - first:
+      213: 432577812434709189
+    second: Aura ssj1 -Photoroom_60
+  - first:
+      213: 4865026524464942139
+    second: Aura ssj1 -Photoroom_61
+  - first:
+      213: 8609093279677855139
+    second: Aura ssj1 -Photoroom_62
+  - first:
+      213: -3173521374162803770
+    second: Aura ssj1 -Photoroom_63
+  - first:
+      213: 41544387130357896
+    second: Aura ssj1 -Photoroom_64
+  - first:
+      213: -6987864516169430895
+    second: Aura ssj1 -Photoroom_65
+  - first:
+      213: 2049102960075326147
+    second: Aura ssj1 -Photoroom_66
+  - first:
+      213: 7639607438389507901
+    second: Aura ssj1 -Photoroom_67
+  - first:
+      213: 5587079579976597982
+    second: Aura ssj1 -Photoroom_68
+  - first:
+      213: -3785891400917555944
+    second: Aura ssj1 -Photoroom_69
+  - first:
+      213: -2288450813762009994
+    second: Aura ssj1 -Photoroom_70
+  - first:
+      213: 8930325207141524918
+    second: Aura ssj1 -Photoroom_71
+  - first:
+      213: 6395328372000778890
+    second: Aura ssj1 -Photoroom_72
+  - first:
+      213: 4224070918158442559
+    second: Aura ssj1 -Photoroom_73
+  - first:
+      213: 3167281639943348681
+    second: Aura ssj1 -Photoroom_74
+  - first:
+      213: -6313712290596891325
+    second: Aura ssj1 -Photoroom_75
+  - first:
+      213: -8799520949279528470
+    second: Aura ssj1 -Photoroom_76
+  - first:
+      213: 7849991789211489892
+    second: Aura ssj1 -Photoroom_77
+  - first:
+      213: 1212550945629634787
+    second: Aura ssj1 -Photoroom_78
+  - first:
+      213: 2230314070476506673
+    second: Aura ssj1 -Photoroom_79
+  - first:
+      213: -9046874487482421863
+    second: Aura ssj1 -Photoroom_80
+  - first:
+      213: -6988767518091137924
+    second: Aura ssj1 -Photoroom_81
+  - first:
+      213: -413234277957937771
+    second: Aura ssj1 -Photoroom_82
+  - first:
+      213: -7701588057230306340
+    second: Aura ssj1 -Photoroom_83
+  - first:
+      213: -3337234656931536683
+    second: Aura ssj1 -Photoroom_84
+  - first:
+      213: -601708537339863700
+    second: Aura ssj1 -Photoroom_85
+  - first:
+      213: -2048945463381446194
+    second: Aura ssj1 -Photoroom_86
+  - first:
+      213: -1489725649445967287
+    second: Aura ssj1 -Photoroom_87
+  - first:
+      213: -2961539014674839533
+    second: Aura ssj1 -Photoroom_88
+  - first:
+      213: 4161193942433441731
+    second: Aura ssj1 -Photoroom_89
+  - first:
+      213: -228402839154800254
+    second: Aura ssj1 -Photoroom_90
+  - first:
+      213: -5500308071917159436
+    second: Aura ssj1 -Photoroom_91
+  - first:
+      213: 1446166041636936605
+    second: Aura ssj1 -Photoroom_92
+  - first:
+      213: 6544435863159265716
+    second: Aura ssj1 -Photoroom_93
+  - first:
+      213: 849223885572306070
+    second: Aura ssj1 -Photoroom_94
+  - first:
+      213: 6370885597466680604
+    second: Aura ssj1 -Photoroom_95
+  - first:
+      213: -4196349495435812813
+    second: Aura ssj1 -Photoroom_96
+  - first:
+      213: 8628398270213761855
+    second: Aura ssj1 -Photoroom_97
+  - first:
+      213: -8151288376756953399
+    second: Aura ssj1 -Photoroom_98
+  - first:
+      213: -9044786645445068931
+    second: Aura ssj1 -Photoroom_99
+  - first:
+      213: 7312167124752529729
+    second: Aura ssj1 -Photoroom_100
+  - first:
+      213: 8051604267628504341
+    second: Aura ssj1 -Photoroom_101
+  - first:
+      213: -3251604201818039742
+    second: Aura ssj1 -Photoroom_102
+  - first:
+      213: -1395951390662173921
+    second: Aura ssj1 -Photoroom_103
+  - first:
+      213: 8462704814607161852
+    second: Aura ssj1 -Photoroom_104
+  - first:
+      213: -8894317002685307832
+    second: Aura ssj1 -Photoroom_105
+  - first:
+      213: -2895784591776866385
+    second: Aura ssj1 -Photoroom_106
+  - first:
+      213: -2554510168273280559
+    second: Aura ssj1 -Photoroom_107
+  - first:
+      213: -1063403621466092952
+    second: Aura ssj1 -Photoroom_108
+  - first:
+      213: 2834720694449056030
+    second: Aura ssj1 -Photoroom_109
+  - first:
+      213: 8928965216683741434
+    second: Aura ssj1 -Photoroom_110
+  - first:
+      213: 6225490889124305170
+    second: Aura ssj1 -Photoroom_111
+  - first:
+      213: -4540077333217103081
+    second: Aura ssj1 -Photoroom_112
+  - first:
+      213: 7356082241198834016
+    second: Aura ssj1 -Photoroom_113
+  - first:
+      213: -2638927111855530244
+    second: Aura ssj1 -Photoroom_114
+  - first:
+      213: 6963438178546830414
+    second: Aura ssj1 -Photoroom_115
+  - first:
+      213: -2541571623299939083
+    second: Aura ssj1 -Photoroom_116
+  - first:
+      213: 4499022388561689853
+    second: Aura ssj1 -Photoroom_117
+  - first:
+      213: 7204086804715481709
+    second: Aura ssj1 -Photoroom_118
+  - first:
+      213: 8571002800672952107
+    second: Aura ssj1 -Photoroom_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47583a8e27741fc10800000000000000
+      internalID: 2085526661304124788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 20
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36772a18a98e57a10800000000000000
+      internalID: 1906685767558788963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 20
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d74440be9dd1a0800000000000000
+      internalID: -6783090983853108720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 141
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b9df31b14e6570800000000000000
+      internalID: 8461772979411990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 26
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d363b0b9996a5ff0800000000000000
+      internalID: -46608737318509612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a6746b5c6bd3720800000000000000
+      internalID: 2827617101341485718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 151
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfd1ee8c6de34d0800000000000000
+      internalID: -3152846530636022807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 18
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4739ea2bd0bee10800000000000000
+      internalID: 2227889501749081275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 16
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9aefbae1859150800000000000000
+      internalID: 5878747733844205463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 141
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5fdfe86bb02f9d0800000000000000
+      internalID: -2742116344404249129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 23
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95b4afc60b21000800000000000000
+      internalID: 5260531682990521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 136
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c812dd4158ca180800000000000000
+      internalID: -9102754422166811557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 141
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9f34eaa803c4390800000000000000
+      internalID: -7832832279716824639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b726f8d10d8c30800000000000000
+      internalID: 4363145645346240378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c4753be7011760800000000000000
+      internalID: 7426725967306212848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a166a162dabb850800000000000000
+      internalID: 6393894475145812629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be46a0e247e511e50800000000000000
+      internalID: 6778302767250957547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 121
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1509785e8eb83e890800000000000000
+      internalID: -7429941127831646127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd170ae7d658960c0800000000000000
+      internalID: -4581984440550395425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e07ef83cac7640800000000000000
+      internalID: 5079123840554033469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 135
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8982368e53b4e68f0800000000000000
+      internalID: -545415809961088872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5996ef64c57d780800000000000000
+      internalID: -8658350298610690625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 136
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35debd1b3fc2a3610800000000000000
+      internalID: 1601642042656288083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019ff31f64d2c420800000000000000
+      internalID: 2648913104389247242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df122e112cf8350800000000000000
+      internalID: 6021244608881753382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33171e57498641f00800000000000000
+      internalID: 1086608396945289523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 125
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733eb0db85c41070800000000000000
+      internalID: 8076297236075393910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a97bc4912fd0a0800000000000000
+      internalID: -6854723184881982247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6704a5b0d7e213370800000000000000
+      internalID: 8300466702816788598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 129
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54402d6b9b10c1400800000000000000
+      internalID: 296113572647404613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8913c655e194390800000000000000
+      internalID: -7833696724598024008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 126
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a944ce8952c460800000000000000
+      internalID: 7260464018988048401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 122
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad90c0dc166c39020800000000000000
+      internalID: 2347437954144405978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5ea2a1f07bb4c00800000000000000
+      internalID: 886003027199845846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a984c4ab0086550800000000000000
+      internalID: 6154169690945526401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5162e0b920d02900800000000000000
+      internalID: 657754423075955039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e19864115f1d960800000000000000
+      internalID: 7625145098661600809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 122
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589a0b9dfcc17280800000000000000
+      internalID: -9047224786810660776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 103
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae833afe20196e30800000000000000
+      internalID: 4497143496858373804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 95
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d189c0914ce4fa010800000000000000
+      internalID: 1202266229672024093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23337aa376684f0800000000000000
+      internalID: -826859979964992795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 105
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4225db6cd30c1ef50800000000000000
+      internalID: 6909014674922885668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 111
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb71001624d6640800000000000000
+      internalID: 5074785339497234062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15502e0468fee870800000000000000
+      internalID: 8714175437625906458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d209e7139cf04200800000000000000
+      internalID: 162407295276876502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d570eff9cf5120800000000000000
+      internalID: 2404862826858797266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 97
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dde897f4b68e050800000000000000
+      internalID: 5830027706717101324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 97
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6676f34ea7d5b860800000000000000
+      internalID: 7545173894193641067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da2f0e6c2107200800000000000000
+      internalID: 175661030854274311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e361a14cf043f6e0800000000000000
+      internalID: -1805027573468404766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 97
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af30370e31f5b30800000000000000
+      internalID: 4278160025748503124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343b99449dd4ff80800000000000000
+      internalID: -8073584603008650184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46863e269471dd900800000000000000
+      internalID: 710749920153528420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee9a1a45b65bb3e0800000000000000
+      internalID: -2036939069822689555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 94
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393f045b53123ca0800000000000000
+      internalID: -6038742867377178316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 94
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc7acabe946f4e0800000000000000
+      internalID: -1948288512228339757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 80
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c901237c8a6d85e0800000000000000
+      internalID: -1905749915848341049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd85e329ac476850800000000000000
+      internalID: 6370144487274286533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0474f6a200aba70800000000000000
+      internalID: 8843381000550957237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 80
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea154d554840b27e0800000000000000
+      internalID: -1789331460527468114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cae2ef7a33d00600800000000000000
+      internalID: 432577812434709189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c069519db048340800000000000000
+      internalID: 4865026524464942139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 77
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5b66599b4a97770800000000000000
+      internalID: 8609093279677855139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 18
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3aaedcf1365f3d0800000000000000
+      internalID: -3173521374162803770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 18
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f0556668939000800000000000000
+      internalID: 41544387130357896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1980a2fee3e160f90800000000000000
+      internalID: -6987864516169430895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 77
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2cd7b1940ef6c10800000000000000
+      internalID: 2049102960075326147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3773a42d76550a60800000000000000
+      internalID: 7639607438389507901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10850c64b498d40800000000000000
+      internalID: 5587079579976597982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 69
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8156a1254dfc57bc0800000000000000
+      internalID: -3785891400917555944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67403cf0c1acd30e0800000000000000
+      internalID: -2288450813762009994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 70
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b523640673eeeb70800000000000000
+      internalID: 8930325207141524918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 68
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a651b3545c0c850800000000000000
+      internalID: 6395328372000778890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 68
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3064e6be1aee9a30800000000000000
+      internalID: 4224070918158442559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 45
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a07cded174fb20800000000000000
+      internalID: 3167281639943348681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34554f88f103168a0800000000000000
+      internalID: -6313712290596891325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 70
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e5988152d1e580800000000000000
+      internalID: -8799520949279528470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 67
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661fa5f0f5c0fc60800000000000000
+      internalID: 7849991789211489892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 67
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0815229a8d3d010800000000000000
+      internalID: 1212550945629634787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136ce4494daa3fe10800000000000000
+      internalID: 2230314070476506673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 59
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de016069b037280800000000000000
+      internalID: -9046874487482421863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 53
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca36a68f8e20f90800000000000000
+      internalID: -6988767518091137924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 53
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5955d451d95e34af0800000000000000
+      internalID: -413234277957937771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3956a77767e1590800000000000000
+      internalID: -7701588057230306340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0297dc2c2cfa1d0800000000000000
+      internalID: -3337234656931536683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 53
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d9985f54d46a7f0800000000000000
+      internalID: -601708537339863700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 59
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13003f4fea093e0800000000000000
+      internalID: -2048945463381446194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 53
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2cfb2a6e635be0800000000000000
+      internalID: -1489725649445967287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31888d105ff76e6d0800000000000000
+      internalID: -2961539014674839533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a04cf7d78fb930800000000000000
+      internalID: 4161193942433441731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 44
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cc72f3dc84dcf0800000000000000
+      internalID: -228402839154800254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf92253fafaa3b0800000000000000
+      internalID: -5500308071917159436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 44
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b900e4a50d11410800000000000000
+      internalID: 1446166041636936605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95fee5eb182da50800000000000000
+      internalID: 6544435863159265716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947052ef9c09cb00800000000000000
+      internalID: 849223885572306070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d57ad42bee96850800000000000000
+      internalID: 6370885597466680604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 42
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a82bfd5293c5c0800000000000000
+      internalID: -4196349495435812813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bafa4f28a3eb770800000000000000
+      internalID: 8628398270213761855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 39
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce91a1a86ec0ee80800000000000000
+      internalID: -8151288376756953399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 37
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77bc01a7767a7280800000000000000
+      internalID: -9044786645445068931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 34
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149f92922490a7560800000000000000
+      internalID: 7312167124752529729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51524041c6b0dbf60800000000000000
+      internalID: 8051604267628504341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad778c43bffd2d0800000000000000
+      internalID: -3251604201818039742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5ed33b9590ace0800000000000000
+      internalID: -1395951390662173921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d5a90131917570800000000000000
+      internalID: 8462704814607161852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 28
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844a9376fc9019480800000000000000
+      internalID: -8894317002685307832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 22
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf171d914b10d7d0800000000000000
+      internalID: -2895784591776866385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a2fc498e8c8cd0800000000000000
+      internalID: -2554510168273280559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 20
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a46a95a080e31f0800000000000000
+      internalID: -1063403621466092952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a51ed373f65720800000000000000
+      internalID: 2834720694449056030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0d0409e8e0aeb70800000000000000
+      internalID: 8928965216683741434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2195fa6caf2656650800000000000000
+      internalID: 6225490889124305170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713bac448b76ef0c0800000000000000
+      internalID: -4540077333217103081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061473df2dd061660800000000000000
+      internalID: 7356082241198834016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 17
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe14bdf5c5a06bd0800000000000000
+      internalID: -2638927111855530244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4da7212a13a060800000000000000
+      internalID: 6963438178546830414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f48efd03168abcd0800000000000000
+      internalID: -2541571623299939083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 16
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbfba860dbf6e30800000000000000
+      internalID: 4499022388561689853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a252ea7ce0af360800000000000000
+      internalID: 7204086804715481709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura ssj1 -Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f4df6d2a152f670800000000000000
+      internalID: 8571002800672952107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura ssj1 -Photoroom_0: 2085526661304124788
+      Aura ssj1 -Photoroom_1: 1906685767558788963
+      Aura ssj1 -Photoroom_10: 5260531682990521
+      Aura ssj1 -Photoroom_100: 7312167124752529729
+      Aura ssj1 -Photoroom_101: 8051604267628504341
+      Aura ssj1 -Photoroom_102: -3251604201818039742
+      Aura ssj1 -Photoroom_103: -1395951390662173921
+      Aura ssj1 -Photoroom_104: 8462704814607161852
+      Aura ssj1 -Photoroom_105: -8894317002685307832
+      Aura ssj1 -Photoroom_106: -2895784591776866385
+      Aura ssj1 -Photoroom_107: -2554510168273280559
+      Aura ssj1 -Photoroom_108: -1063403621466092952
+      Aura ssj1 -Photoroom_109: 2834720694449056030
+      Aura ssj1 -Photoroom_11: -9102754422166811557
+      Aura ssj1 -Photoroom_110: 8928965216683741434
+      Aura ssj1 -Photoroom_111: 6225490889124305170
+      Aura ssj1 -Photoroom_112: -4540077333217103081
+      Aura ssj1 -Photoroom_113: 7356082241198834016
+      Aura ssj1 -Photoroom_114: -2638927111855530244
+      Aura ssj1 -Photoroom_115: 6963438178546830414
+      Aura ssj1 -Photoroom_116: -2541571623299939083
+      Aura ssj1 -Photoroom_117: 4499022388561689853
+      Aura ssj1 -Photoroom_118: 7204086804715481709
+      Aura ssj1 -Photoroom_119: 8571002800672952107
+      Aura ssj1 -Photoroom_12: -7832832279716824639
+      Aura ssj1 -Photoroom_13: 4363145645346240378
+      Aura ssj1 -Photoroom_14: 7426725967306212848
+      Aura ssj1 -Photoroom_15: 6393894475145812629
+      Aura ssj1 -Photoroom_16: 6778302767250957547
+      Aura ssj1 -Photoroom_17: -7429941127831646127
+      Aura ssj1 -Photoroom_18: -4581984440550395425
+      Aura ssj1 -Photoroom_19: 5079123840554033469
+      Aura ssj1 -Photoroom_2: -6783090983853108720
+      Aura ssj1 -Photoroom_20: -545415809961088872
+      Aura ssj1 -Photoroom_21: -8658350298610690625
+      Aura ssj1 -Photoroom_22: 1601642042656288083
+      Aura ssj1 -Photoroom_23: 2648913104389247242
+      Aura ssj1 -Photoroom_24: 6021244608881753382
+      Aura ssj1 -Photoroom_25: 1086608396945289523
+      Aura ssj1 -Photoroom_26: 8076297236075393910
+      Aura ssj1 -Photoroom_27: -6854723184881982247
+      Aura ssj1 -Photoroom_28: 8300466702816788598
+      Aura ssj1 -Photoroom_29: 296113572647404613
+      Aura ssj1 -Photoroom_3: 8461772979411990550
+      Aura ssj1 -Photoroom_30: -7833696724598024008
+      Aura ssj1 -Photoroom_31: 7260464018988048401
+      Aura ssj1 -Photoroom_32: 2347437954144405978
+      Aura ssj1 -Photoroom_33: 886003027199845846
+      Aura ssj1 -Photoroom_34: 6154169690945526401
+      Aura ssj1 -Photoroom_35: 657754423075955039
+      Aura ssj1 -Photoroom_36: 7625145098661600809
+      Aura ssj1 -Photoroom_37: -9047224786810660776
+      Aura ssj1 -Photoroom_38: 4497143496858373804
+      Aura ssj1 -Photoroom_39: 1202266229672024093
+      Aura ssj1 -Photoroom_4: -46608737318509612
+      Aura ssj1 -Photoroom_40: -826859979964992795
+      Aura ssj1 -Photoroom_41: 6909014674922885668
+      Aura ssj1 -Photoroom_42: 5074785339497234062
+      Aura ssj1 -Photoroom_43: 8714175437625906458
+      Aura ssj1 -Photoroom_44: 162407295276876502
+      Aura ssj1 -Photoroom_45: 2404862826858797266
+      Aura ssj1 -Photoroom_46: 5830027706717101324
+      Aura ssj1 -Photoroom_47: 7545173894193641067
+      Aura ssj1 -Photoroom_48: 175661030854274311
+      Aura ssj1 -Photoroom_49: -1805027573468404766
+      Aura ssj1 -Photoroom_5: 2827617101341485718
+      Aura ssj1 -Photoroom_50: 4278160025748503124
+      Aura ssj1 -Photoroom_51: -8073584603008650184
+      Aura ssj1 -Photoroom_52: 710749920153528420
+      Aura ssj1 -Photoroom_53: -2036939069822689555
+      Aura ssj1 -Photoroom_54: -6038742867377178316
+      Aura ssj1 -Photoroom_55: -1948288512228339757
+      Aura ssj1 -Photoroom_56: -1905749915848341049
+      Aura ssj1 -Photoroom_57: 6370144487274286533
+      Aura ssj1 -Photoroom_58: 8843381000550957237
+      Aura ssj1 -Photoroom_59: -1789331460527468114
+      Aura ssj1 -Photoroom_6: -3152846530636022807
+      Aura ssj1 -Photoroom_60: 432577812434709189
+      Aura ssj1 -Photoroom_61: 4865026524464942139
+      Aura ssj1 -Photoroom_62: 8609093279677855139
+      Aura ssj1 -Photoroom_63: -3173521374162803770
+      Aura ssj1 -Photoroom_64: 41544387130357896
+      Aura ssj1 -Photoroom_65: -6987864516169430895
+      Aura ssj1 -Photoroom_66: 2049102960075326147
+      Aura ssj1 -Photoroom_67: 7639607438389507901
+      Aura ssj1 -Photoroom_68: 5587079579976597982
+      Aura ssj1 -Photoroom_69: -3785891400917555944
+      Aura ssj1 -Photoroom_7: 2227889501749081275
+      Aura ssj1 -Photoroom_70: -2288450813762009994
+      Aura ssj1 -Photoroom_71: 8930325207141524918
+      Aura ssj1 -Photoroom_72: 6395328372000778890
+      Aura ssj1 -Photoroom_73: 4224070918158442559
+      Aura ssj1 -Photoroom_74: 3167281639943348681
+      Aura ssj1 -Photoroom_75: -6313712290596891325
+      Aura ssj1 -Photoroom_76: -8799520949279528470
+      Aura ssj1 -Photoroom_77: 7849991789211489892
+      Aura ssj1 -Photoroom_78: 1212550945629634787
+      Aura ssj1 -Photoroom_79: 2230314070476506673
+      Aura ssj1 -Photoroom_8: 5878747733844205463
+      Aura ssj1 -Photoroom_80: -9046874487482421863
+      Aura ssj1 -Photoroom_81: -6988767518091137924
+      Aura ssj1 -Photoroom_82: -413234277957937771
+      Aura ssj1 -Photoroom_83: -7701588057230306340
+      Aura ssj1 -Photoroom_84: -3337234656931536683
+      Aura ssj1 -Photoroom_85: -601708537339863700
+      Aura ssj1 -Photoroom_86: -2048945463381446194
+      Aura ssj1 -Photoroom_87: -1489725649445967287
+      Aura ssj1 -Photoroom_88: -2961539014674839533
+      Aura ssj1 -Photoroom_89: 4161193942433441731
+      Aura ssj1 -Photoroom_9: -2742116344404249129
+      Aura ssj1 -Photoroom_90: -228402839154800254
+      Aura ssj1 -Photoroom_91: -5500308071917159436
+      Aura ssj1 -Photoroom_92: 1446166041636936605
+      Aura ssj1 -Photoroom_93: 6544435863159265716
+      Aura ssj1 -Photoroom_94: 849223885572306070
+      Aura ssj1 -Photoroom_95: 6370885597466680604
+      Aura ssj1 -Photoroom_96: -4196349495435812813
+      Aura ssj1 -Photoroom_97: 8628398270213761855
+      Aura ssj1 -Photoroom_98: -8151288376756953399
+      Aura ssj1 -Photoroom_99: -9044786645445068931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

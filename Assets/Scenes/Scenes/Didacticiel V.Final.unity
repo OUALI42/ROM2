@@ -32382,6 +32382,10 @@ PrefabInstance:
       propertyPath: cinematicCanvas
       value: 
       objectReference: {fileID: 829015396}
+    - target: {fileID: 4605141653367703319, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
+      propertyPath: cinematicDuration
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.x
       value: -37.6

@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: d24f7e14b764d394ea0a3b6dea8fef22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8131038610298307169
+    second: goku emote ssj1-Photoroom_0
+  - first:
+      213: -6545328568165187882
+    second: goku emote ssj1-Photoroom_1
+  - first:
+      213: -5175886208253203697
+    second: goku emote ssj1-Photoroom_2
+  - first:
+      213: 3875066105026488848
+    second: goku emote ssj1-Photoroom_3
+  - first:
+      213: 328433344735963603
+    second: goku emote ssj1-Photoroom_4
+  - first:
+      213: 3333030661475753223
+    second: goku emote ssj1-Photoroom_5
+  - first:
+      213: -460129617807189835
+    second: goku emote ssj1-Photoroom_6
+  - first:
+      213: -7114037012432318897
+    second: goku emote ssj1-Photoroom_7
+  - first:
+      213: 8460546914420769562
+    second: goku emote ssj1-Photoroom_8
+  - first:
+      213: -2637624069215380919
+    second: goku emote ssj1-Photoroom_9
+  - first:
+      213: 4509040958408095239
+    second: goku emote ssj1-Photoroom_10
+  - first:
+      213: 4476142277414979270
+    second: goku emote ssj1-Photoroom_11
+  - first:
+      213: 5630815024552697156
+    second: goku emote ssj1-Photoroom_12
+  - first:
+      213: 2072967202037229713
+    second: goku emote ssj1-Photoroom_13
+  - first:
+      213: -5182180506807790254
+    second: goku emote ssj1-Photoroom_14
+  - first:
+      213: -4129286421391140057
+    second: goku emote ssj1-Photoroom_15
+  - first:
+      213: 5690110770112789478
+    second: goku emote ssj1-Photoroom_16
+  - first:
+      213: -7406411518921942155
+    second: goku emote ssj1-Photoroom_17
+  - first:
+      213: 7083333293650595220
+    second: goku emote ssj1-Photoroom_18
+  - first:
+      213: -6416679784211298410
+    second: goku emote ssj1-Photoroom_19
+  - first:
+      213: 503941585533165379
+    second: goku emote ssj1-Photoroom_20
+  - first:
+      213: 7097282744632102735
+    second: goku emote ssj1-Photoroom_21
+  - first:
+      213: -8585126251431854230
+    second: goku emote ssj1-Photoroom_22
+  - first:
+      213: -8925153957662149944
+    second: goku emote ssj1-Photoroom_23
+  - first:
+      213: 7447241511096960701
+    second: goku emote ssj1-Photoroom_24
+  - first:
+      213: 6712444988320276733
+    second: goku emote ssj1-Photoroom_25
+  - first:
+      213: -5076796785647782903
+    second: goku emote ssj1-Photoroom_26
+  - first:
+      213: -3690584530039957407
+    second: goku emote ssj1-Photoroom_27
+  - first:
+      213: 1617790621044397255
+    second: goku emote ssj1-Photoroom_28
+  - first:
+      213: 1634628200827127422
+    second: goku emote ssj1-Photoroom_29
+  - first:
+      213: -2354172128294989589
+    second: goku emote ssj1-Photoroom_30
+  - first:
+      213: 307804307235993099
+    second: goku emote ssj1-Photoroom_31
+  - first:
+      213: 9040028577894547787
+    second: goku emote ssj1-Photoroom_32
+  - first:
+      213: -7612401822539797550
+    second: goku emote ssj1-Photoroom_33
+  - first:
+      213: -5618152278375814754
+    second: goku emote ssj1-Photoroom_34
+  - first:
+      213: 750780428375975623
+    second: goku emote ssj1-Photoroom_35
+  - first:
+      213: 1030809409301172709
+    second: goku emote ssj1-Photoroom_36
+  - first:
+      213: -1533192995032191694
+    second: goku emote ssj1-Photoroom_37
+  - first:
+      213: 3471519174211713751
+    second: goku emote ssj1-Photoroom_38
+  - first:
+      213: -7129287636969655048
+    second: goku emote ssj1-Photoroom_39
+  - first:
+      213: -1280284888974897277
+    second: goku emote ssj1-Photoroom_40
+  - first:
+      213: -6229368617622876011
+    second: goku emote ssj1-Photoroom_41
+  - first:
+      213: 271338879680460425
+    second: goku emote ssj1-Photoroom_42
+  - first:
+      213: 920310312228884654
+    second: goku emote ssj1-Photoroom_43
+  - first:
+      213: -5061983928353783466
+    second: goku emote ssj1-Photoroom_44
+  - first:
+      213: 3921269196876813499
+    second: goku emote ssj1-Photoroom_45
+  - first:
+      213: -4625296693026293953
+    second: goku emote ssj1-Photoroom_46
+  - first:
+      213: 7287749926447901027
+    second: goku emote ssj1-Photoroom_47
+  - first:
+      213: 1632591133917352411
+    second: goku emote ssj1-Photoroom_48
+  - first:
+      213: 6586538829539873888
+    second: goku emote ssj1-Photoroom_49
+  - first:
+      213: -632551552592369079
+    second: goku emote ssj1-Photoroom_50
+  - first:
+      213: 4832777061666830429
+    second: goku emote ssj1-Photoroom_51
+  - first:
+      213: -917899047083164948
+    second: goku emote ssj1-Photoroom_52
+  - first:
+      213: -7925362086619014670
+    second: goku emote ssj1-Photoroom_53
+  - first:
+      213: 7526580719019437692
+    second: goku emote ssj1-Photoroom_54
+  - first:
+      213: -4959240600782381302
+    second: goku emote ssj1-Photoroom_55
+  - first:
+      213: -2704010271106262708
+    second: goku emote ssj1-Photoroom_56
+  - first:
+      213: 158837185800821825
+    second: goku emote ssj1-Photoroom_57
+  - first:
+      213: 8204779074134014609
+    second: goku emote ssj1-Photoroom_58
+  - first:
+      213: 4343130880599709495
+    second: goku emote ssj1-Photoroom_59
+  - first:
+      213: 608456310858533614
+    second: goku emote ssj1-Photoroom_60
+  - first:
+      213: -4516928555599757397
+    second: goku emote ssj1-Photoroom_61
+  - first:
+      213: 3718590339449246714
+    second: goku emote ssj1-Photoroom_62
+  - first:
+      213: 3378375208062354233
+    second: goku emote ssj1-Photoroom_63
+  - first:
+      213: -8327898023813562475
+    second: goku emote ssj1-Photoroom_64
+  - first:
+      213: 322015370520142841
+    second: goku emote ssj1-Photoroom_65
+  - first:
+      213: -1107243560390752868
+    second: goku emote ssj1-Photoroom_66
+  - first:
+      213: -1694439529399702164
+    second: goku emote ssj1-Photoroom_67
+  - first:
+      213: -1131654645706888832
+    second: goku emote ssj1-Photoroom_68
+  - first:
+      213: -4548474240586482917
+    second: goku emote ssj1-Photoroom_69
+  - first:
+      213: -2754843056151015532
+    second: goku emote ssj1-Photoroom_70
+  - first:
+      213: -8188822951576672150
+    second: goku emote ssj1-Photoroom_71
+  - first:
+      213: 4056535342441133252
+    second: goku emote ssj1-Photoroom_72
+  - first:
+      213: 792068860922709960
+    second: goku emote ssj1-Photoroom_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 37
+        width: 201
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16201d5398047d070800000000000000
+      internalID: 8131038610298307169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 189
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3c4c88525a25a0800000000000000
+      internalID: -6545328568165187882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 208
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b6937aaee8b28b0800000000000000
+      internalID: -5175886208253203697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 200
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa24f671007c530800000000000000
+      internalID: 3875066105026488848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 207
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9616d0364de8400800000000000000
+      internalID: 328433344735963603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 219
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5fba3abd414e20800000000000000
+      internalID: 3333030661475753223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 215
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b857fbec8a4d99f0800000000000000
+      internalID: -460129617807189835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8dfa670dd54d90800000000000000
+      internalID: -7114037012432318897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 213
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c39fb796e96570800000000000000
+      internalID: 8460546914420769562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 37
+        width: 179
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a956f32e6456bd0800000000000000
+      internalID: -2637624069215380919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 190
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706f99b9cd4539e30800000000000000
+      internalID: 4509040958408095239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68d698fa37e1e30800000000000000
+      internalID: 4476142277414979270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d55667e6ca42e40800000000000000
+      internalID: 5630815024552697156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 196
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e67cefa8a4cc10800000000000000
+      internalID: 2072967202037229713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 189
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25594c119423518b0800000000000000
+      internalID: -5182180506807790254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 37
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b132da0e3d1b6c0800000000000000
+      internalID: -4129286421391140057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 37
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7231199557fe40800000000000000
+      internalID: 5690110770112789478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 160
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bdb42e6f3273990800000000000000
+      internalID: -7406411518921942155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 189
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dcdb9f91e0d4260800000000000000
+      internalID: 7083333293650595220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 187
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c7a8bbbf53f6a0800000000000000
+      internalID: -6416679784211298410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f5049b33c5ef600800000000000000
+      internalID: 503941585533165379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4e40ad0d9e7260800000000000000
+      internalID: 7097282744632102735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ff58709218bd880800000000000000
+      internalID: -8585126251431854230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c230e353cb732480800000000000000
+      internalID: -8925153957662149944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 168
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64a7972bae95760800000000000000
+      internalID: 7447241511096960701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df06e2f1725672d50800000000000000
+      internalID: 6712444988320276733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 149
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047e92b8389b89b0800000000000000
+      internalID: -5076796785647782903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1689a696ce868ccc0800000000000000
+      internalID: -3690584530039957407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45f489ffb837610800000000000000
+      internalID: 1617790621044397255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76032220bd5fa610800000000000000
+      internalID: 1634628200827127422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 148
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01ad81cec445fd0800000000000000
+      internalID: -2354172128294989589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f229f26a854400800000000000000
+      internalID: 307804307235993099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c8c07812a47d70800000000000000
+      internalID: 9040028577894547787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 132
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbaaf7efd05b5690800000000000000
+      internalID: -7612401822539797550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 126
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ab51e4405802b0800000000000000
+      internalID: -5618152278375814754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 132
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66aa162de4b6a00800000000000000
+      internalID: 750780428375975623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 113
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d68042bb2e4e00800000000000000
+      internalID: 1030809409301172709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d2dfe181109bae0800000000000000
+      internalID: -1533192995032191694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 38
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab8d9cb405d2030800000000000000
+      internalID: 3471519174211713751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 113
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f6d0baaeaf0d90800000000000000
+      internalID: -7129287636969655048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc95d3da38b3ee0800000000000000
+      internalID: -1280284888974897277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5905f933f36dc89a0800000000000000
+      internalID: -6229368617622876011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 115
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863b11064df3c300800000000000000
+      internalID: 271338879680460425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 99
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0188b5a5995cc00800000000000000
+      internalID: 920310312228884654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 98
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6518cbbcf6830c9b0800000000000000
+      internalID: -5061983928353783466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4168c0f852b6630800000000000000
+      internalID: 3921269196876813499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 98
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37f06fd925afcfb0800000000000000
+      internalID: -4625296693026293953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696ec922f9432560800000000000000
+      internalID: 7287749926447901027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd198988cf028a610800000000000000
+      internalID: 1632591133917352411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 81
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0649a022b26186b50800000000000000
+      internalID: 6586538829539873888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 92
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2c9dd6b9b837f0800000000000000
+      internalID: -632551552592369079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58be47e129711340800000000000000
+      internalID: 4832777061666830429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 91
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea30fe0ea7f243f0800000000000000
+      internalID: -917899047083164948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f999be2c25730290800000000000000
+      internalID: -7925362086619014670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e25725949c37860800000000000000
+      internalID: 7526580719019437692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fdba2e2fc3d2bb0800000000000000
+      internalID: -4959240600782381302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4914b12cfc697ad0800000000000000
+      internalID: -2704010271106262708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 78
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd7c4349d443200800000000000000
+      internalID: 158837185800821825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af05ed81b3dd170800000000000000
+      internalID: 8204779074134014609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 76
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737dc276686e54c30800000000000000
+      internalID: 4343130880599709495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea411e7acba17800800000000000000
+      internalID: 608456310858533614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 70
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf78af0965a051c0800000000000000
+      internalID: -4516928555599757397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3521836361b9330800000000000000
+      internalID: 3718590339449246714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 66
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330b823a5662ee20800000000000000
+      internalID: 3378375208062354233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 76
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f3ae4dedc5d6c80800000000000000
+      internalID: -8327898023813562475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 59
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a11cf547087400800000000000000
+      internalID: 322015370520142841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95021729d742a0f0800000000000000
+      internalID: -1107243560390752868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 57
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d20ccb9342c78e0800000000000000
+      internalID: -1694439529399702164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896832781e8b40f0800000000000000
+      internalID: -1131654645706888832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bf3dbe6c290e0c0800000000000000
+      internalID: -4548474240586482917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fca2216d4d4c9d0800000000000000
+      internalID: -2754843056151015532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e4ba69e47b5e80800000000000000
+      internalID: -8188822951576672150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47509c665bb4830800000000000000
+      internalID: 4056535342441133252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku emote ssj1-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c742f4be6efdfa00800000000000000
+      internalID: 792068860922709960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goku emote ssj1-Photoroom_0: 8131038610298307169
+      goku emote ssj1-Photoroom_1: -6545328568165187882
+      goku emote ssj1-Photoroom_10: 4509040958408095239
+      goku emote ssj1-Photoroom_11: 4476142277414979270
+      goku emote ssj1-Photoroom_12: 5630815024552697156
+      goku emote ssj1-Photoroom_13: 2072967202037229713
+      goku emote ssj1-Photoroom_14: -5182180506807790254
+      goku emote ssj1-Photoroom_15: -4129286421391140057
+      goku emote ssj1-Photoroom_16: 5690110770112789478
+      goku emote ssj1-Photoroom_17: -7406411518921942155
+      goku emote ssj1-Photoroom_18: 7083333293650595220
+      goku emote ssj1-Photoroom_19: -6416679784211298410
+      goku emote ssj1-Photoroom_2: -5175886208253203697
+      goku emote ssj1-Photoroom_20: 503941585533165379
+      goku emote ssj1-Photoroom_21: 7097282744632102735
+      goku emote ssj1-Photoroom_22: -8585126251431854230
+      goku emote ssj1-Photoroom_23: -8925153957662149944
+      goku emote ssj1-Photoroom_24: 7447241511096960701
+      goku emote ssj1-Photoroom_25: 6712444988320276733
+      goku emote ssj1-Photoroom_26: -5076796785647782903
+      goku emote ssj1-Photoroom_27: -3690584530039957407
+      goku emote ssj1-Photoroom_28: 1617790621044397255
+      goku emote ssj1-Photoroom_29: 1634628200827127422
+      goku emote ssj1-Photoroom_3: 3875066105026488848
+      goku emote ssj1-Photoroom_30: -2354172128294989589
+      goku emote ssj1-Photoroom_31: 307804307235993099
+      goku emote ssj1-Photoroom_32: 9040028577894547787
+      goku emote ssj1-Photoroom_33: -7612401822539797550
+      goku emote ssj1-Photoroom_34: -5618152278375814754
+      goku emote ssj1-Photoroom_35: 750780428375975623
+      goku emote ssj1-Photoroom_36: 1030809409301172709
+      goku emote ssj1-Photoroom_37: -1533192995032191694
+      goku emote ssj1-Photoroom_38: 3471519174211713751
+      goku emote ssj1-Photoroom_39: -7129287636969655048
+      goku emote ssj1-Photoroom_4: 328433344735963603
+      goku emote ssj1-Photoroom_40: -1280284888974897277
+      goku emote ssj1-Photoroom_41: -6229368617622876011
+      goku emote ssj1-Photoroom_42: 271338879680460425
+      goku emote ssj1-Photoroom_43: 920310312228884654
+      goku emote ssj1-Photoroom_44: -5061983928353783466
+      goku emote ssj1-Photoroom_45: 3921269196876813499
+      goku emote ssj1-Photoroom_46: -4625296693026293953
+      goku emote ssj1-Photoroom_47: 7287749926447901027
+      goku emote ssj1-Photoroom_48: 1632591133917352411
+      goku emote ssj1-Photoroom_49: 6586538829539873888
+      goku emote ssj1-Photoroom_5: 3333030661475753223
+      goku emote ssj1-Photoroom_50: -632551552592369079
+      goku emote ssj1-Photoroom_51: 4832777061666830429
+      goku emote ssj1-Photoroom_52: -917899047083164948
+      goku emote ssj1-Photoroom_53: -7925362086619014670
+      goku emote ssj1-Photoroom_54: 7526580719019437692
+      goku emote ssj1-Photoroom_55: -4959240600782381302
+      goku emote ssj1-Photoroom_56: -2704010271106262708
+      goku emote ssj1-Photoroom_57: 158837185800821825
+      goku emote ssj1-Photoroom_58: 8204779074134014609
+      goku emote ssj1-Photoroom_59: 4343130880599709495
+      goku emote ssj1-Photoroom_6: -460129617807189835
+      goku emote ssj1-Photoroom_60: 608456310858533614
+      goku emote ssj1-Photoroom_61: -4516928555599757397
+      goku emote ssj1-Photoroom_62: 3718590339449246714
+      goku emote ssj1-Photoroom_63: 3378375208062354233
+      goku emote ssj1-Photoroom_64: -8327898023813562475
+      goku emote ssj1-Photoroom_65: 322015370520142841
+      goku emote ssj1-Photoroom_66: -1107243560390752868
+      goku emote ssj1-Photoroom_67: -1694439529399702164
+      goku emote ssj1-Photoroom_68: -1131654645706888832
+      goku emote ssj1-Photoroom_69: -4548474240586482917
+      goku emote ssj1-Photoroom_7: -7114037012432318897
+      goku emote ssj1-Photoroom_70: -2754843056151015532
+      goku emote ssj1-Photoroom_71: -8188822951576672150
+      goku emote ssj1-Photoroom_72: 4056535342441133252
+      goku emote ssj1-Photoroom_73: 792068860922709960
+      goku emote ssj1-Photoroom_8: 8460546914420769562
+      goku emote ssj1-Photoroom_9: -2637624069215380919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
