@@ -11,5 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scenes/Didacticiel V.Final.unity
     guid: a53050b7ae62c8244b7ffad686d404d3
+  - enabled: 1
+    path: Assets/Scenes/bar.unity
+    guid: 1e1c0acde87440d48bca4d7a2e6cf612
+  - enabled: 0
+    path: Assets/Scenes/Credits.unity
+    guid: 36f10d4f0aed8f14a8c2db544b95f4c7
+  - enabled: 1
+    path: Assets/Scenes/credits 1.unity
+    guid: 2d44245b0d4c72e4bb13b0dcad7708e5
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

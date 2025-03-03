@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icone-battleVerse_0: 7379698356453578876
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

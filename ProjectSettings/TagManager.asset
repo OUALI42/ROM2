@@ -8,6 +8,8 @@ TagManager:
   - Danger
   - InteractUI
   - Ground
+  - bar-zone1
+  - zone1-credits 1
   layers:
   - Default
   - TransparentFX

@@ -65,6 +65,8 @@ public class PlayerMovement : MonoBehaviour
             // Debug.Log("Direction inversée : " + (isFacingRight ? "Droite" : "Gauche"));
         }
     }
+    
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -80,6 +82,21 @@ public class PlayerMovement : MonoBehaviour
         {
             Die();
         }
+        
+        if (collision.gameObject.CompareTag("bar-zone1")) // 
+        {
+            
+            SceneManager.LoadScene("Didacticiel V.Final");
+        }
+        if (collision.gameObject.CompareTag("zone1-credits 1")) // 
+        {
+            
+            SceneManager.LoadScene("credits 1");
+        }
+        
+        
+
+
 
     }
     

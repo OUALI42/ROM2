@@ -1,20 +1,13 @@
 using UnityEngine;
 
-public class AudioManagerScene : MonoBehaviour
+public class AudioManager : MonoBehaviour
 {
-    private static AudioManagerScene instance;
+    public AudioClip[] playlist;
+    public AudioSource audioSource;
 
-    void Awake()
+    void Start()
     {
-        // Si une musique est déjà en cours, on détruit celle qui vient d'être créée
-        if (instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        // Sinon, on garde cet AudioManager et on empêche sa destruction
-        instance = this;
-        DontDestroyOnLoad(gameObject);
+        audioSource.clip = playlist[0];
+        audioSource.Play();
     }
 }
