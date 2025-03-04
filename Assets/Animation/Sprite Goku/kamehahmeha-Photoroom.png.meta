@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cc0537bbd59287549ae22e60b1464228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1140715288360540679
+    second: kamehahmeha-Photoroom_0
+  - first:
+      213: 1204053325195146123
+    second: kamehahmeha-Photoroom_1
+  - first:
+      213: 8683321829051644981
+    second: kamehahmeha-Photoroom_2
+  - first:
+      213: -5102879626623217528
+    second: kamehahmeha-Photoroom_3
+  - first:
+      213: -8039048025323333257
+    second: kamehahmeha-Photoroom_4
+  - first:
+      213: -2210935297565635736
+    second: kamehahmeha-Photoroom_5
+  - first:
+      213: -6482461696490444765
+    second: kamehahmeha-Photoroom_6
+  - first:
+      213: 808481379923705133
+    second: kamehahmeha-Photoroom_7
+  - first:
+      213: -4091758922598010021
+    second: kamehahmeha-Photoroom_8
+  - first:
+      213: -5519233049147769701
+    second: kamehahmeha-Photoroom_9
+  - first:
+      213: 6146659662464681337
+    second: kamehahmeha-Photoroom_10
+  - first:
+      213: -7633881794331110420
+    second: kamehahmeha-Photoroom_11
+  - first:
+      213: -8007079895159805988
+    second: kamehahmeha-Photoroom_12
+  - first:
+      213: -1055797008969683856
+    second: kamehahmeha-Photoroom_13
+  - first:
+      213: -5787601255186137032
+    second: kamehahmeha-Photoroom_14
+  - first:
+      213: -5340516542646131734
+    second: kamehahmeha-Photoroom_15
+  - first:
+      213: -3166313595036411398
+    second: kamehahmeha-Photoroom_16
+  - first:
+      213: 4059843055032140345
+    second: kamehahmeha-Photoroom_17
+  - first:
+      213: -497383303339713396
+    second: kamehahmeha-Photoroom_18
+  - first:
+      213: -8475333282473010658
+    second: kamehahmeha-Photoroom_19
+  - first:
+      213: -6103602841797791999
+    second: kamehahmeha-Photoroom_20
+  - first:
+      213: 4085941284397380131
+    second: kamehahmeha-Photoroom_21
+  - first:
+      213: -6759105245615650458
+    second: kamehahmeha-Photoroom_22
+  - first:
+      213: 8582344025935532896
+    second: kamehahmeha-Photoroom_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a5690d282a4df00800000000000000
+      internalID: 1140715288360540679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8372e2be18a5b010800000000000000
+      internalID: 1204053325195146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb403823b518870800000000000000
+      internalID: 8683321829051644981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8809b8b040eee29b0800000000000000
+      internalID: -5102879626623217528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7791c46e9609f6090800000000000000
+      internalID: -8039048025323333257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 24
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4a379f0e2151e0800000000000000
+      internalID: -2210935297565635736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3286c9ebe6ba906a0800000000000000
+      internalID: -6482461696490444765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 8
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbed1188d483b00800000000000000
+      internalID: 808481379923705133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 9
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b20060f62737c0800000000000000
+      internalID: -4091758922598010021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c73f0b8ceb763b0800000000000000
+      internalID: -5519233049147769701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 24
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750e6885625d4550800000000000000
+      internalID: 6146659662464681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 29
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3929f34f00f0690800000000000000
+      internalID: -7633881794331110420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 25
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e3d8324321e090800000000000000
+      internalID: -8007079895159805988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 23
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2175d63e0951f0800000000000000
+      internalID: -1055797008969683856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 28
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830860b825f4eafa0800000000000000
+      internalID: -5787601255186137032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 24
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ea7eef7ca2e5b0800000000000000
+      internalID: -5340516542646131734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95d58af8efe04d0800000000000000
+      internalID: -3166313595036411398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 36
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320703afb5775830800000000000000
+      internalID: 4059843055032140345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 34
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cd9375580f819f0800000000000000
+      internalID: -497383303339713396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 39
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9629a841916a80800000000000000
+      internalID: -8475333282473010658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 38
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe39cbd85ab4ba0800000000000000
+      internalID: -6103602841797791999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 41
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322fb9d23fd24b830800000000000000
+      internalID: 4085941284397380131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 42
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66989932795d232a0800000000000000
+      internalID: -6759105245615650458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehahmeha-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 44
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063551e9b6c9a1770800000000000000
+      internalID: 8582344025935532896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kamehahmeha-Photoroom_0: 1140715288360540679
+      kamehahmeha-Photoroom_1: 1204053325195146123
+      kamehahmeha-Photoroom_10: 6146659662464681337
+      kamehahmeha-Photoroom_11: -7633881794331110420
+      kamehahmeha-Photoroom_12: -8007079895159805988
+      kamehahmeha-Photoroom_13: -1055797008969683856
+      kamehahmeha-Photoroom_14: -5787601255186137032
+      kamehahmeha-Photoroom_15: -5340516542646131734
+      kamehahmeha-Photoroom_16: -3166313595036411398
+      kamehahmeha-Photoroom_17: 4059843055032140345
+      kamehahmeha-Photoroom_18: -497383303339713396
+      kamehahmeha-Photoroom_19: -8475333282473010658
+      kamehahmeha-Photoroom_2: 8683321829051644981
+      kamehahmeha-Photoroom_20: -6103602841797791999
+      kamehahmeha-Photoroom_21: 4085941284397380131
+      kamehahmeha-Photoroom_22: -6759105245615650458
+      kamehahmeha-Photoroom_23: 8582344025935532896
+      kamehahmeha-Photoroom_3: -5102879626623217528
+      kamehahmeha-Photoroom_4: -8039048025323333257
+      kamehahmeha-Photoroom_5: -2210935297565635736
+      kamehahmeha-Photoroom_6: -6482461696490444765
+      kamehahmeha-Photoroom_7: 808481379923705133
+      kamehahmeha-Photoroom_8: -4091758922598010021
+      kamehahmeha-Photoroom_9: -5519233049147769701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
