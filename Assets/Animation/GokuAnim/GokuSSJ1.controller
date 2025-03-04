@@ -52,28 +52,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
---- !u!1101 &-8389473183890399132
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 5744748111985932537}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.63414633
-  m_HasExitTime: 0
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1102 &-7984041684804464282
 AnimatorState:
   serializedVersion: 6
@@ -350,7 +328,6 @@ AnimatorState:
   - {fileID: 2820333124961706825}
   - {fileID: -3292168899322480903}
   - {fileID: -1994614961115660786}
-  - {fileID: -8389473183890399132}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -423,7 +400,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Goku
+  m_Name: GokuSSJ1
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: xVelocity
@@ -480,13 +457,7 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: isSuperSaiyan
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: "SSJ1pass\xE9"
+  - m_Name: ifSsj1
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -651,8 +622,7 @@ AnimatorState:
   m_Name: GokuSsj1
   m_Speed: 1
   m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: 7432284573393810483}
+  m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -693,28 +663,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
---- !u!1101 &7432284573393810483
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: -2375009220914773306}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0.25
-  m_TransitionOffset: 0
-  m_ExitTime: 0.9321267
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1107 &7688726596978345950
 AnimatorStateMachine:
   serializedVersion: 6
@@ -741,19 +689,19 @@ AnimatorStateMachine:
     m_Position: {x: 250, y: -100, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5744748111985932537}
-    m_Position: {x: 580, y: 0, z: 0}
+    m_Position: {x: 570, y: 20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1758414599569452987}
-    m_Position: {x: 940, y: 80, z: 0}
+    m_Position: {x: 605, y: 85, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4319120918240833100}
-    m_Position: {x: 950, y: 160, z: 0}
+    m_Position: {x: 640, y: 150, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6085327428245083757}
-    m_Position: {x: 1010, y: 220, z: 0}
+    m_Position: {x: 675, y: 215, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6341529071372854979}
-    m_Position: {x: 990, y: 220, z: 0}
+    m_Position: {x: 710, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2756477969604066597}
     m_Position: {x: 745, y: 345, z: 0}

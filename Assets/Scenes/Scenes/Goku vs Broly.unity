@@ -503,6 +503,7 @@ MonoBehaviour:
   dashDuration: 0.3
   dashCooldown: 1
   dashKey: 304
+  superSaiyanController: {fileID: 22100000, guid: de49b5a4d7db6124e9582254a3622a56, type: 2}
 --- !u!114 &1555268361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -516,8 +517,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isAttacking: 0
+  isSuperSaiyan: 0
   punchKey: 113
   footKey: 101
+  Ssj1Key: 114
 --- !u!1 &2023821087
 GameObject:
   m_ObjectHideFlags: 0

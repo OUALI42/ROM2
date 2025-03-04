@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GokuSSJOverride
+  m_Controller: {fileID: 9100000, guid: 14127aa80b6ff664b82e244dcb2c44bd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 95b40a5be3a68794cb436ef19a22b02a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f7c5c8c56bee6f946b9dd6f7875ec896, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 975cab6b19ffc6e4a8601ee933b916df, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 74eb72cdd85baaf479855d19a9965810, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1320fe2d4743b2b4b8c096c83ec31df1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13d2cc6be1aa65744b76907b39d01a45, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: db2a54273e06e794cb9ac406759f2ec4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a409394585a95534e96b8dd647fb5f0a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60d0ea0a1ded7704ab48e6062d650099, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cecf8fb38e2fd7b4594a68d8d8f1e807, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 17d6ccd85c2d91b469f2beadcdc92adf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 111de0860f88b2a4d918a2ca443a36e4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1b96c30b36e951347a5f50611559bca6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f2b7929435a3a84a8b84e1df40f812c, type: 2}
