@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PauseMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PauseMenu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/bar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/bar.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Video/cinematic.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Video/cinematic.renderTexture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/icone-battleVerse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/icone-battleVerse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/1000_F_443693248_FFOUon01HIYUVLVPFIyhrzDlbmWN8XKq.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/1000_F_443693248_FFOUon01HIYUVLVPFIyhrzDlbmWN8XKq.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/baratier.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/baratier.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/barriere.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/barriere.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/de.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/de.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/settingsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/settingsMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +94,7 @@
       <updated>1740663437057</updated>
       <workItem from="1740663438685" duration="11000" />
       <workItem from="1740843115352" duration="10528000" />
+      <workItem from="1741028645264" duration="975000" />
     </task>
     <servers />
   </component>
