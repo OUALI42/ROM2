@@ -80,6 +80,24 @@ public class PlayerMovement : MonoBehaviour
         {
             Die();
         }
+        
+        if (collision.gameObject.CompareTag("ennemi")) // Vérifie si l'objet touché est un ennemi
+        {
+            
+            SceneManager.LoadScene("zone1");
+        }
+        
+        if (collision.gameObject.CompareTag("Fin"))
+        {
+            
+            SceneManager.LoadScene("Credits");
+        }
+        if (collision.gameObject.CompareTag("Bar"))
+        {
+            
+            SceneManager.LoadScene("zone1");
+        }
+
 
     }
     

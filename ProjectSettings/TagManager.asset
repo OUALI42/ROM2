@@ -8,7 +8,12 @@ TagManager:
   - Danger
   - InteractUI
   - Ground
+<<<<<<< Updated upstream
   - 'Goku '
+=======
+  - ennemi
+  - Bar
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX

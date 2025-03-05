@@ -2,28 +2,48 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip buttonMenuSound;
+    public AudioClip ButtonPlaySound;
+    
+    
+   
     public string levelToLoad ;
 
     public GameObject settingsWindow;
 
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
     public void StartGame(){
 
-        SceneManager.LoadScene(levelToLoad);
+        audioSource.clip = ButtonPlaySound;
+        audioSource.Play();
+        SceneManager.LoadScene("zone1");
 
     }
     public void SettingsButton(){
-
+        audioSource.clip = buttonMenuSound;
+        audioSource.Play();
         settingsWindow.SetActive(true);
     }
 
     public void CloseSettingsMenu(){
-
+        audioSource.clip = buttonMenuSound;
+        audioSource.Play();
         settingsWindow.SetActive(false);
+    }
+    
+    public void OpenCredits(){
+        SceneManager.LoadScene("credits");
+        
     }
 
 
     public void QuitGame(){
-
+        audioSource.clip = buttonMenuSound;
+        audioSource.Play();
         Application.Quit();
     }
     

@@ -5,10 +5,12 @@ public class PauseMenu : MonoBehaviour{
     public static bool gameIsPaused = false;
     public GameObject pauseMenuUI ;
 
+    public GameObject settingsWindows;
+
 
     void Update(){
 
-         if(Input.GetKeyDown(KeyCode.Escape)){
+        if(Input.GetKeyDown(KeyCode.Escape)){
 
             if(gameIsPaused){
 
@@ -18,7 +20,7 @@ public class PauseMenu : MonoBehaviour{
 
                 Pause();
             }
-         }
+        }
     }
 
     public void Pause(){
@@ -33,6 +35,18 @@ public class PauseMenu : MonoBehaviour{
         Time.timeScale = 1;
         gameIsPaused = false;
     }
+
+    public void OpenSettingsWindow(){
+
+        settingsWindows.SetActive(true);
+    }
+
+    public void CloseSettingsWindow(){
+
+        settingsWindows.SetActive(false);
+    }
+
+    
 
     public void LoadMainMenu(){
 
