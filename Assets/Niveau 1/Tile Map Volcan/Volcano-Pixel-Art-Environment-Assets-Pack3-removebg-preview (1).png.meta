@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 83167129d677ef34cba75aa5620bd031
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8365144156788122947
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_0
+  - first:
+      213: -8400100901288609736
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_1
+  - first:
+      213: 1741179776598627678
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_2
+  - first:
+      213: -8441430171443976314
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_3
+  - first:
+      213: -1169280051566641882
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_4
+  - first:
+      213: 1074878963665109196
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_5
+  - first:
+      213: 2513933073118028272
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_6
+  - first:
+      213: -5959161998630816273
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_7
+  - first:
+      213: -5923886477101620150
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_8
+  - first:
+      213: -933435072239766793
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_9
+  - first:
+      213: -7560091978762239353
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_10
+  - first:
+      213: -8428116514820725046
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_11
+  - first:
+      213: 1955949378121462388
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_12
+  - first:
+      213: 1954975660174977844
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_13
+  - first:
+      213: 4094484852893197491
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_14
+  - first:
+      213: -6416015978084486172
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_15
+  - first:
+      213: 1622450993374416593
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_16
+  - first:
+      213: -3276684733699645425
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_17
+  - first:
+      213: 4103209150387146403
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_18
+  - first:
+      213: -7925015442102110248
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_19
+  - first:
+      213: 4668192160023586252
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_20
+  - first:
+      213: 7038011254089793500
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_21
+  - first:
+      213: -293732803993772854
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_22
+  - first:
+      213: 5036756472267771749
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_23
+  - first:
+      213: -7480433045358506427
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_24
+  - first:
+      213: 3867408023280203531
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_25
+  - first:
+      213: -1216370473242788527
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_26
+  - first:
+      213: 5546071138675039644
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_27
+  - first:
+      213: 8449982251421238519
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_28
+  - first:
+      213: 3348828655183802864
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_29
+  - first:
+      213: 5651373342012825394
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_30
+  - first:
+      213: 2935152198096620709
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_31
+  - first:
+      213: -4926371745124265075
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_32
+  - first:
+      213: -6171377915028129854
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_33
+  - first:
+      213: 6845779040898339892
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_34
+  - first:
+      213: 8867360666573754402
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_35
+  - first:
+      213: 4568441614806918102
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_36
+  - first:
+      213: -7445557608811589443
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_37
+  - first:
+      213: 5789420192388120292
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_38
+  - first:
+      213: -1902373385118256181
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_39
+  - first:
+      213: -1426512846113760434
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_40
+  - first:
+      213: -6717165230735729481
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_41
+  - first:
+      213: -843693317675708494
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_42
+  - first:
+      213: 5688158176884983356
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_43
+  - first:
+      213: 4426051388514656895
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_44
+  - first:
+      213: 8056896877489530923
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_45
+  - first:
+      213: 2217124649523777146
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_46
+  - first:
+      213: -9193580955687234271
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_47
+  - first:
+      213: 9155370744309169570
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_48
+  - first:
+      213: 8467563969336201828
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_49
+  - first:
+      213: 1901785341836924756
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_50
+  - first:
+      213: 2878600955268444411
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_51
+  - first:
+      213: -1079494761350868895
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_52
+  - first:
+      213: -473597230483675003
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_53
+  - first:
+      213: 7165799514864275006
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_54
+  - first:
+      213: -2683402365920171738
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_55
+  - first:
+      213: 2672797210876566320
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_56
+  - first:
+      213: 4974503039831811901
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_57
+  - first:
+      213: 3349823718585772330
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_58
+  - first:
+      213: -6910346233625515486
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_59
+  - first:
+      213: 4648861815936573092
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_60
+  - first:
+      213: 9056154649905321078
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_61
+  - first:
+      213: 368600521628284254
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_62
+  - first:
+      213: -6952794425033701565
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_63
+  - first:
+      213: -1114268792338678089
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_64
+  - first:
+      213: -3345978012724939167
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_65
+  - first:
+      213: 1198158386580521899
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_66
+  - first:
+      213: 171322599410533153
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_67
+  - first:
+      213: 5255426758044229454
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_68
+  - first:
+      213: -3817313393431075936
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_69
+  - first:
+      213: -811438787548403317
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_70
+  - first:
+      213: 9007756444834083594
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_71
+  - first:
+      213: 2644432985851351266
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_72
+  - first:
+      213: -140565620579878534
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_73
+  - first:
+      213: -6175951186273725356
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_74
+  - first:
+      213: -9108026456327849838
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_75
+  - first:
+      213: 1837709392740515147
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_76
+  - first:
+      213: -8080559801028539464
+    second: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 612
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba95b7b5b909eb80800000000000000
+      internalID: -8365144156788122947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 612
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f0456cb8dc6b80800000000000000
+      internalID: -8400100901288609736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 612
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55514a18c9e92810800000000000000
+      internalID: 1741179776598627678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 612
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68721d2dbf30ada80800000000000000
+      internalID: -8441430171443976314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 612
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d7b6bfcf1e5cfe0800000000000000
+      internalID: -1169280051566641882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 612
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08cc5f8bcbaee00800000000000000
+      internalID: 1074878963665109196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 612
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16e448fc843e220800000000000000
+      internalID: 2513933073118028272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 612
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57a983cbdcc4da0800000000000000
+      internalID: -5959161998630816273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 612
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442e9a92a02acda0800000000000000
+      internalID: -5923886477101620150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 612
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f1425fb5cb03f0800000000000000
+      internalID: -933435072239766793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 612
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c8908668251790800000000000000
+      internalID: -7560091978762239353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 518
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e1801fa0590b80800000000000000
+      internalID: -8428116514820725046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 518
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727399a89de42b10800000000000000
+      internalID: 1955949378121462388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 518
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba3494108712b10800000000000000
+      internalID: 1954975660174977844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 518
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4aaeab74882d830800000000000000
+      internalID: 4094484852893197491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 518
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33b01267bb5f6a0800000000000000
+      internalID: -6416015978084486172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 518
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1decf85159a148610800000000000000
+      internalID: 1622450993374416593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 518
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0023e66890e682d0800000000000000
+      internalID: -3276684733699645425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 518
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae45f78bf681f830800000000000000
+      internalID: 4103209150387146403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 518
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7b406a170b40290800000000000000
+      internalID: -7925015442102110248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_20
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 518
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc528715900c8c040800000000000000
+      internalID: 4668192160023586252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 518
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf393552f90ca160800000000000000
+      internalID: 7038011254089793500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc521f22937cebf0800000000000000
+      internalID: -293732803993772854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 423
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f8bad535726e540800000000000000
+      internalID: 5036756472267771749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 423
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e005d37c9203890800000000000000
+      internalID: -7480433045358506427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 423
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07bc155b1bcba530800000000000000
+      internalID: 3867408023280203531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 423
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df61bcf759e1fe0800000000000000
+      internalID: -1216370473242788527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 423
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d95c7f05a97fc40800000000000000
+      internalID: 5546071138675039644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_28
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 423
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f48156761e544570800000000000000
+      internalID: 8449982251421238519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_29
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 423
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f131e54bed697e20800000000000000
+      internalID: 3348828655183802864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_30
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 423
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f59cfbc16bd6e40800000000000000
+      internalID: 5651373342012825394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 423
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac81418f51cbb820800000000000000
+      internalID: 2935152198096620709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_32
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 423
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d854bff202abb0800000000000000
+      internalID: -4926371745124265075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 329
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7be00db7cda5aa0800000000000000
+      internalID: -6171377915028129854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 329
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345f8764c7110f50800000000000000
+      internalID: 6845779040898339892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 329
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22056628b813f0b70800000000000000
+      internalID: 8867360666573754402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_36
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 329
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3adaba17d566f30800000000000000
+      internalID: 4568441614806918102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 329
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db014149dc01ca890800000000000000
+      internalID: -7445557608811589443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 329
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee74c6cdf6285050800000000000000
+      internalID: 5789420192388120292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 329
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37ed54c796995e0800000000000000
+      internalID: -1902373385118256181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_40
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 329
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9bdbdf12043ce0800000000000000
+      internalID: -1426512846113760434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_41
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 329
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc546ccfc5d7c2a0800000000000000
+      internalID: -6717165230735729481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_42
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 329
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf819cc5699a44f0800000000000000
+      internalID: -843693317675708494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_43
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 329
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36867789b560fe40800000000000000
+      internalID: 5688158176884983356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 234
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726a02a94e7c6d30800000000000000
+      internalID: 4426051388514656895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 234
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a7b6d509dfcf60800000000000000
+      internalID: 8056896877489530923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 234
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e80a53f1fc4ce10800000000000000
+      internalID: 2217124649523777146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 234
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125577a94d6d96080800000000000000
+      internalID: -9193580955687234271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 234
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad3d894f296e0f70800000000000000
+      internalID: 9155370744309169570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 234
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4625e292194d28570800000000000000
+      internalID: 8467563969336201828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 234
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4571c3b31bf746a10800000000000000
+      internalID: 1901785341836924756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_51
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 234
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf030ec3158d2f720800000000000000
+      internalID: 2878600955268444411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_52
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 234
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16059c4eb3dd401f0800000000000000
+      internalID: -1079494761350868895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_53
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 234
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588696ef3d17d69f0800000000000000
+      internalID: -473597230483675003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_54
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 234
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec62751b8027360800000000000000
+      internalID: 7165799514864275006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a2e5f3c3a2cad0800000000000000
+      internalID: -2683402365920171738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 138
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd3f6f6eea71520800000000000000
+      internalID: 2672797210876566320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 138
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a64f982cf80540800000000000000
+      internalID: 4974503039831811901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 138
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ab768ce6fc7e20800000000000000
+      internalID: 3349823718585772330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 138
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aeacd86b48910a0800000000000000
+      internalID: -6910346233625515486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_60
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 138
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed6ccd033148040800000000000000
+      internalID: 4648861815936573092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_61
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 138
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674db9a2cacedad70800000000000000
+      internalID: 9056154649905321078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_62
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 138
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e557da3b8388d1500800000000000000
+      internalID: 368600521628284254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_63
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 138
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347cc83de46b28f90800000000000000
+      internalID: -6952794425033701565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_64
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 163
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be7950ef625980f0800000000000000
+      internalID: -1114268792338678089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 138
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663345a9b2b091d0800000000000000
+      internalID: -3345978012724939167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba389c854b6b0a010800000000000000
+      internalID: 1198158386580521899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 92
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238cd71ff8a06200800000000000000
+      internalID: 171322599410533153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_68
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1f40cac60fe840800000000000000
+      internalID: 5255426758044229454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 82
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3233491bd260bc0800000000000000
+      internalID: -3817313393431075936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_70
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 43
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89243fc8b03db4f0800000000000000
+      internalID: -811438787548403317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03329de2caf10d70800000000000000
+      internalID: 9007756444834083594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_72
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 44
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0def13ac9e2b420800000000000000
+      internalID: 2644432985851351266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_73
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 82
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7934b5105c9c0ef0800000000000000
+      internalID: -140565620579878534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_74
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 84
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45490002e1d9a4aa0800000000000000
+      internalID: -6175951186273725356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_75
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 43
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f7b1c13ac99180800000000000000
+      internalID: -9108026456327849838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_76
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 82
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d72b2c4fad08910800000000000000
+      internalID: 1837709392740515147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_77
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 61
+        width: 82
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb84617ca51cdf80800000000000000
+      internalID: -8080559801028539464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
