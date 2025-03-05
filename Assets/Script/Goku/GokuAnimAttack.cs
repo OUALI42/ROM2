@@ -38,7 +38,7 @@ public class GokuAnimAttack : MonoBehaviour
     void Start()
     {
         Move= GetComponent<GokuMove>();
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();  
         cinematicCanvas.gameObject.SetActive(false);
     }
 
