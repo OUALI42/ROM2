@@ -9,6 +9,7 @@ TagManager:
   - InteractUI
   - Ground
   - 'Goku '
+  - mob
   layers:
   - Default
   - TransparentFX
@@ -17,13 +18,13 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - Player
   - Ground
   - Enemy
   - 
   - Danger
   - 
-  - 
+  - Mob
   - 
   - 
   - 

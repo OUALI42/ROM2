@@ -11,6 +11,8 @@ public class ZoneAttack : MonoBehaviour
     private Coroutine damageCoroutine;
 	[SerializeField]
 	private Animator animator;
+    private bool isPlayerInZone = false;
+
 
     private void Start()
     {
@@ -21,13 +23,16 @@ public class ZoneAttack : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-			animator.SetBool("IsAttacking",true);
+            animator.SetBool("IsAttacking", true);
             GokuLife = other.GetComponent<GokuHealth>();
+            
             if (GokuLife != null)
             {
-				
+                isPlayerInZone = true;  // Le joueur est dans la zone
+                
                 mobScript.StopMovement();
                 mobScript.StopChase();
+                
                 damageCoroutine = StartCoroutine(DealDamageContinuously());
             }
         }
@@ -37,7 +42,9 @@ public class ZoneAttack : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-			animator.SetBool("IsAttacking",false);
+            animator.SetBool("IsAttacking", false);
+            isPlayerInZone = false;  // Le joueur est sorti de la zone
+            
             if (damageCoroutine != null)
             {
                 StopCoroutine(damageCoroutine);
@@ -58,14 +65,16 @@ public class ZoneAttack : MonoBehaviour
             }
         }
     }
+
     
-    private IEnumerator DealDamageContinuously()
-{
-    while (GokuLife != null && GokuLife.currentHealth > 0)  // Utiliser currentHealth au lieu de maxHealth
+  private IEnumerator DealDamageContinuously()
     {
-        GokuLife.TakeDamage((int)damage);  // Appeler la méthode TakeDamage pour infliger des dégâts
-        yield return new WaitForSeconds(damageInterval);
+        while (isPlayerInZone && GokuLife != null && GokuLife.currentHealth > 0)
+        {
+            GokuLife.TakeDamage(damage);
+            yield return new WaitForSeconds(damageInterval);
+        }
     }
-}
+
 
 }

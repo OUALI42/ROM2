@@ -6,7 +6,7 @@ public class GokuMove : MonoBehaviour
 {
     float horizontalInput;
     [SerializeField] public float moveSpeed = 5f;
-    bool isFacingRight = true;
+    public bool isFacingRight = true;
     [SerializeField] public float jumpPower = 5f;
     [SerializeField] private float jumpBoostMultiplier = 0.5f; // Boost en maintenant la touche
     [SerializeField] private float maxJumpTime = 0.3f; // Durée max du boost
