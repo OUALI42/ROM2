@@ -25,7 +25,7 @@ public class MobHealth : MonoBehaviour
 
     void Die()
     {
-        animator.Play("BuuDeath"); // Animation de mort
+        animator.Play("annimation Mort"); // Animation de mort
         Destroy(gameObject, 1f); // Détruit le mob après 1 seconde
     }
 }
