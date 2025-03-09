@@ -202,7 +202,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -240,7 +240,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_0: -2046745225440817841
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_1: -4802491989371083481
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_10: 399091193023201145
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_11: 7175103692490982061
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_12: 4809777936702305688
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_13: 810264415479831863
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_14: -5030768224209002305
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_15: -1966058076410478781
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_16: -3954544639687383825
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_17: 191030553527678921
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_18: -4759427058854109414
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_19: -2246653130275578936
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_2: 4401972269932421350
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_20: -7118562457327954823
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_21: 3399073052827557966
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_22: -1217750494915800218
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_23: -8789609815711997934
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_24: -4643990560944943343
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_25: 871791748961330548
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_26: -5346454213728247214
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_27: -9141071563427698196
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_28: 8959503817042780011
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_29: 161799793195763324
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_3: -8144314154722413560
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_30: -3630767468629056119
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_31: -4987497477477414601
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_32: -7853356718457008362
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_33: -525453180357403717
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_34: -818467891223099220
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_35: -5553560219826051460
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_36: -201647565645592310
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_37: -2195378204389454600
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_38: 6122219274861547263
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_39: -1525548243482333631
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_4: 8416812828441453104
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40: -3294168153540979317
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_41: 5902591173767528044
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_42: -8802493516913347126
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_43: -3545930405637367661
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_44: -9107403095576937616
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_45: -5486172459254017934
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_46: -3996763788593967836
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_47: -1273571897161420679
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_48: -2182568508224440238
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_49: -8205264964823791645
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_5: -2013182752507756280
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_50: -1761647430991624993
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_51: -7721141097966133533
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_52: -3216166794116078252
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_53: 8591418781947046082
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_54: 7607395576887918054
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_55: -4791122681846514262
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_6: 7476808160702423622
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_7: 8274331267835901592
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_8: 5219793724964148255
+      Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_9: -5588303953417893737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

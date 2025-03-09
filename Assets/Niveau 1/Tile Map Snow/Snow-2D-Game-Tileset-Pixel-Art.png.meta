@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snow-2D-Game-Tileset-Pixel-Art_0: 7123603213805113557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

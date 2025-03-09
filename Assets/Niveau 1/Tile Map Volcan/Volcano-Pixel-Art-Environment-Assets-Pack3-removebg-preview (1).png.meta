@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -2072,7 +2072,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_0: -8365144156788122947
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_1: -8400100901288609736
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_10: -7560091978762239353
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_11: -8428116514820725046
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_12: 1955949378121462388
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_13: 1954975660174977844
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_14: 4094484852893197491
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_15: -6416015978084486172
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_16: 1622450993374416593
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_17: -3276684733699645425
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_18: 4103209150387146403
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_19: -7925015442102110248
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_2: 1741179776598627678
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_20: 4668192160023586252
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_21: 7038011254089793500
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_22: -293732803993772854
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_23: 5036756472267771749
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_24: -7480433045358506427
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_25: 3867408023280203531
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_26: -1216370473242788527
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_27: 5546071138675039644
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_28: 8449982251421238519
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_29: 3348828655183802864
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_3: -8441430171443976314
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_30: 5651373342012825394
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_31: 2935152198096620709
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_32: -4926371745124265075
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_33: -6171377915028129854
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_34: 6845779040898339892
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_35: 8867360666573754402
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_36: 4568441614806918102
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_37: -7445557608811589443
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_38: 5789420192388120292
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_39: -1902373385118256181
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_4: -1169280051566641882
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_40: -1426512846113760434
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_41: -6717165230735729481
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_42: -843693317675708494
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_43: 5688158176884983356
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_44: 4426051388514656895
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_45: 8056896877489530923
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_46: 2217124649523777146
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_47: -9193580955687234271
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_48: 9155370744309169570
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_49: 8467563969336201828
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_5: 1074878963665109196
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_50: 1901785341836924756
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_51: 2878600955268444411
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_52: -1079494761350868895
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_53: -473597230483675003
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_54: 7165799514864275006
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_55: -2683402365920171738
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_56: 2672797210876566320
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_57: 4974503039831811901
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_58: 3349823718585772330
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_59: -6910346233625515486
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_6: 2513933073118028272
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_60: 4648861815936573092
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_61: 9056154649905321078
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_62: 368600521628284254
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_63: -6952794425033701565
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_64: -1114268792338678089
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_65: -3345978012724939167
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_66: 1198158386580521899
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_67: 171322599410533153
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_68: 5255426758044229454
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_69: -3817313393431075936
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_7: -5959161998630816273
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_70: -811438787548403317
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_71: 9007756444834083594
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_72: 2644432985851351266
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_73: -140565620579878534
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_74: -6175951186273725356
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_75: -9108026456327849838
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_76: 1837709392740515147
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_77: -8080559801028539464
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_8: -5923886477101620150
+      Volcano-Pixel-Art-Environment-Assets-Pack3-removebg-preview (1)_9: -933435072239766793
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
