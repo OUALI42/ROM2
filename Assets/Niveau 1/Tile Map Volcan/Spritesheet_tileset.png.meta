@@ -191,8 +191,8 @@ TextureImporter:
       name: Spritesheet_tileset_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1536
+        x: 82
+        y: 1428
         width: 256
         height: 256
       alignment: 0
@@ -213,7 +213,7 @@ TextureImporter:
       name: Spritesheet_tileset_1
       rect:
         serializedVersion: 2
-        x: 256
+        x: 254
         y: 1429
         width: 256
         height: 256
@@ -235,8 +235,8 @@ TextureImporter:
       name: Spritesheet_tileset_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 429
+        y: 1428
         width: 256
         height: 256
       alignment: 0
@@ -389,8 +389,8 @@ TextureImporter:
       name: Spritesheet_tileset_9
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 414
+        y: 1281
         width: 256
         height: 256
       alignment: 0
@@ -499,8 +499,8 @@ TextureImporter:
       name: Spritesheet_tileset_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1024
+        x: 98
+        y: 1142
         width: 256
         height: 256
       alignment: 0
@@ -653,10 +653,10 @@ TextureImporter:
       name: Spritesheet_tileset_21
       rect:
         serializedVersion: 2
-        x: 0
+        x: 81
         y: 768
         width: 256
-        height: 256
+        height: 148
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,7 +678,7 @@ TextureImporter:
         x: 256
         y: 768
         width: 256
-        height: 256
+        height: 148
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,10 +697,10 @@ TextureImporter:
       name: Spritesheet_tileset_23
       rect:
         serializedVersion: 2
-        x: 512
+        x: 429
         y: 768
         width: 256
-        height: 256
+        height: 148
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

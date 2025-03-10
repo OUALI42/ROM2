@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ceb988063afbe82478fabbf5e80e2f3d
+guid: 2cf3baff9b07fbd4a83184512739c788
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: 3651066641941078870
+    second: Inferno-Village-2D-Platformer-Tileset2 (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: Inferno-Village-2D-Platformer-Tileset2 (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3400
-        height: 2400
+        width: 2164
+        height: 1196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: 6532d2444c13ba230800000000000000
+      internalID: 3651066641941078870
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_0: -1955448553306655712
+      Inferno-Village-2D-Platformer-Tileset2 (1)_0: 3651066641941078870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
