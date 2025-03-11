@@ -1,7 +1,3 @@
-
-
-// Essaie 1
-
 // using System.Collections;
 // using System.Collections.Generic;
 // using UnityEngine;
@@ -37,6 +33,10 @@
 //     [SerializeField] private float time_destruct_for_aura;
 //     [SerializeField] private float time_destruct_for_boule;
 //     [SerializeField] private float time_destruct_for_Kame;
+//     [SerializeField] private GameObject punchHitbox;
+//     [SerializeField] private GameObject footHitbox;
+//     [SerializeField] private GameObject kameHitbox;
+
     
 
 //     void Start()
@@ -44,6 +44,10 @@
 //         Move= GetComponent<GokuMove>();
 //         animator = GetComponent<Animator>();
 //         cinematicCanvas.gameObject.SetActive(false);
+//         kameHitbox.SetActive(false);
+//         punchHitbox.SetActive(false);
+//         footHitbox.SetActive(false);
+        
 //     }
 
 //     void Update()
@@ -244,13 +248,33 @@
 //             Destroy(slash, time_destruct_for_Kame); // Détruire après 0.5 secondes
 //         }
 //     }
+
+
+//      void PunchAttack()
+//     {
+//         StartCoroutine(ActivateHitbox(punchHitbox, 0.2f)); // Active 0.2 sec
+//     }
+
+//     void FootAttack()
+//     {
+//         StartCoroutine(ActivateHitbox(footHitbox, 0.8f));
+//     }
+
+//     void KameAttack()
+//     {
+//         StartCoroutine(ActivateHitbox(kameHitbox, 1.3f)); // Plus long pour le Kamehameha
+//     }
+
+//     private IEnumerator ActivateHitbox(GameObject hitbox, float duration)
+//     {
+//         hitbox.SetActive(true);
+//         yield return new WaitForSeconds(duration);
+//         hitbox.SetActive(false);
+//     }
+
 // }
 
 
-
-
-
-// Essaie 3
 
 
 using System.Collections;
@@ -291,6 +315,7 @@ public class GokuAnimAttack : MonoBehaviour
     [SerializeField] private GameObject punchHitbox;
     [SerializeField] private GameObject footHitbox;
     [SerializeField] private GameObject kameHitbox;
+    public int Ki;
 
     
 
@@ -309,7 +334,7 @@ public class GokuAnimAttack : MonoBehaviour
     {
         HandleCombat();
 
-        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic) // Vérifie si Goku n'est PAS déjà transformé
+        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 20) // Vérifie si Goku n'est PAS déjà transformé
             {
                 StartCoroutine(PlayCinematicAndTransform());
             }
@@ -527,7 +552,12 @@ public class GokuAnimAttack : MonoBehaviour
         hitbox.SetActive(false);
     }
 
+
 }
+
+
+
+
 
 
 
