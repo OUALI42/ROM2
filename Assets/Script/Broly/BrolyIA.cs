@@ -29,7 +29,7 @@ public class BrolyBoss : MonoBehaviour
 
     public float pauseBetweenAttacks = 1.5f; // Temps de pause entre chaque attaque
     public float pauseAfterKamehameha = 3f; // Pause spécifique pour le Kamehameha
-
+    public bool isFrozen = true;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -47,6 +47,8 @@ public class BrolyBoss : MonoBehaviour
 
     void Update()
     {
+        if (isFrozen) return; // Empêche tout mouvement et attaque
+
         if (isChasing)
         {
             ChasePlayer();
@@ -65,6 +67,7 @@ public class BrolyBoss : MonoBehaviour
 
     void Move()
     {
+        if (isFrozen) return; // Stop le mouvement si figé
         float moveDirection = movingRight ? 1 : -1;
         rb.velocity = new Vector2(moveDirection * patrolSpeed, rb.velocity.y);
 
@@ -79,7 +82,7 @@ public class BrolyBoss : MonoBehaviour
 
     void ChasePlayer()
     {
-        if (player == null) return;
+        if (player == null || isFrozen) return;
 
         float direction = player.position.x > transform.position.x ? 1 : -1;
         rb.velocity = new Vector2(direction * chaseSpeed, rb.velocity.y);
