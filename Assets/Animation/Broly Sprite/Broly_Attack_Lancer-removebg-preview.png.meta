@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 4ef80fc47807ee74f80b016dec5d96f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8025573451526301441
+    second: Broly_Attack_Lancer-removebg-preview_0
+  - first:
+      213: -3306836994023603245
+    second: Broly_Attack_Lancer-removebg-preview_1
+  - first:
+      213: -2929407964385587376
+    second: Broly_Attack_Lancer-removebg-preview_2
+  - first:
+      213: 6218550082041168600
+    second: Broly_Attack_Lancer-removebg-preview_3
+  - first:
+      213: 7514512755743842243
+    second: Broly_Attack_Lancer-removebg-preview_4
+  - first:
+      213: -4156757746523958778
+    second: Broly_Attack_Lancer-removebg-preview_5
+  - first:
+      213: -7052278015736959167
+    second: Broly_Attack_Lancer-removebg-preview_6
+  - first:
+      213: -7892420182779079154
+    second: Broly_Attack_Lancer-removebg-preview_7
+  - first:
+      213: 74128958347059352
+    second: Broly_Attack_Lancer-removebg-preview_8
+  - first:
+      213: -3209577237759956106
+    second: Broly_Attack_Lancer-removebg-preview_9
+  - first:
+      213: -1783037445729946385
+    second: Broly_Attack_Lancer-removebg-preview_10
+  - first:
+      213: -2417613721451603277
+    second: Broly_Attack_Lancer-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107e7096880906f60800000000000000
+      internalID: 8025573451526301441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 50
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d34a193641cb12d0800000000000000
+      internalID: -3306836994023603245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 34
+        width: 147
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc8902af6a857d0800000000000000
+      internalID: -2929407964385587376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 162
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d24a023a5abc4650800000000000000
+      internalID: 6218550082041168600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd04aa989e84860800000000000000
+      internalID: 7514512755743842243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 157
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602161d5ada3056c0800000000000000
+      internalID: -4156757746523958778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa3be5286412e90800000000000000
+      internalID: -7052278015736959167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06545bd8ad787290800000000000000
+      internalID: -7892420182779079154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 49
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a8d515eb570100800000000000000
+      internalID: 74128958347059352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b6320e18a4573d0800000000000000
+      internalID: -3209577237759956106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 49
+        width: 113
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fb0ad3e06147e0800000000000000
+      internalID: -1783037445729946385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly_Attack_Lancer-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 48
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba54c02129e27ed0800000000000000
+      internalID: -2417613721451603277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Broly_Attack_Lancer-removebg-preview_0: 8025573451526301441
+      Broly_Attack_Lancer-removebg-preview_1: -3306836994023603245
+      Broly_Attack_Lancer-removebg-preview_10: -1783037445729946385
+      Broly_Attack_Lancer-removebg-preview_11: -2417613721451603277
+      Broly_Attack_Lancer-removebg-preview_2: -2929407964385587376
+      Broly_Attack_Lancer-removebg-preview_3: 6218550082041168600
+      Broly_Attack_Lancer-removebg-preview_4: 7514512755743842243
+      Broly_Attack_Lancer-removebg-preview_5: -4156757746523958778
+      Broly_Attack_Lancer-removebg-preview_6: -7052278015736959167
+      Broly_Attack_Lancer-removebg-preview_7: -7892420182779079154
+      Broly_Attack_Lancer-removebg-preview_8: 74128958347059352
+      Broly_Attack_Lancer-removebg-preview_9: -3209577237759956106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

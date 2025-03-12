@@ -5,6 +5,11 @@ using UnityEngine;
 public class detectionMob1Script : MonoBehaviour
 {
     private mob parentMob;
+    public GameObject healthBarBroly; // Référence à la barre de vie
+    void Start()
+    {
+        healthBarBroly.SetActive(false);
+    }
 
     void Awake()
     {
@@ -15,6 +20,7 @@ public class detectionMob1Script : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            healthBarBroly.SetActive(true);
             parentMob.StartChase(other.transform);
         }
     }
@@ -23,6 +29,7 @@ public class detectionMob1Script : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            healthBarBroly.SetActive(false);
             parentMob.StopChase();
         }
     }

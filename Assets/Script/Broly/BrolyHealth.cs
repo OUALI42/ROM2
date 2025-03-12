@@ -2,22 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MobHealth : MonoBehaviour
+public class BrolyHealth : MonoBehaviour
 {
-    public int maxHealth = 50;
+    public int maxHealth = 200;
     public int currentHealth;
     private Animator animator;
-    public int Give_Ki;
+    public HealthBar healthBar; // Référence à la barre de vie
 
     void Start()
     {
         currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
         animator = GetComponent<Animator>();
     }
 
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
         if (currentHealth <= 0)
         {
             Die();
@@ -26,15 +28,7 @@ public class MobHealth : MonoBehaviour
 
     void Die()
     {
-        animator.Play("BuuDeath"); // Animation de mort
-        
-        // Trouver Goku dans la scène et lui donner du Ki
-        GokuAnimAttack goku = FindObjectOfType<GokuAnimAttack>();
-        if (goku != null)
-        {
-            goku.Ki += Give_Ki;
-        }
-        
+        animator.Play("BrolyDeath"); // Animation de mort
         Destroy(gameObject, 1f); // Détruit le mob après 1 seconde
     }
 }
