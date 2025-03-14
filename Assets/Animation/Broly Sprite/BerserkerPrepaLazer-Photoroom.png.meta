@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b54da8b916abfbc4ea8abc361adfdf09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8618621176515481720
+    second: BerserkerPrepaLazer-Photoroom_0
+  - first:
+      213: 220212233132767445
+    second: BerserkerPrepaLazer-Photoroom_1
+  - first:
+      213: 8223391613852800748
+    second: BerserkerPrepaLazer-Photoroom_2
+  - first:
+      213: -8046000953880406170
+    second: BerserkerPrepaLazer-Photoroom_3
+  - first:
+      213: 5358943422591622459
+    second: BerserkerPrepaLazer-Photoroom_4
+  - first:
+      213: -6017024579376682364
+    second: BerserkerPrepaLazer-Photoroom_5
+  - first:
+      213: 5713502702118642172
+    second: BerserkerPrepaLazer-Photoroom_6
+  - first:
+      213: 6017081444073410525
+    second: BerserkerPrepaLazer-Photoroom_7
+  - first:
+      213: -5316661091934899875
+    second: BerserkerPrepaLazer-Photoroom_8
+  - first:
+      213: 7194768145065360109
+    second: BerserkerPrepaLazer-Photoroom_9
+  - first:
+      213: -5537329642603247213
+    second: BerserkerPrepaLazer-Photoroom_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8705ddfeb4e7b9770800000000000000
+      internalID: 8618621176515481720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 271
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f21bfbd95e0300800000000000000
+      internalID: 220212233132767445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 272
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65f987a1b5f1270800000000000000
+      internalID: 8223391613852800748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 141
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667118113ccd65090800000000000000
+      internalID: -8046000953880406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 23
+        width: 127
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d5df266aace5a40800000000000000
+      internalID: 5358943422591622459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 23
+        width: 124
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a657d460c3f7ca0800000000000000
+      internalID: -6017024579376682364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 28
+        width: 168
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12407af607a4f40800000000000000
+      internalID: 5713502702118642172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 23
+        width: 403
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf079a81b7f08350800000000000000
+      internalID: 6017081444073410525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 6
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517410e7ec6736b0800000000000000
+      internalID: -5316661091934899875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 12
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deabae72283f8d360800000000000000
+      internalID: 7194768145065360109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerserkerPrepaLazer-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 9
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399846037047723b0800000000000000
+      internalID: -5537329642603247213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BerserkerPrepaLazer-Photoroom_0: 8618621176515481720
+      BerserkerPrepaLazer-Photoroom_1: 220212233132767445
+      BerserkerPrepaLazer-Photoroom_10: -5537329642603247213
+      BerserkerPrepaLazer-Photoroom_2: 8223391613852800748
+      BerserkerPrepaLazer-Photoroom_3: -8046000953880406170
+      BerserkerPrepaLazer-Photoroom_4: 5358943422591622459
+      BerserkerPrepaLazer-Photoroom_5: -6017024579376682364
+      BerserkerPrepaLazer-Photoroom_6: 5713502702118642172
+      BerserkerPrepaLazer-Photoroom_7: 6017081444073410525
+      BerserkerPrepaLazer-Photoroom_8: -5316661091934899875
+      BerserkerPrepaLazer-Photoroom_9: 7194768145065360109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

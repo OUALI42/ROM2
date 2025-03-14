@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 408526925d180784e9de5a679feb57b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1716641688784441741
+    second: FumerForLazer-removebg-preview_0
+  - first:
+      213: 7948541250005088929
+    second: FumerForLazer-removebg-preview_1
+  - first:
+      213: -8530924304637271426
+    second: FumerForLazer-removebg-preview_2
+  - first:
+      213: -3330291003067614554
+    second: FumerForLazer-removebg-preview_3
+  - first:
+      213: 1655613110293472846
+    second: FumerForLazer-removebg-preview_4
+  - first:
+      213: -6014829338792113479
+    second: FumerForLazer-removebg-preview_5
+  - first:
+      213: 5598966394652938919
+    second: FumerForLazer-removebg-preview_6
+  - first:
+      213: -7494651837345052462
+    second: FumerForLazer-removebg-preview_7
+  - first:
+      213: 7225499179246304636
+    second: FumerForLazer-removebg-preview_8
+  - first:
+      213: 3627190585038095773
+    second: FumerForLazer-removebg-preview_9
+  - first:
+      213: -1681174146932250462
+    second: FumerForLazer-removebg-preview_10
+  - first:
+      213: -133967712906557568
+    second: FumerForLazer-removebg-preview_11
+  - first:
+      213: 4480765237263760721
+    second: FumerForLazer-removebg-preview_12
+  - first:
+      213: 5458989104615067272
+    second: FumerForLazer-removebg-preview_13
+  - first:
+      213: 8071276822646261254
+    second: FumerForLazer-removebg-preview_14
+  - first:
+      213: -5579518771774262959
+    second: FumerForLazer-removebg-preview_15
+  - first:
+      213: 1968580585264359426
+    second: FumerForLazer-removebg-preview_16
+  - first:
+      213: 4762133581866379866
+    second: FumerForLazer-removebg-preview_17
+  - first:
+      213: -4442061914217809343
+    second: FumerForLazer-removebg-preview_18
+  - first:
+      213: 8129161949386498578
+    second: FumerForLazer-removebg-preview_19
+  - first:
+      213: -4165095749980536973
+    second: FumerForLazer-removebg-preview_20
+  - first:
+      213: -6810664315460085285
+    second: FumerForLazer-removebg-preview_21
+  - first:
+      213: 1493412821675479228
+    second: FumerForLazer-removebg-preview_22
+  - first:
+      213: -6545361815610484744
+    second: FumerForLazer-removebg-preview_23
+  - first:
+      213: -1739148810098058863
+    second: FumerForLazer-removebg-preview_24
+  - first:
+      213: 3046407425604653592
+    second: FumerForLazer-removebg-preview_25
+  - first:
+      213: 2949283317409706938
+    second: FumerForLazer-removebg-preview_26
+  - first:
+      213: -1293382651992969599
+    second: FumerForLazer-removebg-preview_27
+  - first:
+      213: 1576145044490157940
+    second: FumerForLazer-removebg-preview_28
+  - first:
+      213: 8435672583891394687
+    second: FumerForLazer-removebg-preview_29
+  - first:
+      213: 2214392359695479839
+    second: FumerForLazer-removebg-preview_30
+  - first:
+      213: -2969977281713270255
+    second: FumerForLazer-removebg-preview_31
+  - first:
+      213: 796919491375652073
+    second: FumerForLazer-removebg-preview_32
+  - first:
+      213: 5405284308288610388
+    second: FumerForLazer-removebg-preview_33
+  - first:
+      213: 7823986033392024317
+    second: FumerForLazer-removebg-preview_34
+  - first:
+      213: 8598431198880394977
+    second: FumerForLazer-removebg-preview_35
+  - first:
+      213: -5937178352013906667
+    second: FumerForLazer-removebg-preview_36
+  - first:
+      213: 5064237387640675470
+    second: FumerForLazer-removebg-preview_37
+  - first:
+      213: -4628076389639352554
+    second: FumerForLazer-removebg-preview_38
+  - first:
+      213: -7737630815336569561
+    second: FumerForLazer-removebg-preview_39
+  - first:
+      213: -2824792407656607289
+    second: FumerForLazer-removebg-preview_40
+  - first:
+      213: -243910634901317268
+    second: FumerForLazer-removebg-preview_41
+  - first:
+      213: -8981399571019855001
+    second: FumerForLazer-removebg-preview_42
+  - first:
+      213: 1996682056228081689
+    second: FumerForLazer-removebg-preview_43
+  - first:
+      213: 7452728769269315381
+    second: FumerForLazer-removebg-preview_44
+  - first:
+      213: -7479343001532881928
+    second: FumerForLazer-removebg-preview_45
+  - first:
+      213: 4708297642763243523
+    second: FumerForLazer-removebg-preview_46
+  - first:
+      213: -6351904716475895133
+    second: FumerForLazer-removebg-preview_47
+  - first:
+      213: -8785842386133986673
+    second: FumerForLazer-removebg-preview_48
+  - first:
+      213: 3561946378602404242
+    second: FumerForLazer-removebg-preview_49
+  - first:
+      213: -8795585383905851038
+    second: FumerForLazer-removebg-preview_50
+  - first:
+      213: 8238393922053318694
+    second: FumerForLazer-removebg-preview_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 25
+        width: 198
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e606daa734d28e0800000000000000
+      internalID: -1716641688784441741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 21
+        width: 207
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab7195724ee4e60800000000000000
+      internalID: 7948541250005088929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 27
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7269503b811c9980800000000000000
+      internalID: -8530924304637271426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab9733afd68c1d0800000000000000
+      internalID: -3330291003067614554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 152
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a58c1a5be9f610800000000000000
+      internalID: 1655613110293472846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 171
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bac2b49598078ca0800000000000000
+      internalID: -6014829338792113479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 125
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a253a6754683bd40800000000000000
+      internalID: 5598966394652938919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 133
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c1dfbcd5adf790800000000000000
+      internalID: -7494651837345052462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 129
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3adf9831264460800000000000000
+      internalID: 7225499179246304636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 138
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9546d19e9e565230800000000000000
+      internalID: 3627190585038095773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 139
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8688645054ba8e0800000000000000
+      internalID: -1681174146932250462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08745dc231d042ef0800000000000000
+      internalID: -133967712906557568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 127
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d76014e30ee2e30800000000000000
+      internalID: 4480765237263760721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0f4deaa932cb40800000000000000
+      internalID: 5458989104615067272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 104
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6068ca9b18fe20070800000000000000
+      internalID: 8071276822646261254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 23
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15175c61d319192b0800000000000000
+      internalID: -5579518771774262959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 106
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a960cc9dc15b10800000000000000
+      internalID: 1968580585264359426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 114
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aaa18034f761240800000000000000
+      internalID: 4762133581866379866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a71cc5930aa52c0800000000000000
+      internalID: -4442061914217809343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 104
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212edca09b590d070800000000000000
+      internalID: 8129161949386498578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 103
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbbe6ab7b9236c0800000000000000
+      internalID: -4165095749980536973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 91
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99298b3e8ab71a0800000000000000
+      internalID: -6810664315460085285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01bf28c0ba9b410800000000000000
+      internalID: 1493412821675479228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 99
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f791268b143a25a0800000000000000
+      internalID: -6545361815610484744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 99
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199df822f5d4dd7e0800000000000000
+      internalID: -1739148810098058863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 86
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812174cb963074a20800000000000000
+      internalID: 3046407425604653592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 78
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f03c1d85fde820800000000000000
+      internalID: 2949283317409706938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 70
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6e45a45bfc0ee0800000000000000
+      internalID: -1293382651992969599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 72
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff35331979fd510800000000000000
+      internalID: 1576145044490157940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 72
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70295c5587811570800000000000000
+      internalID: 8435672583891394687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 74
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fcf86e1a1bbe10800000000000000
+      internalID: 2214392359695479839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 66
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112108cd56588c6d0800000000000000
+      internalID: -2969977281713270255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 62
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd70e1e0a3f0b00800000000000000
+      internalID: 796919491375652073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 73
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4502981a07d630b40800000000000000
+      internalID: 5405284308288610388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 63
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf2f718d1649c60800000000000000
+      internalID: 7823986033392024317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eee6e27e93c35770800000000000000
+      internalID: 8598431198880394977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d6210deb7ea9da0800000000000000
+      internalID: -5937178352013906667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 48
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c13949219c74640800000000000000
+      internalID: 5064237387640675470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 40
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8c225b05c5cfb0800000000000000
+      internalID: -4628076389639352554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 25
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7256fb8e4c96e9490800000000000000
+      internalID: -7737630815336569561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1586985425cc8d0800000000000000
+      internalID: -2824792407656607289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 51
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6954c1e1947d9cf0800000000000000
+      internalID: -243910634901317268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 40
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0487fca8ab5380800000000000000
+      internalID: -8981399571019855001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 49
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101fd250c3a5bb10800000000000000
+      internalID: 1996682056228081689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b1a354596d6760800000000000000
+      internalID: 7452728769269315381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 21
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f32458da29043890800000000000000
+      internalID: -7479343001532881928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30056bda2cb375140800000000000000
+      internalID: 4708297642763243523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2735f605089d7a0800000000000000
+      internalID: -6351904716475895133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82d9e136ea621680800000000000000
+      internalID: -8785842386133986673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 25
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d59dfb539e6130800000000000000
+      internalID: 3561946378602404242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 26
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698ca0c1bdcfe580800000000000000
+      internalID: -8795585383905851038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FumerForLazer-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a9bb8f97a45270800000000000000
+      internalID: 8238393922053318694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FumerForLazer-removebg-preview_0: -1716641688784441741
+      FumerForLazer-removebg-preview_1: 7948541250005088929
+      FumerForLazer-removebg-preview_10: -1681174146932250462
+      FumerForLazer-removebg-preview_11: -133967712906557568
+      FumerForLazer-removebg-preview_12: 4480765237263760721
+      FumerForLazer-removebg-preview_13: 5458989104615067272
+      FumerForLazer-removebg-preview_14: 8071276822646261254
+      FumerForLazer-removebg-preview_15: -5579518771774262959
+      FumerForLazer-removebg-preview_16: 1968580585264359426
+      FumerForLazer-removebg-preview_17: 4762133581866379866
+      FumerForLazer-removebg-preview_18: -4442061914217809343
+      FumerForLazer-removebg-preview_19: 8129161949386498578
+      FumerForLazer-removebg-preview_2: -8530924304637271426
+      FumerForLazer-removebg-preview_20: -4165095749980536973
+      FumerForLazer-removebg-preview_21: -6810664315460085285
+      FumerForLazer-removebg-preview_22: 1493412821675479228
+      FumerForLazer-removebg-preview_23: -6545361815610484744
+      FumerForLazer-removebg-preview_24: -1739148810098058863
+      FumerForLazer-removebg-preview_25: 3046407425604653592
+      FumerForLazer-removebg-preview_26: 2949283317409706938
+      FumerForLazer-removebg-preview_27: -1293382651992969599
+      FumerForLazer-removebg-preview_28: 1576145044490157940
+      FumerForLazer-removebg-preview_29: 8435672583891394687
+      FumerForLazer-removebg-preview_3: -3330291003067614554
+      FumerForLazer-removebg-preview_30: 2214392359695479839
+      FumerForLazer-removebg-preview_31: -2969977281713270255
+      FumerForLazer-removebg-preview_32: 796919491375652073
+      FumerForLazer-removebg-preview_33: 5405284308288610388
+      FumerForLazer-removebg-preview_34: 7823986033392024317
+      FumerForLazer-removebg-preview_35: 8598431198880394977
+      FumerForLazer-removebg-preview_36: -5937178352013906667
+      FumerForLazer-removebg-preview_37: 5064237387640675470
+      FumerForLazer-removebg-preview_38: -4628076389639352554
+      FumerForLazer-removebg-preview_39: -7737630815336569561
+      FumerForLazer-removebg-preview_4: 1655613110293472846
+      FumerForLazer-removebg-preview_40: -2824792407656607289
+      FumerForLazer-removebg-preview_41: -243910634901317268
+      FumerForLazer-removebg-preview_42: -8981399571019855001
+      FumerForLazer-removebg-preview_43: 1996682056228081689
+      FumerForLazer-removebg-preview_44: 7452728769269315381
+      FumerForLazer-removebg-preview_45: -7479343001532881928
+      FumerForLazer-removebg-preview_46: 4708297642763243523
+      FumerForLazer-removebg-preview_47: -6351904716475895133
+      FumerForLazer-removebg-preview_48: -8785842386133986673
+      FumerForLazer-removebg-preview_49: 3561946378602404242
+      FumerForLazer-removebg-preview_5: -6014829338792113479
+      FumerForLazer-removebg-preview_50: -8795585383905851038
+      FumerForLazer-removebg-preview_51: 8238393922053318694
+      FumerForLazer-removebg-preview_6: 5598966394652938919
+      FumerForLazer-removebg-preview_7: -7494651837345052462
+      FumerForLazer-removebg-preview_8: 7225499179246304636
+      FumerForLazer-removebg-preview_9: 3627190585038095773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

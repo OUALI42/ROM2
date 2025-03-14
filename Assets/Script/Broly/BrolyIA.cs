@@ -17,14 +17,54 @@ public class BrolyBoss : MonoBehaviour
     private BoxCollider2D boxCollider;
     private BoxCollider2D attackCollider;
 
-    [Header("Attaques")]
+    [Header("Kame")]
     [SerializeField] private GameObject BrolyKameprefab;
     [SerializeField] private Transform BrolyKamepooint;
-    [SerializeField] private float time_destruct;
+    [SerializeField] private float time_destruct_for_kame;
+
+    [Header("Kikoa Gauche")]
+    [SerializeField] private GameObject Kikoa_haut_gauche_prfb;
+    [SerializeField] private Transform Kikoa_haut_gauche_point;
+    [SerializeField] private GameObject Kikoa_millieu_gauche_prfb;
+    [SerializeField] private Transform Kikoa_millieu_gauche_point;
+    [SerializeField] private GameObject Kikoa_bas_gauche_prfb;
+    [SerializeField] private Transform Kikoa_bas_gauche_point;
+
+    [Header("Kikoa droite")]
+    [SerializeField] private GameObject Kikoa_haut_droite_prfb;
+    [SerializeField] private Transform Kikoa_haut_droite_point;
+    [SerializeField] private GameObject Kikoa_millieu_droite_prfb;
+    [SerializeField] private Transform Kikoa_millieu_droite_point;
+    [SerializeField] private GameObject Kikoa_bas_droite_prfb;
+    [SerializeField] private Transform Kikoa_bas_droite_point;
+    [SerializeField] private float time_destruct_for_Kikoa;
+
+    [Header("Lazer bas")]
+    [SerializeField] private GameObject Lazer_bas_prfb;
+    [SerializeField] private Transform Lazer_bas_point;
+    [SerializeField] private float time_destruct_for_Lazer_bas;
+
+    [Header("Lazer haut")]
+    [SerializeField] private GameObject Lazer_haut_prfb;
+    [SerializeField] private Transform Lazer_haut_point;
+    [SerializeField] private float time_destruct_for_Lazer_haut;
+
+    [Header("Explosion")]
+    [SerializeField] private GameObject explosionPrfb;
+    [SerializeField] private Transform explosionPoint;
+    [SerializeField] private float time_destruct_for_explosion;
+
+    [Header("Hitbox")]
     [SerializeField] private GameObject BrolypunchHitbox;
     [SerializeField] private GameObject BrolyMarteauxHitbox;
     [SerializeField] private GameObject BrolyfootHitbox;
     [SerializeField] private GameObject BrolykameHitbox;
+    [SerializeField] private GameObject BrolySuperAttacksHitbox;
+    [SerializeField] private GameObject BrolySuperAttacksHitbox2;
+    [SerializeField] private GameObject BrolySuperLazerBasHitbox;
+    [SerializeField] private GameObject BrolySuperLazerHautHitbox;
+    public float time_for_lazer_bas;
+    public float time_for_lazer_haut;
     [SerializeField] private float meleeRange = 5f; // Plage d'attaque en mêlée
 
     public float pauseBetweenAttacks = 1.5f; // Temps de pause entre chaque attaque
@@ -38,7 +78,10 @@ public class BrolyBoss : MonoBehaviour
 
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         SetRandomDirectionChangeTime();
-
+        BrolySuperLazerBasHitbox.SetActive(false);
+        BrolySuperLazerHautHitbox.SetActive(false);
+        BrolySuperAttacksHitbox2.SetActive(false);
+        BrolySuperAttacksHitbox.SetActive(false);
         BrolykameHitbox.SetActive(false);
         BrolypunchHitbox.SetActive(false);
         BrolyMarteauxHitbox.SetActive(false);
@@ -118,6 +161,7 @@ public class BrolyBoss : MonoBehaviour
 
     void ChooseAttack()
     {
+        if (isFrozen) return;
         float distance = Vector3.Distance(transform.position, player.position);
         bool isClose = distance <= meleeRange;
 
@@ -202,6 +246,24 @@ public class BrolyBoss : MonoBehaviour
         }
     }
 
+    public void SupertAttacks()
+    {
+        StartCoroutine(ActivateHitbox(BrolySuperAttacksHitbox, 3f)); // Indique que c'est un Kamehameha
+    }
+    public void SupertAttacks2()
+    {
+        StartCoroutine(ActivateHitbox(BrolySuperAttacksHitbox2, 2.1f)); 
+    }
+
+    public void SupertLazerBas()
+    {
+        StartCoroutine(ActivateHitbox(BrolySuperLazerBasHitbox, time_for_lazer_bas)); 
+    }
+    public void SupertLazerHaut()
+    {
+        StartCoroutine(ActivateHitbox(BrolySuperLazerHautHitbox, time_for_lazer_haut)); 
+    }
+
     void KameBroly()
     {
         if (BrolyKameprefab != null && BrolyKamepooint != null)
@@ -214,7 +276,151 @@ public class BrolyBoss : MonoBehaviour
             slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
             
             slash.transform.parent = transform; // Le lier au personnage
-            Destroy(slash, time_destruct); // Détruire après 0.5 secondes
+            Destroy(slash, time_destruct_for_kame); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_haut_gauche()
+    {
+        if (Kikoa_haut_gauche_prfb != null && Kikoa_haut_gauche_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_haut_gauche_prfb, Kikoa_haut_gauche_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_millieu_gauche()
+    {
+        if (Kikoa_millieu_gauche_prfb != null && Kikoa_millieu_gauche_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_millieu_gauche_prfb, Kikoa_millieu_gauche_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_bas_gauche()
+    {
+        if (Kikoa_bas_gauche_prfb != null && Kikoa_bas_gauche_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_bas_gauche_prfb, Kikoa_bas_gauche_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_haut_droite()
+    {
+        if (Kikoa_haut_droite_prfb != null && Kikoa_haut_droite_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_haut_droite_prfb, Kikoa_haut_droite_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_millieu_droite()
+    {
+        if (Kikoa_millieu_droite_prfb != null && Kikoa_millieu_droite_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_millieu_droite_prfb, Kikoa_millieu_droite_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void kikoa_bas_droite()
+    {
+        if (Kikoa_bas_droite_prfb != null && Kikoa_bas_droite_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Kikoa_bas_droite_prfb, Kikoa_bas_droite_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Kikoa); // Détruire après 0.5 secondes
+        }
+    }
+
+    void Lazer_bas()
+    {
+        if (Lazer_bas_prfb != null && Lazer_bas_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Lazer_bas_prfb, Lazer_bas_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Lazer_bas); // Détruire après 0.5 secondes
+        }
+    }
+
+    void Lazer_haut()
+    {
+        if (Lazer_haut_prfb != null && Lazer_haut_point != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(Lazer_haut_prfb, Lazer_haut_point.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_Lazer_haut); // Détruire après 0.5 secondes
+        }
+    }
+
+    void Explosion()
+    {
+        if (explosionPrfb != null && explosionPoint != null)
+        {
+            // Créer l'effet à la bonne position
+            GameObject slash = Instantiate(explosionPrfb, explosionPoint.position, Quaternion.identity);
+            
+            // Vérifier la direction du joueur et ajuster l'orientation
+            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            
+            slash.transform.parent = transform; // Le lier au personnage
+            Destroy(slash, time_destruct_for_explosion); // Détruire après 0.5 secondes
         }
     }
 
@@ -231,4 +437,5 @@ public class BrolyBoss : MonoBehaviour
         // Arrêter Broly une fois qu'il est assez proche pour attaquer
         rb.velocity = Vector2.zero;
     }
+
 }

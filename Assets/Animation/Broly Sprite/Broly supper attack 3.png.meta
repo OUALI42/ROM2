@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 82807c21766b737439b0e407af11ecdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7442127684299005748
+    second: Broly supper attack 3_0
+  - first:
+      213: -8586996106043315083
+    second: Broly supper attack 3_1
+  - first:
+      213: 1658217623524309676
+    second: Broly supper attack 3_2
+  - first:
+      213: 1049905443994976679
+    second: Broly supper attack 3_3
+  - first:
+      213: -8769119882345793323
+    second: Broly supper attack 3_4
+  - first:
+      213: -5561488481444234203
+    second: Broly supper attack 3_5
+  - first:
+      213: -7780114973013105867
+    second: Broly supper attack 3_6
+  - first:
+      213: 5656316383006236254
+    second: Broly supper attack 3_7
+  - first:
+      213: -4558277480997517615
+    second: Broly supper attack 3_8
+  - first:
+      213: 4715176794818454855
+    second: Broly supper attack 3_9
+  - first:
+      213: 3856282032371173162
+    second: Broly supper attack 3_10
+  - first:
+      213: -3380111791003244491
+    second: Broly supper attack 3_11
+  - first:
+      213: -2843256453974006708
+    second: Broly supper attack 3_12
+  - first:
+      213: -6242421220960605216
+    second: Broly supper attack 3_13
+  - first:
+      213: -6630386844947366980
+    second: Broly supper attack 3_14
+  - first:
+      213: 3640836879269005860
+    second: Broly supper attack 3_15
+  - first:
+      213: -8012506565189842568
+    second: Broly supper attack 3_16
+  - first:
+      213: 7938971969348562098
+    second: Broly supper attack 3_17
+  - first:
+      213: -6824996437488091268
+    second: Broly supper attack 3_18
+  - first:
+      213: 7469390934078562093
+    second: Broly supper attack 3_19
+  - first:
+      213: -759130305286169028
+    second: Broly supper attack 3_20
+  - first:
+      213: 6420404538878360825
+    second: Broly supper attack 3_21
+  - first:
+      213: 1173015096151618054
+    second: Broly supper attack 3_22
+  - first:
+      213: -5592434986638671586
+    second: Broly supper attack 3_23
+  - first:
+      213: -1481942078343326251
+    second: Broly supper attack 3_24
+  - first:
+      213: -2655207553195264987
+    second: Broly supper attack 3_25
+  - first:
+      213: -6621980801053749873
+    second: Broly supper attack 3_26
+  - first:
+      213: -3407445793081413412
+    second: Broly supper attack 3_27
+  - first:
+      213: 178316699092853196
+    second: Broly supper attack 3_28
+  - first:
+      213: -6673876534206588602
+    second: Broly supper attack 3_29
+  - first:
+      213: 4003613865571437650
+    second: Broly supper attack 3_30
+  - first:
+      213: -8461976962316354399
+    second: Broly supper attack 3_31
+  - first:
+      213: 649845145341331054
+    second: Broly supper attack 3_32
+  - first:
+      213: 5821984390886347905
+    second: Broly supper attack 3_33
+  - first:
+      213: -3004217723984516152
+    second: Broly supper attack 3_34
+  - first:
+      213: 6370382331761717118
+    second: Broly supper attack 3_35
+  - first:
+      213: -4563995862338308748
+    second: Broly supper attack 3_36
+  - first:
+      213: 1956031623650377036
+    second: Broly supper attack 3_37
+  - first:
+      213: -3587156632007194103
+    second: Broly supper attack 3_38
+  - first:
+      213: 3189534084984145841
+    second: Broly supper attack 3_39
+  - first:
+      213: 3358135427182527301
+    second: Broly supper attack 3_40
+  - first:
+      213: -7484702478171110042
+    second: Broly supper attack 3_41
+  - first:
+      213: -2304282553586669899
+    second: Broly supper attack 3_42
+  - first:
+      213: -1863523197359649111
+    second: Broly supper attack 3_43
+  - first:
+      213: -8738266819840132251
+    second: Broly supper attack 3_44
+  - first:
+      213: 7652400482761039592
+    second: Broly supper attack 3_45
+  - first:
+      213: 8436785510591025002
+    second: Broly supper attack 3_46
+  - first:
+      213: -3423008674935059408
+    second: Broly supper attack 3_47
+  - first:
+      213: 4607978304587273740
+    second: Broly supper attack 3_48
+  - first:
+      213: 7638284308444973186
+    second: Broly supper attack 3_49
+  - first:
+      213: -6884864469194154049
+    second: Broly supper attack 3_50
+  - first:
+      213: 6901198081869742868
+    second: Broly supper attack 3_51
+  - first:
+      213: -5401933284292271607
+    second: Broly supper attack 3_52
+  - first:
+      213: 4379404085761489976
+    second: Broly supper attack 3_53
+  - first:
+      213: 3035995982264152349
+    second: Broly supper attack 3_54
+  - first:
+      213: 2296443150908659182
+    second: Broly supper attack 3_55
+  - first:
+      213: 322601918367748326
+    second: Broly supper attack 3_56
+  - first:
+      213: 2225207230746067349
+    second: Broly supper attack 3_57
+  - first:
+      213: -6941828668669150649
+    second: Broly supper attack 3_58
+  - first:
+      213: -4890589697016329137
+    second: Broly supper attack 3_59
+  - first:
+      213: -8627950651354252140
+    second: Broly supper attack 3_60
+  - first:
+      213: -8863441495845234113
+    second: Broly supper attack 3_61
+  - first:
+      213: -3255325637556023844
+    second: Broly supper attack 3_62
+  - first:
+      213: -7014738202366504459
+    second: Broly supper attack 3_63
+  - first:
+      213: 6316673745003869737
+    second: Broly supper attack 3_64
+  - first:
+      213: 3675186739918899875
+    second: Broly supper attack 3_65
+  - first:
+      213: 8908334133668579716
+    second: Broly supper attack 3_66
+  - first:
+      213: -5942743190988265816
+    second: Broly supper attack 3_67
+  - first:
+      213: 7034230260112881988
+    second: Broly supper attack 3_68
+  - first:
+      213: -3929085601751374245
+    second: Broly supper attack 3_69
+  - first:
+      213: 6106903837978231717
+    second: Broly supper attack 3_70
+  - first:
+      213: -4226402360456032342
+    second: Broly supper attack 3_71
+  - first:
+      213: -5367720843029424330
+    second: Broly supper attack 3_72
+  - first:
+      213: 725288995514141039
+    second: Broly supper attack 3_73
+  - first:
+      213: 2844470455619835667
+    second: Broly supper attack 3_74
+  - first:
+      213: -2905283154959902672
+    second: Broly supper attack 3_75
+  - first:
+      213: -4245799303750019509
+    second: Broly supper attack 3_76
+  - first:
+      213: -6169860843311493060
+    second: Broly supper attack 3_77
+  - first:
+      213: 2155617382762940087
+    second: Broly supper attack 3_78
+  - first:
+      213: -6686119664440775670
+    second: Broly supper attack 3_79
+  - first:
+      213: 7691343505581703244
+    second: Broly supper attack 3_80
+  - first:
+      213: -215975532441471277
+    second: Broly supper attack 3_81
+  - first:
+      213: 2875729914320280
+    second: Broly supper attack 3_82
+  - first:
+      213: 1170836740468908267
+    second: Broly supper attack 3_83
+  - first:
+      213: 12693955452855367
+    second: Broly supper attack 3_84
+  - first:
+      213: -5392440601685227842
+    second: Broly supper attack 3_85
+  - first:
+      213: -1293528266474691761
+    second: Broly supper attack 3_86
+  - first:
+      213: -4987006253904299205
+    second: Broly supper attack 3_87
+  - first:
+      213: 4818055501118653424
+    second: Broly supper attack 3_88
+  - first:
+      213: -1104615650755524043
+    second: Broly supper attack 3_89
+  - first:
+      213: 1274363295913059712
+    second: Broly supper attack 3_90
+  - first:
+      213: 6376977981451054920
+    second: Broly supper attack 3_91
+  - first:
+      213: -2598043049349341098
+    second: Broly supper attack 3_92
+  - first:
+      213: -6253417373290859104
+    second: Broly supper attack 3_93
+  - first:
+      213: 4058560192552229496
+    second: Broly supper attack 3_94
+  - first:
+      213: -103048061791804004
+    second: Broly supper attack 3_95
+  - first:
+      213: -659548242716724822
+    second: Broly supper attack 3_96
+  - first:
+      213: 3786980536182632732
+    second: Broly supper attack 3_97
+  - first:
+      213: 432716831918470621
+    second: Broly supper attack 3_98
+  - first:
+      213: 6415818067687335354
+    second: Broly supper attack 3_99
+  - first:
+      213: 6537198357788157307
+    second: Broly supper attack 3_100
+  - first:
+      213: -3674348873865321482
+    second: Broly supper attack 3_101
+  - first:
+      213: 3205685663417714623
+    second: Broly supper attack 3_102
+  - first:
+      213: 3491515244488674874
+    second: Broly supper attack 3_103
+  - first:
+      213: 8458222037785896848
+    second: Broly supper attack 3_104
+  - first:
+      213: 7557376623777530306
+    second: Broly supper attack 3_105
+  - first:
+      213: -9027921936687561247
+    second: Broly supper attack 3_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broly supper attack 3_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 396
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f1eb3e2bfb74760800000000000000
+      internalID: 7442127684299005748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 458
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c20a3998cd4d880800000000000000
+      internalID: -8586996106043315083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 458
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa757a942c230710800000000000000
+      internalID: 1658217623524309676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 458
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c11d4073029e00800000000000000
+      internalID: 1049905443994976679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 468
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b6f38de3dd4680800000000000000
+      internalID: -8769119882345793323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_5
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 458
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf61131bf91d2b0800000000000000
+      internalID: -5561488481444234203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 460
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5332bd127aa770490800000000000000
+      internalID: -7780114973013105867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_7
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 458
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e1f4a28c54f7e40800000000000000
+      internalID: 5656316383006236254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 424
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d60b7528cebdb0c0800000000000000
+      internalID: -4558277480997517615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_9
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 445
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a154105caf6140800000000000000
+      internalID: 4715176794818454855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 449
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278435b314448530800000000000000
+      internalID: 3856282032371173162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 453
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53864241c3e6711d0800000000000000
+      internalID: -3380111791003244491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 451
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ea8fb159ba88d0800000000000000
+      internalID: -2843256453974006708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 445
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb684a29f67e59a0800000000000000
+      internalID: -6242421220960605216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_14
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 426
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb3d773b422cf3a0800000000000000
+      internalID: -6630386844947366980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 385
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a88f90ad9d68230800000000000000
+      internalID: 3640836879269005860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 390
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cf552bbbddc090800000000000000
+      internalID: -8012506565189842568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_17
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 366
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcedc291f4ec2e60800000000000000
+      internalID: 7938971969348562098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_18
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 396
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f373686edb841a0800000000000000
+      internalID: -6824996437488091268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_19
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 398
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9642ea7b98a760800000000000000
+      internalID: 7469390934078562093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_20
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 405
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1f2762070775f0800000000000000
+      internalID: -759130305286169028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 405
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc762e49ebd91950800000000000000
+      internalID: 6420404538878360825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 405
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602b94ad303674010800000000000000
+      internalID: 1173015096151618054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_23
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 398
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e118fe7720ea362b0800000000000000
+      internalID: -5592434986638671586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_24
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 353
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d554aa08851f6be0800000000000000
+      internalID: -1481942078343326251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524bcda5ccec62bd0800000000000000
+      internalID: -2655207553195264987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 387
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d0cb3db8ff914a0800000000000000
+      internalID: -6621980801053749873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 357
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0bbf7ca1256b0d0800000000000000
+      internalID: -3407445793081413412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_28
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 366
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc123f2d712897200800000000000000
+      internalID: 178316699092853196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_29
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 389
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6491dcfd6a0a163a0800000000000000
+      internalID: -6673876534206588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_30
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 391
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc6334991bf8730800000000000000
+      internalID: 4003613865571437650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 183
+        width: 177
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac389749c4019a80800000000000000
+      internalID: -8461976962316354399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 309
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66051777b6b40900800000000000000
+      internalID: 649845145341331054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 323
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18456a215f7dbc050800000000000000
+      internalID: 5821984390886347905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 350
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb68f5a5efde46d0800000000000000
+      internalID: -3004217723984516152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 70
+        width: 360
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe410aaf4286850800000000000000
+      internalID: 6370382331761717118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_36
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 339
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475f8fcb1fd69a0c0800000000000000
+      internalID: -4563995862338308748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_37
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 100
+        width: 304
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d7c11f568352b10800000000000000
+      internalID: 1956031623650377036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_38
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 314
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a468b7c0cd73ec0800000000000000
+      internalID: -3587156632007194103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_39
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 341
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70b76f950834c20800000000000000
+      internalID: 3189534084984145841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_40
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 330
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438edcf06e7a9e20800000000000000
+      internalID: 3358135427182527301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 286
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665002370cef02890800000000000000
+      internalID: -7484702478171110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 293
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62653e93b8500e0800000000000000
+      internalID: -2304282553586669899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 313
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae8dae768f6326e0800000000000000
+      internalID: -1863523197359649111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 302
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb8daef907bb680800000000000000
+      internalID: -8738266819840132251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_45
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 302
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eedff5e1b9c23a60800000000000000
+      internalID: 7652400482761039592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_46
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 309
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc0fcc8bb751570800000000000000
+      internalID: 8436785510591025002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_47
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c4a6bfeb70f70d0800000000000000
+      internalID: -3423008674935059408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_48
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 258
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0691a99ad3d2ff30800000000000000
+      internalID: 4607978304587273740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 266
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2888d42fb13a00a60800000000000000
+      internalID: 7638284308444973186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_50
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 289
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf59fa2e3c0470a0800000000000000
+      internalID: -6884864469194154049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_51
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 284
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130472671bf5cf50800000000000000
+      internalID: 6901198081869742868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_52
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 274
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90266617c4a7805b0800000000000000
+      internalID: -5401933284292271607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_53
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 279
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c35bb10d4c6cc30800000000000000
+      internalID: 4379404085761489976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 265
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d113e5ea246022a20800000000000000
+      internalID: 3035995982264152349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_55
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 226
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee51ac0f0ea9edf10800000000000000
+      internalID: 2296443150908659182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_56
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 277
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05b2c4cbc1a7400800000000000000
+      internalID: 322601918367748326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_57
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 279
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591004ccf2681ee10800000000000000
+      internalID: 2225207230746067349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_58
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 254
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3a50fa9ba9af90800000000000000
+      internalID: -6941828668669150649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c082ff492212cb0800000000000000
+      internalID: -4890589697016329137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 189
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cfd6e689c534880800000000000000
+      internalID: -8627950651354252140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 215
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a10b88beabef480800000000000000
+      internalID: -8863441495845234113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd40418492c2d2d0800000000000000
+      internalID: -3255325637556023844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_63
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 258
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1159745c4a6ae90800000000000000
+      internalID: -7014738202366504459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_64
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926fdfccd4559a750800000000000000
+      internalID: 6316673745003869737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_65
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 247
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa87143ed2e00330800000000000000
+      internalID: 3675186739918899875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_66
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 217
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4898dc932b2c0ab70800000000000000
+      internalID: 8908334133668579716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_67
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 238
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e5c5cd82278da0800000000000000
+      internalID: -5942743190988265816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_68
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 197
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f452172b9e9160800000000000000
+      internalID: 7034230260112881988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_69
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 210
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e18f56751979c0800000000000000
+      internalID: -3929085601751374245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_70
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 213
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a389245fa410c450800000000000000
+      internalID: 6106903837978231717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_71
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 224
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4523127dc855c0800000000000000
+      internalID: -4226402360456032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_72
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 181
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63755c925560285b0800000000000000
+      internalID: -5367720843029424330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69ce19af7eb01a00800000000000000
+      internalID: 725288995514141039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 185
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31750590fc6997720800000000000000
+      internalID: 2844470455619835667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_75
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 180
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03850b80d5c5ea7d0800000000000000
+      internalID: -2905283154959902672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_76
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 185
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4611684704e315c0800000000000000
+      internalID: -4245799303750019509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_77
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 148
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3093d89040406aa0800000000000000
+      internalID: -6169860843311493060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_78
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 189
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60e33b69a4aed10800000000000000
+      internalID: 2155617382762940087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce04bf6912633a0800000000000000
+      internalID: -6686119664440775670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 157
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4084b7fa242dba60800000000000000
+      internalID: 7691343505581703244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_81
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 155
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d676a4c563b00df0800000000000000
+      internalID: -215975532441471277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_82
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 167
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895530c06773a0000800000000000000
+      internalID: 2875729914320280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_83
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 164
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be020a5efc5af3010800000000000000
+      internalID: 1170836740468908267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_84
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 171
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744ef81d5191d2000800000000000000
+      internalID: 12693955452855367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_85
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 180
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb68828d7d33a25b0800000000000000
+      internalID: -5392440601685227842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 141
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4369d125e67c0ee0800000000000000
+      internalID: -1293528266474691761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_87
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 100
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf16ffb389acab0800000000000000
+      internalID: -4987006253904299205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_88
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f34b4c73fb2dd240800000000000000
+      internalID: 4818055501118653424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_89
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 153
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a416b0bed9ba0f0800000000000000
+      internalID: -1104615650755524043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_90
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 91
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a1bf6aa27fa110800000000000000
+      internalID: 1274363295913059712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_91
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fa0ecffa39f7850800000000000000
+      internalID: 6376977981451054920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_92
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 68
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6502c549c95e1fbd0800000000000000
+      internalID: -2598043049349341098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_93
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 70
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5fdb0f7066739a0800000000000000
+      internalID: -6253417373290859104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_94
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87add90fdf6e25830800000000000000
+      internalID: 4058560192552229496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_95
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 96
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956b127556e19ef0800000000000000
+      internalID: -103048061791804004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_96
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 86
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f2a02e50d8d6f0800000000000000
+      internalID: -659548242716724822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_97
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 43
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fb7ebbbe0e8430800000000000000
+      internalID: 3786980536182632732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_98
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 34
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd535de7aa1510600800000000000000
+      internalID: 432716831918470621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_99
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab569044a80990950800000000000000
+      internalID: 6415818067687335354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_100
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ea36554bc8ba50800000000000000
+      internalID: 6537198357788157307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_101
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 49
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a660ba27120dc0800000000000000
+      internalID: -3674348873865321482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_102
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7439d5022ec7c20800000000000000
+      internalID: 3205685663417714623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_103
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 42
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ecb93bd9a547030800000000000000
+      internalID: 3491515244488674874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_104
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 33
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097eb993124a16570800000000000000
+      internalID: 8458222037785896848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_105
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 31
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c916aff131e860800000000000000
+      internalID: 7557376623777530306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper attack 3_106
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 38
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e508cf94d066b280800000000000000
+      internalID: -9027921936687561247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee9dc54d3f35b4a42a95eadb6285b714
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Broly supper attack 3_0: 7442127684299005748
+      Broly supper attack 3_1: -8586996106043315083
+      Broly supper attack 3_10: 3856282032371173162
+      Broly supper attack 3_100: 6537198357788157307
+      Broly supper attack 3_101: -3674348873865321482
+      Broly supper attack 3_102: 3205685663417714623
+      Broly supper attack 3_103: 3491515244488674874
+      Broly supper attack 3_104: 8458222037785896848
+      Broly supper attack 3_105: 7557376623777530306
+      Broly supper attack 3_106: -9027921936687561247
+      Broly supper attack 3_11: -3380111791003244491
+      Broly supper attack 3_12: -2843256453974006708
+      Broly supper attack 3_13: -6242421220960605216
+      Broly supper attack 3_14: -6630386844947366980
+      Broly supper attack 3_15: 3640836879269005860
+      Broly supper attack 3_16: -8012506565189842568
+      Broly supper attack 3_17: 7938971969348562098
+      Broly supper attack 3_18: -6824996437488091268
+      Broly supper attack 3_19: 7469390934078562093
+      Broly supper attack 3_2: 1658217623524309676
+      Broly supper attack 3_20: -759130305286169028
+      Broly supper attack 3_21: 6420404538878360825
+      Broly supper attack 3_22: 1173015096151618054
+      Broly supper attack 3_23: -5592434986638671586
+      Broly supper attack 3_24: -1481942078343326251
+      Broly supper attack 3_25: -2655207553195264987
+      Broly supper attack 3_26: -6621980801053749873
+      Broly supper attack 3_27: -3407445793081413412
+      Broly supper attack 3_28: 178316699092853196
+      Broly supper attack 3_29: -6673876534206588602
+      Broly supper attack 3_3: 1049905443994976679
+      Broly supper attack 3_30: 4003613865571437650
+      Broly supper attack 3_31: -8461976962316354399
+      Broly supper attack 3_32: 649845145341331054
+      Broly supper attack 3_33: 5821984390886347905
+      Broly supper attack 3_34: -3004217723984516152
+      Broly supper attack 3_35: 6370382331761717118
+      Broly supper attack 3_36: -4563995862338308748
+      Broly supper attack 3_37: 1956031623650377036
+      Broly supper attack 3_38: -3587156632007194103
+      Broly supper attack 3_39: 3189534084984145841
+      Broly supper attack 3_4: -8769119882345793323
+      Broly supper attack 3_40: 3358135427182527301
+      Broly supper attack 3_41: -7484702478171110042
+      Broly supper attack 3_42: -2304282553586669899
+      Broly supper attack 3_43: -1863523197359649111
+      Broly supper attack 3_44: -8738266819840132251
+      Broly supper attack 3_45: 7652400482761039592
+      Broly supper attack 3_46: 8436785510591025002
+      Broly supper attack 3_47: -3423008674935059408
+      Broly supper attack 3_48: 4607978304587273740
+      Broly supper attack 3_49: 7638284308444973186
+      Broly supper attack 3_5: -5561488481444234203
+      Broly supper attack 3_50: -6884864469194154049
+      Broly supper attack 3_51: 6901198081869742868
+      Broly supper attack 3_52: -5401933284292271607
+      Broly supper attack 3_53: 4379404085761489976
+      Broly supper attack 3_54: 3035995982264152349
+      Broly supper attack 3_55: 2296443150908659182
+      Broly supper attack 3_56: 322601918367748326
+      Broly supper attack 3_57: 2225207230746067349
+      Broly supper attack 3_58: -6941828668669150649
+      Broly supper attack 3_59: -4890589697016329137
+      Broly supper attack 3_6: -7780114973013105867
+      Broly supper attack 3_60: -8627950651354252140
+      Broly supper attack 3_61: -8863441495845234113
+      Broly supper attack 3_62: -3255325637556023844
+      Broly supper attack 3_63: -7014738202366504459
+      Broly supper attack 3_64: 6316673745003869737
+      Broly supper attack 3_65: 3675186739918899875
+      Broly supper attack 3_66: 8908334133668579716
+      Broly supper attack 3_67: -5942743190988265816
+      Broly supper attack 3_68: 7034230260112881988
+      Broly supper attack 3_69: -3929085601751374245
+      Broly supper attack 3_7: 5656316383006236254
+      Broly supper attack 3_70: 6106903837978231717
+      Broly supper attack 3_71: -4226402360456032342
+      Broly supper attack 3_72: -5367720843029424330
+      Broly supper attack 3_73: 725288995514141039
+      Broly supper attack 3_74: 2844470455619835667
+      Broly supper attack 3_75: -2905283154959902672
+      Broly supper attack 3_76: -4245799303750019509
+      Broly supper attack 3_77: -6169860843311493060
+      Broly supper attack 3_78: 2155617382762940087
+      Broly supper attack 3_79: -6686119664440775670
+      Broly supper attack 3_8: -4558277480997517615
+      Broly supper attack 3_80: 7691343505581703244
+      Broly supper attack 3_81: -215975532441471277
+      Broly supper attack 3_82: 2875729914320280
+      Broly supper attack 3_83: 1170836740468908267
+      Broly supper attack 3_84: 12693955452855367
+      Broly supper attack 3_85: -5392440601685227842
+      Broly supper attack 3_86: -1293528266474691761
+      Broly supper attack 3_87: -4987006253904299205
+      Broly supper attack 3_88: 4818055501118653424
+      Broly supper attack 3_89: -1104615650755524043
+      Broly supper attack 3_9: 4715176794818454855
+      Broly supper attack 3_90: 1274363295913059712
+      Broly supper attack 3_91: 6376977981451054920
+      Broly supper attack 3_92: -2598043049349341098
+      Broly supper attack 3_93: -6253417373290859104
+      Broly supper attack 3_94: 4058560192552229496
+      Broly supper attack 3_95: -103048061791804004
+      Broly supper attack 3_96: -659548242716724822
+      Broly supper attack 3_97: 3786980536182632732
+      Broly supper attack 3_98: 432716831918470621
+      Broly supper attack 3_99: 6415818067687335354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
