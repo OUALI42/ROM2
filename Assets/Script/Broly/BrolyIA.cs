@@ -112,7 +112,7 @@ public class BrolyBoss : MonoBehaviour
     {
         if (isFrozen) return; // Stop le mouvement si figé
         float moveDirection = movingRight ? 1 : -1;
-        rb.velocity = new Vector2(moveDirection * patrolSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(moveDirection * patrolSpeed, rb.linearVelocity.y);
 
         if (Time.time >= changeDirectionTime)
         {
@@ -128,7 +128,7 @@ public class BrolyBoss : MonoBehaviour
         if (player == null || isFrozen) return;
 
         float direction = player.position.x > transform.position.x ? 1 : -1;
-        rb.velocity = new Vector2(direction * chaseSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(direction * chaseSpeed, rb.linearVelocity.y);
 
         // Broly doit se tourner vers le joueur en fonction de la position X
         if (direction > 0 && !spriteRenderer.flipX)
@@ -431,11 +431,11 @@ public class BrolyBoss : MonoBehaviour
         while (Vector3.Distance(transform.position, player.position) > meleeRange)
         {
             Vector3 direction = (player.position - transform.position).normalized;
-            rb.velocity = new Vector2(direction.x * chaseSpeed, rb.velocity.y);
+            rb.linearVelocity = new Vector2(direction.x * chaseSpeed, rb.linearVelocity.y);
             yield return null;
         }
         // Arrêter Broly une fois qu'il est assez proche pour attaquer
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
     }
 
 }

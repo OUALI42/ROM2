@@ -72,7 +72,7 @@ public class mob : MonoBehaviour
     {
         float moveDirection = movingRight ? 1 : -1;
         if (rb != null)
-            rb.velocity = new Vector2(moveDirection * patrolSpeed, rb.velocity.y);
+            rb.linearVelocity = new Vector2(moveDirection * patrolSpeed, rb.linearVelocity.y);
 
         if (Time.time >= changeDirectionTime)
         {
@@ -100,7 +100,7 @@ public class mob : MonoBehaviour
 
         float direction = player.position.x > transform.position.x ? 1 : -1;
         if (rb != null)
-            rb.velocity = new Vector2(direction * chaseSpeed, rb.velocity.y);
+            rb.linearVelocity = new Vector2(direction * chaseSpeed, rb.linearVelocity.y);
 
         if ((player.position.x > transform.position.x && !movingRight) ||
             (player.position.x < transform.position.x && movingRight))
@@ -151,7 +151,7 @@ public class mob : MonoBehaviour
     {
         if (rb != null)
         {
-            rb.velocity = Vector2.zero;
+            rb.linearVelocity = Vector2.zero;
             rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation;
         }
     }
@@ -161,7 +161,7 @@ public class mob : MonoBehaviour
         if (rb != null)
         {
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-            rb.velocity = new Vector2(speed * (movingRight ? 1 : -1), rb.velocity.y);
+            rb.linearVelocity = new Vector2(speed * (movingRight ? 1 : -1), rb.linearVelocity.y);
         }
     }
 }

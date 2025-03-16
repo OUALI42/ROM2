@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class GokuMove : MonoBehaviour
 {
@@ -83,7 +84,7 @@ public class GokuMove : MonoBehaviour
         {
             isJumping = true;
             jumpTimeCounter = maxJumpTime;
-            rb.velocity = new Vector2(rb.velocity.x, jumpPower);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             isGrounded = false;
             animator.SetBool("isJumping", true);
         }
@@ -92,7 +93,7 @@ public class GokuMove : MonoBehaviour
         {
             if (jumpTimeCounter > 0)
             {
-                rb.velocity += Vector2.up * (jumpBoostMultiplier * Time.deltaTime * 10);
+                rb.linearVelocity += Vector2.up * (jumpBoostMultiplier * Time.deltaTime * 10);
                 jumpTimeCounter -= Time.deltaTime;
             }
         }
@@ -132,7 +133,7 @@ public class GokuMove : MonoBehaviour
 
         while (Time.time < startTime + dashDuration)
         {
-            rb.velocity = new Vector2(dashDirection * dashSpeed, 0);
+            rb.linearVelocity = new Vector2(dashDirection * dashSpeed, 0);
             yield return null;
         }
         animator.SetBool("isDashing",false);
@@ -149,6 +150,11 @@ public class GokuMove : MonoBehaviour
             animator.Play("Movement");
             isGrounded = true;
         } 
+        if (other.gameObject.CompareTag("Snow-Volcan")) // 
+        {
+            
+            SceneManager.LoadScene("Volcan");
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)

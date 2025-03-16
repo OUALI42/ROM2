@@ -63,7 +63,7 @@ public class PauseMenu : MonoBehaviour{
     public void Replay(){
         
         Resume();
-        SceneManager.LoadScene("Didacticiel V.Final");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
     
 }
