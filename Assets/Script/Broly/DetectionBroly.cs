@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class detectionMob1Script : MonoBehaviour
+public class detectionBroly : MonoBehaviour
 {
     private mob parentMob;
     public GameObject healthBarBroly; // Référence à la barre de vie

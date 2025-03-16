@@ -52,7 +52,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: ennemy1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8572398226542216363, guid: 81ca0413b5111fb488f6cdc0a5e42a25, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

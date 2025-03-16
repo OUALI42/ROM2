@@ -267,6 +267,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   currentHealth: 0
+  Give_Ki: 0
 --- !u!61 &2572655338130163308
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -323,7 +324,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8048640899830505085}
   - component: {fileID: 1463515823554661724}
-  - component: {fileID: 5280637505921177783}
   m_Layer: 0
   m_Name: Detection
   m_TagString: Untagged
@@ -392,15 +392,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.2728786, y: 1.5456035}
   m_EdgeRadius: 0
---- !u!114 &5280637505921177783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9068795690687051392}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c66a71f7b7b730646aea165b9b49f899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

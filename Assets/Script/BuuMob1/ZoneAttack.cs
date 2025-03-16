@@ -56,7 +56,7 @@ public class ZoneAttack : MonoBehaviour
                 mobScript.ResumeMovement(mobScript.patrolSpeed);
 
                 // Vérifier si le joueur est toujours dans la zone de détection principale
-                Collider2D detectionZone = mobScript.GetComponentInChildren<detectionMob1Script>().GetComponent<Collider2D>();
+                Collider2D detectionZone = mobScript.GetComponentInChildren<detectionMob>().GetComponent<Collider2D>();
 
                 if (detectionZone.bounds.Contains(other.transform.position))
                 {
