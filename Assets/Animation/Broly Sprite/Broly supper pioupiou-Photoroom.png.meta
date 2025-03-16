@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 0bf67d94407a9cb41a57ab89a307b081
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5604253133538103716
+    second: Broly supper pioupiou-Photoroom_0
+  - first:
+      213: -4120956167943348406
+    second: Broly supper pioupiou-Photoroom_1
+  - first:
+      213: -6989268092507094460
+    second: Broly supper pioupiou-Photoroom_2
+  - first:
+      213: 298866181773549175
+    second: Broly supper pioupiou-Photoroom_3
+  - first:
+      213: 8189661057507145174
+    second: Broly supper pioupiou-Photoroom_4
+  - first:
+      213: -1039304846374612053
+    second: Broly supper pioupiou-Photoroom_5
+  - first:
+      213: 9083635818720742838
+    second: Broly supper pioupiou-Photoroom_6
+  - first:
+      213: -3276376822322026245
+    second: Broly supper pioupiou-Photoroom_7
+  - first:
+      213: -7212970630674079170
+    second: Broly supper pioupiou-Photoroom_8
+  - first:
+      213: -1387110460269857534
+    second: Broly supper pioupiou-Photoroom_9
+  - first:
+      213: 2393196169764308388
+    second: Broly supper pioupiou-Photoroom_10
+  - first:
+      213: -1250981516156811512
+    second: Broly supper pioupiou-Photoroom_11
+  - first:
+      213: -2842262165552458871
+    second: Broly supper pioupiou-Photoroom_12
+  - first:
+      213: -8074477164321189084
+    second: Broly supper pioupiou-Photoroom_13
+  - first:
+      213: -8935176558300348710
+    second: Broly supper pioupiou-Photoroom_14
+  - first:
+      213: -1148477748427870277
+    second: Broly supper pioupiou-Photoroom_15
+  - first:
+      213: 3312889376285262606
+    second: Broly supper pioupiou-Photoroom_16
+  - first:
+      213: -8516956033797538509
+    second: Broly supper pioupiou-Photoroom_17
+  - first:
+      213: 5606715163553713130
+    second: Broly supper pioupiou-Photoroom_18
+  - first:
+      213: -6242669713310784888
+    second: Broly supper pioupiou-Photoroom_19
+  - first:
+      213: -1204319743865951650
+    second: Broly supper pioupiou-Photoroom_20
+  - first:
+      213: 4952404684595574085
+    second: Broly supper pioupiou-Photoroom_21
+  - first:
+      213: 5314166498323881518
+    second: Broly supper pioupiou-Photoroom_22
+  - first:
+      213: -7791430224940844813
+    second: Broly supper pioupiou-Photoroom_23
+  - first:
+      213: -1911252011352529014
+    second: Broly supper pioupiou-Photoroom_24
+  - first:
+      213: -7244536691508363518
+    second: Broly supper pioupiou-Photoroom_25
+  - first:
+      213: 5852432004206228049
+    second: Broly supper pioupiou-Photoroom_26
+  - first:
+      213: 903047125355406574
+    second: Broly supper pioupiou-Photoroom_27
+  - first:
+      213: -3917173470155084727
+    second: Broly supper pioupiou-Photoroom_28
+  - first:
+      213: 6239105593588921434
+    second: Broly supper pioupiou-Photoroom_29
+  - first:
+      213: -6867617237000310650
+    second: Broly supper pioupiou-Photoroom_30
+  - first:
+      213: -732793354223282993
+    second: Broly supper pioupiou-Photoroom_31
+  - first:
+      213: -8152320791910904891
+    second: Broly supper pioupiou-Photoroom_32
+  - first:
+      213: 7838985648475086978
+    second: Broly supper pioupiou-Photoroom_33
+  - first:
+      213: -1201426064717253867
+    second: Broly supper pioupiou-Photoroom_34
+  - first:
+      213: -7590312874588511696
+    second: Broly supper pioupiou-Photoroom_35
+  - first:
+      213: 2575567868751758756
+    second: Broly supper pioupiou-Photoroom_36
+  - first:
+      213: 3182158325989419476
+    second: Broly supper pioupiou-Photoroom_37
+  - first:
+      213: 7110428031743629097
+    second: Broly supper pioupiou-Photoroom_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 341
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a198e7488e46cd40800000000000000
+      internalID: 5604253133538103716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 388
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f18c2f23c6fc6c0800000000000000
+      internalID: -4120956167943348406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 350
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442842a53b1210f90800000000000000
+      internalID: -6989268092507094460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 344
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5df77539c52400800000000000000
+      internalID: 298866181773549175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 339
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53093575587a170800000000000000
+      internalID: 8189661057507145174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 344
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3df7aafb5a391f0800000000000000
+      internalID: -1039304846374612053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 324
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4dd366ae8f0e70800000000000000
+      internalID: 9083635818720742838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 307
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf82c2b93a8f782d0800000000000000
+      internalID: -3276376822322026245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 353
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a8576d6166eb90800000000000000
+      internalID: -7212970630674079170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 297
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f267b26effbce0800000000000000
+      internalID: -1387110460269857534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 170
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a580a89c37563120800000000000000
+      internalID: 2393196169764308388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 298
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c4e460fe93aee0800000000000000
+      internalID: -1250981516156811512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 155
+        width: 165
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98396bf8e914e88d0800000000000000
+      internalID: -2842262165552458871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 168
+        width: 163
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d1a9acc1b1ff80800000000000000
+      internalID: -8074477164321189084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 332
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3c15c240eff380800000000000000
+      internalID: -8935176558300348710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf248c9299cf00f0800000000000000
+      internalID: -1148477748427870277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 149
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0306a5d55fb9fd20800000000000000
+      internalID: 3312889376285262606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 175
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db0edac91bdc980800000000000000
+      internalID: -8516956033797538509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4a605cbd0fcd40800000000000000
+      internalID: 5606715163553713130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 232
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882650888f49d59a0800000000000000
+      internalID: -6242669713310784888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 229
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a61eed295694fe0800000000000000
+      internalID: -1204319743865951650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 223
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545bc4952d97ab440800000000000000
+      internalID: 4952404684595574085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 215
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e50e94646bfb940800000000000000
+      internalID: 5314166498323881518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 213
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b82ebd774fd390800000000000000
+      internalID: -7791430224940844813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 221
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87e4130c6ed975e0800000000000000
+      internalID: -1911252011352529014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 206
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3c54234c367b90800000000000000
+      internalID: -7244536691508363518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 203
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152f6da76e3083150800000000000000
+      internalID: 5852432004206228049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 140
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42f327394488c00800000000000000
+      internalID: 903047125355406574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 94
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c62d3ab7763a9c0800000000000000
+      internalID: -3917173470155084727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 105
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54350e2b71c59650800000000000000
+      internalID: 6239105593588921434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 137
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803f37528251b0a0800000000000000
+      internalID: -6867617237000310650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc411cba35894d5f0800000000000000
+      internalID: -732793354223282993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 87
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb8e1fbe632dde80800000000000000
+      internalID: -8152320791910904891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 134
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2802eb02aeba9cc60800000000000000
+      internalID: 7838985648475086978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 97
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f1ac0c5da35fe0800000000000000
+      internalID: -1201426064717253867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 96
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e310e7aac9a690800000000000000
+      internalID: -7590312874588511696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 101
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5cbd7a4514eb320800000000000000
+      internalID: 2575567868751758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 102
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a6af332c492c20800000000000000
+      internalID: 3182158325989419476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly supper pioupiou-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 25
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271f094f905da260800000000000000
+      internalID: 7110428031743629097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Broly supper pioupiou-Photoroom_0: 5604253133538103716
+      Broly supper pioupiou-Photoroom_1: -4120956167943348406
+      Broly supper pioupiou-Photoroom_10: 2393196169764308388
+      Broly supper pioupiou-Photoroom_11: -1250981516156811512
+      Broly supper pioupiou-Photoroom_12: -2842262165552458871
+      Broly supper pioupiou-Photoroom_13: -8074477164321189084
+      Broly supper pioupiou-Photoroom_14: -8935176558300348710
+      Broly supper pioupiou-Photoroom_15: -1148477748427870277
+      Broly supper pioupiou-Photoroom_16: 3312889376285262606
+      Broly supper pioupiou-Photoroom_17: -8516956033797538509
+      Broly supper pioupiou-Photoroom_18: 5606715163553713130
+      Broly supper pioupiou-Photoroom_19: -6242669713310784888
+      Broly supper pioupiou-Photoroom_2: -6989268092507094460
+      Broly supper pioupiou-Photoroom_20: -1204319743865951650
+      Broly supper pioupiou-Photoroom_21: 4952404684595574085
+      Broly supper pioupiou-Photoroom_22: 5314166498323881518
+      Broly supper pioupiou-Photoroom_23: -7791430224940844813
+      Broly supper pioupiou-Photoroom_24: -1911252011352529014
+      Broly supper pioupiou-Photoroom_25: -7244536691508363518
+      Broly supper pioupiou-Photoroom_26: 5852432004206228049
+      Broly supper pioupiou-Photoroom_27: 903047125355406574
+      Broly supper pioupiou-Photoroom_28: -3917173470155084727
+      Broly supper pioupiou-Photoroom_29: 6239105593588921434
+      Broly supper pioupiou-Photoroom_3: 298866181773549175
+      Broly supper pioupiou-Photoroom_30: -6867617237000310650
+      Broly supper pioupiou-Photoroom_31: -732793354223282993
+      Broly supper pioupiou-Photoroom_32: -8152320791910904891
+      Broly supper pioupiou-Photoroom_33: 7838985648475086978
+      Broly supper pioupiou-Photoroom_34: -1201426064717253867
+      Broly supper pioupiou-Photoroom_35: -7590312874588511696
+      Broly supper pioupiou-Photoroom_36: 2575567868751758756
+      Broly supper pioupiou-Photoroom_37: 3182158325989419476
+      Broly supper pioupiou-Photoroom_38: 7110428031743629097
+      Broly supper pioupiou-Photoroom_4: 8189661057507145174
+      Broly supper pioupiou-Photoroom_5: -1039304846374612053
+      Broly supper pioupiou-Photoroom_6: 9083635818720742838
+      Broly supper pioupiou-Photoroom_7: -3276376822322026245
+      Broly supper pioupiou-Photoroom_8: -7212970630674079170
+      Broly supper pioupiou-Photoroom_9: -1387110460269857534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

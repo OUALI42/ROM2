@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: e4fa869734e168d49bb141799d9bf81d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 870120993142105725
+    second: Broly death_0
+  - first:
+      213: 6197601499997565390
+    second: Broly death_1
+  - first:
+      213: 3360604979613756407
+    second: Broly death_2
+  - first:
+      213: -4439494578551623033
+    second: Broly death_3
+  - first:
+      213: -2308061086633864308
+    second: Broly death_4
+  - first:
+      213: -230076033510654458
+    second: Broly death_5
+  - first:
+      213: 4954648830074767976
+    second: Broly death_6
+  - first:
+      213: -7019972759280171333
+    second: Broly death_7
+  - first:
+      213: 2888296628700855597
+    second: Broly death_8
+  - first:
+      213: 2915090535963728483
+    second: Broly death_9
+  - first:
+      213: -5569225041709455237
+    second: Broly death_10
+  - first:
+      213: -7416071556470475488
+    second: Broly death_11
+  - first:
+      213: -1148650288900635499
+    second: Broly death_12
+  - first:
+      213: -1142266932003436769
+    second: Broly death_13
+  - first:
+      213: -3787972534198253632
+    second: Broly death_14
+  - first:
+      213: -6697575349921567591
+    second: Broly death_15
+  - first:
+      213: 513967102798111171
+    second: Broly death_16
+  - first:
+      213: -2937802077282142329
+    second: Broly death_17
+  - first:
+      213: -2677778894421175907
+    second: Broly death_18
+  - first:
+      213: 5790851728271761644
+    second: Broly death_19
+  - first:
+      213: 7128755718401390082
+    second: Broly death_20
+  - first:
+      213: -7006471140080757472
+    second: Broly death_21
+  - first:
+      213: -7294991943426228447
+    second: Broly death_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broly death_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 41
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7668d3ee6a431c00800000000000000
+      internalID: 870120993142105725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec178ca5abd420650800000000000000
+      internalID: 6197601499997565390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 161
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb69487c6443ae20800000000000000
+      internalID: 3360604979613756407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827827c33fb362c0800000000000000
+      internalID: -4439494578551623033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83594b9bae18ffd0800000000000000
+      internalID: -2308061086633864308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 133
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e3447011b9eccf0800000000000000
+      internalID: -230076033510654458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 29
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a496f2cd272c440800000000000000
+      internalID: 4954648830074767976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_7
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 29
+        width: 98
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6cf2608fb049e90800000000000000
+      internalID: -7019972759280171333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_8
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 29
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d3caf1b7a451820800000000000000
+      internalID: 2888296628700855597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_9
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 29
+        width: 94
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a983cc56b747820800000000000000
+      internalID: 2915090535963728483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_10
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 29
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a2b2e45326b2b0800000000000000
+      internalID: -5569225041709455237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 62
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025f2bf1632d41990800000000000000
+      internalID: -7416071556470475488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 22
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5948de6e5ac2f00f0800000000000000
+      internalID: -1148650288900635499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 126
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17824ff64ad520f0800000000000000
+      internalID: -1142266932003436769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 29
+        width: 72
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74d28bc0b6e6bc0800000000000000
+      internalID: -3787972534198253632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 29
+        width: 79
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c238b54be6d03a0800000000000000
+      internalID: -6697575349921567591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_16
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 29
+        width: 82
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a48c5b5af12700800000000000000
+      internalID: 513967102798111171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_17
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 29
+        width: 101
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787713b6394da37d0800000000000000
+      internalID: -2937802077282142329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_18
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 29
+        width: 99
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91dcf2784e96dad0800000000000000
+      internalID: -2677778894421175907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0689237fc3d5050800000000000000
+      internalID: 5790851728271761644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20679dd5e8d6ee260800000000000000
+      internalID: 7128755718401390082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d576be9304ce90800000000000000
+      internalID: -7006471140080757472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broly death_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 8
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f3ebc5a7bf2ca90800000000000000
+      internalID: -7294991943426228447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f37de97c6f8ead49a0a416c42b2d00c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Broly death_0: 870120993142105725
+      Broly death_1: 6197601499997565390
+      Broly death_10: -5569225041709455237
+      Broly death_11: -7416071556470475488
+      Broly death_12: -1148650288900635499
+      Broly death_13: -1142266932003436769
+      Broly death_14: -3787972534198253632
+      Broly death_15: -6697575349921567591
+      Broly death_16: 513967102798111171
+      Broly death_17: -2937802077282142329
+      Broly death_18: -2677778894421175907
+      Broly death_19: 5790851728271761644
+      Broly death_2: 3360604979613756407
+      Broly death_20: 7128755718401390082
+      Broly death_21: -7006471140080757472
+      Broly death_22: -7294991943426228447
+      Broly death_3: -4439494578551623033
+      Broly death_4: -2308061086633864308
+      Broly death_5: -230076033510654458
+      Broly death_6: 4954648830074767976
+      Broly death_7: -7019972759280171333
+      Broly death_8: 2888296628700855597
+      Broly death_9: 2915090535963728483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

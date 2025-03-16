@@ -16,6 +16,16 @@ public class Hitbox : MonoBehaviour
                 enemyHealth.TakeDamage(damage);
             }
         }
+        
+        if (other.CompareTag("Broly")) // Vérifie si c'est un ennemi
+        {
+            BrolyHealth brolyHealth = other.GetComponent<BrolyHealth>();
+            if (brolyHealth != null)
+            {
+                brolyHealth.TakeDamage(damage);
+            }
+        }
+
     }
 }
 

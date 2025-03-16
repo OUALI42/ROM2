@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 295ea988321edb248bd6ca29d8fa3148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7108690101619937295
+    second: BrolyEntrerDeScene1-removebg-preview_0
+  - first:
+      213: 8739594456366742549
+    second: BrolyEntrerDeScene1-removebg-preview_1
+  - first:
+      213: -1269511237144753285
+    second: BrolyEntrerDeScene1-removebg-preview_2
+  - first:
+      213: 622628603994310206
+    second: BrolyEntrerDeScene1-removebg-preview_3
+  - first:
+      213: -6955142568787365517
+    second: BrolyEntrerDeScene1-removebg-preview_4
+  - first:
+      213: -2558778196291454791
+    second: BrolyEntrerDeScene1-removebg-preview_5
+  - first:
+      213: 5606904353100666476
+    second: BrolyEntrerDeScene1-removebg-preview_6
+  - first:
+      213: 7038744985175497896
+    second: BrolyEntrerDeScene1-removebg-preview_7
+  - first:
+      213: 1462038906199868530
+    second: BrolyEntrerDeScene1-removebg-preview_8
+  - first:
+      213: -1808512986186006432
+    second: BrolyEntrerDeScene1-removebg-preview_9
+  - first:
+      213: -7200296463640563597
+    second: BrolyEntrerDeScene1-removebg-preview_10
+  - first:
+      213: -2975667772631682427
+    second: BrolyEntrerDeScene1-removebg-preview_11
+  - first:
+      213: 2294259669803398037
+    second: BrolyEntrerDeScene1-removebg-preview_12
+  - first:
+      213: 6219363965703926883
+    second: BrolyEntrerDeScene1-removebg-preview_13
+  - first:
+      213: -4993545134158873350
+    second: BrolyEntrerDeScene1-removebg-preview_14
+  - first:
+      213: -5367188304443718019
+    second: BrolyEntrerDeScene1-removebg-preview_15
+  - first:
+      213: -2903926515719345822
+    second: BrolyEntrerDeScene1-removebg-preview_16
+  - first:
+      213: 7927116323964720272
+    second: BrolyEntrerDeScene1-removebg-preview_17
+  - first:
+      213: -6350361289875801108
+    second: BrolyEntrerDeScene1-removebg-preview_18
+  - first:
+      213: 6795843052058349116
+    second: BrolyEntrerDeScene1-removebg-preview_19
+  - first:
+      213: -4775346937422485584
+    second: BrolyEntrerDeScene1-removebg-preview_20
+  - first:
+      213: 7831753729637581711
+    second: BrolyEntrerDeScene1-removebg-preview_21
+  - first:
+      213: 9177506578390249622
+    second: BrolyEntrerDeScene1-removebg-preview_22
+  - first:
+      213: -2266140057811086753
+    second: BrolyEntrerDeScene1-removebg-preview_23
+  - first:
+      213: 3389185618998300762
+    second: BrolyEntrerDeScene1-removebg-preview_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 5
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffab9a140cd85d90800000000000000
+      internalID: -7108690101619937295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 232
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c76bc8ad6494970800000000000000
+      internalID: 8739594456366742549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bce97814ac16ee0800000000000000
+      internalID: -1269511237144753285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e360410aa6504a800800000000000000
+      internalID: 622628603994310206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 189
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3713b310fae5a7f90800000000000000
+      internalID: -6955142568787365517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 189
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8780799c46d7cd0800000000000000
+      internalID: -2558778196291454791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6618207dc9bfcd40800000000000000
+      internalID: 5606904353100666476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 144
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac92f96545aea160800000000000000
+      internalID: 7038744985175497896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 178
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27408d393a43a4410800000000000000
+      internalID: 1462038906199868530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 8
+        width: 145
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060c3be550fd6e6e0800000000000000
+      internalID: -1808512986186006432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 143
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370f33fd388631c90800000000000000
+      internalID: -7200296463640563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f5b23ded44b6d0800000000000000
+      internalID: -2975667772631682427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 8
+        width: 143
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f221a309d6df10800000000000000
+      internalID: 2294259669803398037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 104
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b5a0439e9f4650800000000000000
+      internalID: 6219363965703926883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc749c482d53bab0800000000000000
+      internalID: -4993545134158873350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7640077caae385b0800000000000000
+      internalID: -5367188304443718019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e5b8383e23b7d0800000000000000
+      internalID: -2903926515719345822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941e170c46c20e60800000000000000
+      internalID: 7927116323964720272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebbf817d0cfed7a0800000000000000
+      internalID: -6350361289875801108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 72
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8e3bff3faf4e50800000000000000
+      internalID: 6795843052058349116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 67
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7eea3e24f8abdb0800000000000000
+      internalID: -4775346937422485584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83836fc58affac60800000000000000
+      internalID: 7831753729637581711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f2c8cb9d0d5f70800000000000000
+      internalID: 9177506578390249622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5213eabf9d0d80e0800000000000000
+      internalID: -2266140057811086753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrolyEntrerDeScene1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 38
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5091422d5ec80f20800000000000000
+      internalID: 3389185618998300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f16003faef761cc4d802a222e7152c1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BrolyEntrerDeScene1-removebg-preview_0: -7108690101619937295
+      BrolyEntrerDeScene1-removebg-preview_1: 8739594456366742549
+      BrolyEntrerDeScene1-removebg-preview_10: -7200296463640563597
+      BrolyEntrerDeScene1-removebg-preview_11: -2975667772631682427
+      BrolyEntrerDeScene1-removebg-preview_12: 2294259669803398037
+      BrolyEntrerDeScene1-removebg-preview_13: 6219363965703926883
+      BrolyEntrerDeScene1-removebg-preview_14: -4993545134158873350
+      BrolyEntrerDeScene1-removebg-preview_15: -5367188304443718019
+      BrolyEntrerDeScene1-removebg-preview_16: -2903926515719345822
+      BrolyEntrerDeScene1-removebg-preview_17: 7927116323964720272
+      BrolyEntrerDeScene1-removebg-preview_18: -6350361289875801108
+      BrolyEntrerDeScene1-removebg-preview_19: 6795843052058349116
+      BrolyEntrerDeScene1-removebg-preview_2: -1269511237144753285
+      BrolyEntrerDeScene1-removebg-preview_20: -4775346937422485584
+      BrolyEntrerDeScene1-removebg-preview_21: 7831753729637581711
+      BrolyEntrerDeScene1-removebg-preview_22: 9177506578390249622
+      BrolyEntrerDeScene1-removebg-preview_23: -2266140057811086753
+      BrolyEntrerDeScene1-removebg-preview_24: 3389185618998300762
+      BrolyEntrerDeScene1-removebg-preview_3: 622628603994310206
+      BrolyEntrerDeScene1-removebg-preview_4: -6955142568787365517
+      BrolyEntrerDeScene1-removebg-preview_5: -2558778196291454791
+      BrolyEntrerDeScene1-removebg-preview_6: 5606904353100666476
+      BrolyEntrerDeScene1-removebg-preview_7: 7038744985175497896
+      BrolyEntrerDeScene1-removebg-preview_8: 1462038906199868530
+      BrolyEntrerDeScene1-removebg-preview_9: -1808512986186006432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
