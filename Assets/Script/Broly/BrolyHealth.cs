@@ -84,8 +84,9 @@ public class BrolyHealth : MonoBehaviour
 
     void Die()
     {
+        Broly.isFrozen =true;
         animator.Play("BrolyDeath"); // Animation de mort
-        Destroy(gameObject, 1f); // Détruit le mob après 1 seconde
+        Destroy(gameObject, 3.4f); // Détruit le mob après 1 seconde
     }
 }
 

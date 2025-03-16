@@ -813,11 +813,84 @@ PrefabInstance:
       propertyPath: m_Name
       value: Son-Goku1
       objectReference: {fileID: 0}
+    - target: {fileID: 8098927503749852080, guid: 53c575e315876a34180a44742c188cfa, type: 3}
+      propertyPath: damage
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 53c575e315876a34180a44742c188cfa, type: 3}
+--- !u!1001 &1875223225869046014
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 82.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.20000029
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176939069890986708, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4063139994646583097, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_Name
+      value: Broly 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681474726928178346, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681474726928178346, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4832162547469663676, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 5934993532285513254}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 989147d8a48466e47bb7fdd02377447e, type: 3}
 --- !u!1001 &3346545407542888467
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -884,75 +957,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6337775243873950399, guid: 53c575e315876a34180a44742c188cfa, type: 3}
   m_PrefabInstance: {fileID: 1448170320005128360}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &5798497276770056939
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 82.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.20000029
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1644279881586913860, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4836133221516856590, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4836133221516856590, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7258761364387998131, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: player
-      value: 
-      objectReference: {fileID: 5934993532285513254}
-    - target: {fileID: 8756892780628735461, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
-      propertyPath: m_Name
-      value: Broly
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 7978c37bfed5d9240bf2acbf8245782f, type: 3}
 --- !u!4 &5934993532285513254 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1075594056280725581, guid: 53c575e315876a34180a44742c188cfa, type: 3}
@@ -969,4 +973,4 @@ SceneRoots:
   - {fileID: 3346545407542888467}
   - {fileID: 1872682574}
   - {fileID: 1673441732}
-  - {fileID: 5798497276770056939}
+  - {fileID: 1875223225869046014}
