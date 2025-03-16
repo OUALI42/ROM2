@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      broly super attack tkt-Photoroom_0: -7781298793405942955
+      broly super attack tkt-Photoroom_1: -7720627744582081088
+      broly super attack tkt-Photoroom_2: -6193448080470054837
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
