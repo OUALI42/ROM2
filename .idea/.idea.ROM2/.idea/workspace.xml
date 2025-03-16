@@ -5,11 +5,440 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Attack1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Attack2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Death.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Idle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Run.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Take hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/animations ennemi/ennemi1/Take hit.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/credits.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/credits/Content.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/credits/Content.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/credits/scroll.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/credits/scroll.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/AudioMenuManager.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/AudioMenuManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/ambiance-bar-onepiece.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/ambiance-bar-onepiece.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/musique-credits.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/musique-credits.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/sound effect menu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/sound effect menu.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Credits.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Credits.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EventSystem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EventSystem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/GameManager.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/GameManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/credits 1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/credits 1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/testRaphi.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/testRaphi.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/oualidingo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/oualidingo.jpg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Canvas ultimeAttack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Canvas ultimeAttack.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Canvas ultimeAttack.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Canvas ultimeAttack.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Demo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Demo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_0_empty_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_0_empty_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_0_empty_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_0_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_!_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_!_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_!_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_!_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_arrow_rounded_down_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_arrow_rounded_down_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_arrow_rounded_down_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_arrow_rounded_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_cursor_!_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_cursor_!_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_cursor_!_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_cursor_!_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_flag_destroyed_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_flag_destroyed_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_flag_destroyed_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_flag_destroyed_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_hammer_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_hammer_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_hammer_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_hammer_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_hand_fire_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_hand_fire_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_hand_fire_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_hand_fire_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_previoust_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_previoust_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_previoust_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_previoust_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_rain_cloud_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_rain_cloud_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_rain_cloud_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_rain_cloud_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_silhouette_-_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_silhouette_-_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_10_silhouette_-_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_10_silhouette_-_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_arrow_rounded_left_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_arrow_rounded_left_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_arrow_rounded_left_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_arrow_rounded_left_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_cursor_star_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_cursor_star_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_cursor_star_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_cursor_star_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_home_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_home_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_home_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_home_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_no_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_no_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_no_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_no_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_pickaxe_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_pickaxe_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_pickaxe_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_pickaxe_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_silhouette_heart_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_silhouette_heart_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_silhouette_heart_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_silhouette_heart_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_star_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_star_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_11_star_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_11_star_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_arrow_rounded_right_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_arrow_rounded_right_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_arrow_rounded_right_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_arrow_rounded_right_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_arrow_up_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_arrow_up_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_arrow_up_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_arrow_up_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_cursor_arrow_up_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_cursor_arrow_up_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_cursor_arrow_up_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_cursor_arrow_up_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_ok_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_ok_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_ok_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_ok_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_spit_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_spit_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_spit_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_spit_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_tent_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_tent_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_12_tent_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_12_tent_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_arrow_down_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_arrow_down_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_arrow_down_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_arrow_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_axe_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_axe_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_axe_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_axe_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_campfire_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_campfire_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_campfire_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_campfire_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_cursor_arrow_down_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_cursor_arrow_down_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_cursor_arrow_down_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_cursor_arrow_down_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_points_ver_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_points_ver_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_13_points_ver_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_13_points_ver_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_key_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_key_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_key_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_key_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_points_hor_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_points_hor_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_points_hor_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_points_hor_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_wrench_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_wrench_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_14_wrench_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_14_wrench_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_15_beer_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_15_beer_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_15_beer_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_15_beer_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_15_list_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_15_list_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_15_list_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_15_list_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_16_crown_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_16_crown_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_16_crown_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_16_crown_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_16_message_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_16_message_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_16_message_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_16_message_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_17_medal_star_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_17_medal_star_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_17_medal_star_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_17_medal_star_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_17_message_points_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_17_message_points_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_17_message_points_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_17_message_points_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_18_medal_first_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_18_medal_first_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_18_medal_first_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_18_medal_first_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_18_next2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_18_next2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_18_next2_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_18_next2_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_19_medal_second_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_19_medal_second_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_19_medal_second_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_19_medal_second_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_19_previoust2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_19_previoust2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_19_previoust2_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_19_previoust2_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_anvil_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_anvil_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_anvil_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_anvil_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_arrow_empty_up_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_arrow_empty_up_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_arrow_empty_up_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_arrow_empty_up_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_bottle_empty_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_bottle_empty_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_bottle_empty_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_bottle_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_column_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_column_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_column_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_column_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_cursor_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_cursor_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_cursor_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_cursor_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_cursor_al.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_cursor_al.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_cursor_al.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_cursor_al.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_fire_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_fire_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_fire_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_fire_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_head_samurai_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_head_samurai_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_head_samurai_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_head_samurai_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_letter_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_letter_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_letter_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_letter_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_magnifier_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_magnifier_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_magnifier_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_magnifier_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_magnifier_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_magnifier_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_magnifier_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_magnifier_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_moon_full_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_moon_full_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_moon_full_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_moon_full_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_scroll_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_scroll_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_scroll_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_scroll_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_shield_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_shield_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_shield_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_shield_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_sword90_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_sword90_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_1_sword90_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_1_sword90_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_20_medal_third_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_20_medal_third_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_20_medal_third_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_20_medal_third_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_20_stop_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_20_stop_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_20_stop_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_20_stop_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_21_doorlock_close_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_21_doorlock_close_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_21_doorlock_close_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_21_doorlock_close_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_22_doorlock_open_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_22_doorlock_open_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_22_doorlock_open_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_22_doorlock_open_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_23_gear_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_23_gear_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_23_gear_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_23_gear_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_24_diamond_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_24_diamond_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_24_diamond_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_24_diamond_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_25_compas_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_25_compas_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_25_compas_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_25_compas_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_26_clock_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_26_clock_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_26_clock_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_26_clock_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_27_grave_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_27_grave_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_27_grave_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_27_grave_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_28_bread_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_28_bread_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_28_bread_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_28_bread_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_+_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_+_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_+_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_+_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_arrow_empty_down_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_arrow_empty_down_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_arrow_empty_down_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_arrow_empty_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_bottle_half_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_bottle_half_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_bottle_half_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_bottle_half_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_coin_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_coin_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_coin_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_coin_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_column_cross_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_column_cross_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_column_cross_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_column_cross_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_cursor_+_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_cursor_+_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_cursor_+_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_cursor_+_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_eye_light_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_eye_light_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_eye_light_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_eye_light_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_head_gladiator_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_head_gladiator_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_head_gladiator_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_head_gladiator_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_letter_open_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_letter_open_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_letter_open_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_letter_open_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_lighthing_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_lighthing_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_lighthing_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_lighthing_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_magnifier_+_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_magnifier_+_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_magnifier_+_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_magnifier_+_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_magnifier_+_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_magnifier_+_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_magnifier_+_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_magnifier_+_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_moon_empty_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_moon_empty_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_moon_empty_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_moon_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_scroll_open_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_scroll_open_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_scroll_open_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_scroll_open_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_shield_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_shield_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_shield_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_shield_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_sword45_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_sword45_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_2_sword45_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_2_sword45_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_-_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_-_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_-_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_-_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_arrow_empty_left_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_arrow_empty_left_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_arrow_empty_left_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_arrow_empty_left_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_bottle_full_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_bottle_full_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_bottle_full_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_bottle_full_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_coins_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_coins_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_coins_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_coins_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_column_double_cross_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_column_double_cross_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_column_double_cross_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_column_double_cross_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_cursor_-_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_cursor_-_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_cursor_-_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_cursor_-_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_eye_bored_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_eye_bored_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_eye_bored_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_eye_bored_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_head_wiking_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_head_wiking_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_head_wiking_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_head_wiking_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_letter_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_letter_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_letter_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_letter_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magic_fire_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magic_fire_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magic_fire_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magic_fire_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magnifier_-_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magnifier_-_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magnifier_-_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magnifier_-_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magnifier_-_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magnifier_-_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_magnifier_-_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_magnifier_-_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_scroll_open_cut_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_scroll_open_cut_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_scroll_open_cut_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_scroll_open_cut_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_shield_magic_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_shield_magic_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_shield_magic_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_shield_magic_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_sun_full_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_sun_full_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_sun_full_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_sun_full_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_sword_cut_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_sword_cut_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_3_sword_cut_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_3_sword_cut_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_=_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_=_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_=_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_=_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_arrow_empty_right_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_arrow_empty_right_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_arrow_empty_right_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_arrow_empty_right_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_bottle_small_empty_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_bottle_small_empty_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_bottle_small_empty_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_bottle_small_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_coin_bag1_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_coin_bag1_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_coin_bag1_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_coin_bag1_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_column_sound1_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_column_sound1_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_column_sound1_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_column_sound1_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_cursor_=_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_cursor_=_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_cursor_=_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_cursor_=_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_eye_bleed_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_eye_bleed_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_eye_bleed_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_eye_bleed_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_frost_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_frost_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_frost_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_frost_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_head_knignt_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_head_knignt_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_head_knignt_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_head_knignt_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_letter_+_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_letter_+_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_letter_+_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_letter_+_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_magnifier_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_magnifier_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_magnifier_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_magnifier_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_magnifier_eye_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_magnifier_eye_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_magnifier_eye_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_magnifier_eye_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_scroll_+_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_scroll_+_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_scroll_+_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_scroll_+_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_shield_bezel_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_shield_bezel_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_shield_bezel_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_shield_bezel_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_sun_half_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_sun_half_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_sun_half_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_sun_half_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_sword_saw_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_sword_saw_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_4_sword_saw_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_4_sword_saw_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_arrow_up_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_arrow_up_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_arrow_up_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_arrow_up_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_bottle_small_half_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_bottle_small_half_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_bottle_small_half_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_bottle_small_half_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_coin_bag2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_coin_bag2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_coin_bag2_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_coin_bag2_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_column_sound2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_column_sound2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_column_sound2_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_column_sound2_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_cursor_x_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_cursor_x_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_cursor_x_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_cursor_x_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_drop_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_drop_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_drop_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_drop_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_eye_cross_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_eye_cross_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_eye_cross_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_eye_cross_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_head_rogure_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_head_rogure_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_head_rogure_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_head_rogure_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_letter_-_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_letter_-_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_letter_-_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_letter_-_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_magnifier_eye_crossed_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_magnifier_eye_crossed_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_magnifier_eye_crossed_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_magnifier_eye_crossed_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_magnifier_eye_crossed_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_magnifier_eye_crossed_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_magnifier_eye_crossed_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_magnifier_eye_crossed_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_scroll_-_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_scroll_-_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_scroll_-_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_scroll_-_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_sun_empty_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_sun_empty_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_sun_empty_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_sun_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_sword_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_sword_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_sword_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_sword_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_x_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_x_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_5_x_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_5_x_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_arrow_down_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_arrow_down_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_arrow_down_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_arrow_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_barrel_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_barrel_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_barrel_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_barrel_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_bottle_small_full_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_bottle_small_full_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_bottle_small_full_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_bottle_small_full_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_cloud_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_cloud_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_cloud_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_cloud_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_continue_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_continue_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_continue_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_continue_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_cursor_devide_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_cursor_devide_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_cursor_devide_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_cursor_devide_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_devide_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_devide_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_devide_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_devide_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_head_king_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_head_king_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_head_king_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_head_king_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_head_scull_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_head_scull_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_head_scull_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_head_scull_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_mace_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_mace_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_mace_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_mace_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_scroll_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_scroll_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_scroll_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_scroll_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_stone_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_stone_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_6_stone_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_6_stone_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_arrow_left_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_arrow_left_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_arrow_left_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_arrow_left_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_book_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_book_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_book_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_book_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_bottle_heal_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_bottle_heal_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_bottle_heal_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_bottle_heal_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_cloud&amp;sun_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_cloud&amp;sun_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_cloud&amp;sun_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_cloud&amp;sun_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_continue_mirror_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_continue_mirror_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_continue_mirror_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_continue_mirror_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_cursor_question_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_cursor_question_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_cursor_question_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_cursor_question_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_head_scull_enemy_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_head_scull_enemy_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_head_scull_enemy_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_head_scull_enemy_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_plant1_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_plant1_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_plant1_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_plant1_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_question_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_question_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_question_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_question_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_waraxe_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_waraxe_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_7_waraxe_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_7_waraxe_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_arrow_right_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_arrow_right_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_arrow_right_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_arrow_right_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_bottle_magic_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_bottle_magic_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_bottle_magic_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_bottle_magic_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_cloud_up_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_cloud_up_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_cloud_up_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_cloud_up_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_cursor_heart_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_cursor_heart_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_cursor_heart_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_cursor_heart_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_heart_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_heart_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_heart_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_heart_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_pause_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_pause_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_pause_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_pause_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_plant2_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_plant2_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_plant2_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_plant2_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_silhouette_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_silhouette_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_silhouette_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_silhouette_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_staff_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_staff_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_staff_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_staff_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_tab_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_tab_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_8_tab_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_8_tab_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_arrow_rounded_up_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_arrow_rounded_up_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_arrow_rounded_up_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_arrow_rounded_up_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_bottle_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_bottle_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_bottle_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_bottle_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_cloud_down_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_cloud_down_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_cloud_down_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_cloud_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_cursor_eye_al_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_cursor_eye_al_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_cursor_eye_al_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_cursor_eye_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_eye_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_eye_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_eye_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_eye_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_flag_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_flag_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_flag_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_flag_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_kunai_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_kunai_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_kunai_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_kunai_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_next_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_next_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_next_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_next_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_plant3_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_plant3_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_plant3_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_plant3_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_silhouette_+_.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_silhouette_+_.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/T_9_silhouette_+_.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/T_9_silhouette_+_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Confused.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Confused.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Confused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Confused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Handshake.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Handshake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Handshake.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Handshake.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Laughing.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Laughing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Laughing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Laughing.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_PokerFace.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_PokerFace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_PokerFace.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_PokerFace.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Sad.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Sad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Sad.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Sad.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Sneezing.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Sneezing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Sneezing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Sneezing.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Yell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Yell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_Yell.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_Yell.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_coughing.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_coughing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/Bonus_coughing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/Bonus_coughing.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_04.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_05.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_06.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Clean Vector Icons/Update/bonus_07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Clean Vector Icons/Update/bonus_07.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PauseMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PauseMenu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/bar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/bar.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Video/cinematic.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Video/cinematic.renderTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/settingsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/settingsMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +448,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/coding factory/GitHub/ROM2/Assets/Canvas ultimeAttack.prefab.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/Assets/Canvas ultimeAttack.prefab.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/Assets/Canvas ultimeAttack.prefab.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/Assets/Canvas ultimeAttack.prefab.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/coding factory/GitHub/ROM2/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -27,19 +466,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Bug.Didact&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging FinalisationRaphael",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Unity.exe" />
