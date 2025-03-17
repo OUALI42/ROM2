@@ -14,11 +14,12 @@ TagManager:
   - bar-zone1
   - zone1-credits 1
   - Snow-Volcan
+  - Spike
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pike
   - Water
   - UI
   - 

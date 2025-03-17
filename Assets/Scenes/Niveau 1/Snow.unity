@@ -129,12 +129,11 @@ GameObject:
   m_Component:
   - component: {fileID: 37434006}
   - component: {fileID: 37434010}
-  - component: {fileID: 37434009}
-  - component: {fileID: 37434008}
   - component: {fileID: 37434007}
-  m_Layer: 0
+  - component: {fileID: 37434011}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_30 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -200,45 +199,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.55, y: 0.35}
   m_EdgeRadius: 0
---- !u!50 &37434008
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 37434005}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &37434009
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 37434005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &37434010
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -294,6 +254,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &37434011
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37434005}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &81286673
 GameObject:
   m_ObjectHideFlags: 0
@@ -304,12 +291,11 @@ GameObject:
   m_Component:
   - component: {fileID: 81286674}
   - component: {fileID: 81286678}
-  - component: {fileID: 81286677}
   - component: {fileID: 81286676}
-  - component: {fileID: 81286675}
-  m_Layer: 0
+  - component: {fileID: 81286679}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (30)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -329,18 +315,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &81286675
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 81286673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &81286676
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -387,33 +361,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &81286677
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 81286673}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &81286678
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -469,6 +416,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &81286679
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81286673}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &109242400
 GameObject:
   m_ObjectHideFlags: 0
@@ -653,12 +627,11 @@ GameObject:
   m_Component:
   - component: {fileID: 113707389}
   - component: {fileID: 113707393}
-  - component: {fileID: 113707392}
   - component: {fileID: 113707391}
-  - component: {fileID: 113707390}
-  m_Layer: 0
+  - component: {fileID: 113707394}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -678,18 +651,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &113707390
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 113707388}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &113707391
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -736,33 +697,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &113707392
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 113707388}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &113707393
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -818,6 +752,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &113707394
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113707388}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &156213765
 GameObject:
   m_ObjectHideFlags: 0
@@ -1002,12 +963,11 @@ GameObject:
   m_Component:
   - component: {fileID: 184576896}
   - component: {fileID: 184576900}
-  - component: {fileID: 184576899}
   - component: {fileID: 184576898}
-  - component: {fileID: 184576897}
-  m_Layer: 0
+  - component: {fileID: 184576901}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1027,18 +987,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &184576897
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 184576895}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &184576898
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1085,33 +1033,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &184576899
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 184576895}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &184576900
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1167,6 +1088,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &184576901
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184576895}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &251493983
 GameObject:
   m_ObjectHideFlags: 0
@@ -1248,12 +1196,11 @@ GameObject:
   m_Component:
   - component: {fileID: 261974515}
   - component: {fileID: 261974519}
-  - component: {fileID: 261974518}
   - component: {fileID: 261974517}
-  - component: {fileID: 261974516}
-  m_Layer: 0
+  - component: {fileID: 261974520}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1273,18 +1220,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &261974516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 261974514}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &261974517
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1331,33 +1266,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &261974518
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 261974514}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &261974519
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1413,6 +1321,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &261974520
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261974514}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &271420089
 GameObject:
   m_ObjectHideFlags: 0
@@ -1423,12 +1358,11 @@ GameObject:
   m_Component:
   - component: {fileID: 271420090}
   - component: {fileID: 271420094}
-  - component: {fileID: 271420093}
   - component: {fileID: 271420092}
-  - component: {fileID: 271420091}
-  m_Layer: 0
+  - component: {fileID: 271420095}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1448,18 +1382,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &271420091
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 271420089}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &271420092
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1506,33 +1428,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &271420093
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 271420089}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &271420094
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1588,6 +1483,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &271420095
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 271420089}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &285879497
 GameObject:
   m_ObjectHideFlags: 0
@@ -1615,7 +1537,7 @@ Transform:
   m_GameObject: {fileID: 285879497}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.07, y: -0.03, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -60912,12 +60834,11 @@ GameObject:
   m_Component:
   - component: {fileID: 360788493}
   - component: {fileID: 360788497}
-  - component: {fileID: 360788496}
   - component: {fileID: 360788495}
-  - component: {fileID: 360788494}
-  m_Layer: 0
+  - component: {fileID: 360788498}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60937,18 +60858,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &360788494
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 360788492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &360788495
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -60995,33 +60904,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &360788496
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 360788492}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &360788497
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -61077,6 +60959,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &360788498
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360788492}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &386533287
 GameObject:
   m_ObjectHideFlags: 0
@@ -61177,12 +61086,11 @@ GameObject:
   m_Component:
   - component: {fileID: 408430165}
   - component: {fileID: 408430169}
-  - component: {fileID: 408430168}
   - component: {fileID: 408430167}
-  - component: {fileID: 408430166}
-  m_Layer: 0
+  - component: {fileID: 408430170}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61202,18 +61110,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &408430166
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 408430164}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &408430167
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61260,33 +61156,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &408430168
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 408430164}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &408430169
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -61342,6 +61211,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &408430170
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 408430164}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &435505900
 GameObject:
   m_ObjectHideFlags: 0
@@ -61352,12 +61248,11 @@ GameObject:
   m_Component:
   - component: {fileID: 435505901}
   - component: {fileID: 435505905}
-  - component: {fileID: 435505904}
   - component: {fileID: 435505903}
-  - component: {fileID: 435505902}
-  m_Layer: 0
+  - component: {fileID: 435505906}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61377,18 +61272,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &435505902
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 435505900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &435505903
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61435,33 +61318,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &435505904
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 435505900}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &435505905
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -61517,6 +61373,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &435505906
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435505900}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &455308307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61535,11 +61418,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1075594056280725581, guid: 53c575e315876a34180a44742c188cfa, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.2058
+      value: 67.9
       objectReference: {fileID: 0}
     - target: {fileID: 1075594056280725581, guid: 53c575e315876a34180a44742c188cfa, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.9399
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 1075594056280725581, guid: 53c575e315876a34180a44742c188cfa, type: 3}
       propertyPath: m_LocalPosition.z
@@ -61613,6 +61496,10 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: d00e6a538780a164383117f52887dbf8, type: 2}
+    - target: {fileID: 8089723229720426582, guid: 53c575e315876a34180a44742c188cfa, type: 3}
+      propertyPath: timeBeforeRestart
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8098927503749852080, guid: 53c575e315876a34180a44742c188cfa, type: 3}
       propertyPath: damage
       value: 5
@@ -61847,12 +61734,11 @@ GameObject:
   m_Component:
   - component: {fileID: 555307678}
   - component: {fileID: 555307682}
-  - component: {fileID: 555307681}
   - component: {fileID: 555307680}
-  - component: {fileID: 555307679}
-  m_Layer: 0
+  - component: {fileID: 555307683}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61872,18 +61758,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &555307679
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 555307677}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &555307680
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61930,33 +61804,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &555307681
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 555307677}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &555307682
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -62012,6 +61859,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &555307683
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 555307677}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &562161442
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -62119,12 +61993,11 @@ GameObject:
   m_Component:
   - component: {fileID: 597855513}
   - component: {fileID: 597855517}
-  - component: {fileID: 597855516}
   - component: {fileID: 597855515}
-  - component: {fileID: 597855514}
-  m_Layer: 0
+  - component: {fileID: 597855518}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (31)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62144,18 +62017,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &597855514
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 597855512}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &597855515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -62202,33 +62063,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &597855516
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 597855512}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &597855517
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -62284,6 +62118,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &597855518
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597855512}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &603994189
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -62407,12 +62268,11 @@ GameObject:
   m_Component:
   - component: {fileID: 611537165}
   - component: {fileID: 611537169}
-  - component: {fileID: 611537168}
   - component: {fileID: 611537167}
-  - component: {fileID: 611537166}
-  m_Layer: 0
+  - component: {fileID: 611537170}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62432,18 +62292,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &611537166
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 611537164}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &611537167
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -62490,33 +62338,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &611537168
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 611537164}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &611537169
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -62572,6 +62393,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &611537170
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611537164}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &683309912
 GameObject:
   m_ObjectHideFlags: 0
@@ -63377,12 +63225,11 @@ GameObject:
   m_Component:
   - component: {fileID: 698830423}
   - component: {fileID: 698830427}
-  - component: {fileID: 698830426}
   - component: {fileID: 698830425}
-  - component: {fileID: 698830424}
-  m_Layer: 0
+  - component: {fileID: 698830428}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63402,18 +63249,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &698830424
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 698830422}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &698830425
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -63460,33 +63295,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &698830426
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 698830422}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &698830427
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -63542,6 +63350,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &698830428
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698830422}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &745361855
 GameObject:
   m_ObjectHideFlags: 0
@@ -85710,8 +85545,8 @@ Tilemap:
   - first: {x: 64, y: -21, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 26
-      m_TileSpriteIndex: 26
+      m_TileIndex: 27
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -85720,8 +85555,8 @@ Tilemap:
   - first: {x: 65, y: -21, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 25
-      m_TileSpriteIndex: 11
+      m_TileIndex: 27
+      m_TileSpriteIndex: 27
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -92301,7 +92136,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 15
-      m_TileSpriteIndex: 25
+      m_TileSpriteIndex: 26
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -109501,7 +109336,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 21
-      m_TileSpriteIndex: 21
+      m_TileSpriteIndex: 25
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -111401,7 +111236,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 11
-      m_TileSpriteIndex: 15
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 1
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -111559,12 +111394,12 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: dadafbe931192fd48a4eb74867ced976, type: 2}
   - m_RefCount: 5
     m_Data: {fileID: 11400000, guid: 6024e4f75a0ec50409ebbae5201d4244, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 9f17f349de473304fbef4caee7a9cb76, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 1ae007e63b010ad43a4a7a85a2d54194, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 293e26319b0d8bd4e9cddace94912f8f, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: f682311821ee45547ba6c2a84f972008, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 8cb6dd6144c6c934fbdc60dfd7186c38, type: 2}
   - m_RefCount: 1
@@ -111592,16 +111427,16 @@ Tilemap:
     m_Data: {fileID: 1006932586934114020, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 18
     m_Data: {fileID: -7584613106714283518, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -220590760, guid: ca616c88802b2684e912f75340e1df3b, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 9
     m_Data: {fileID: -718270510605741257, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 9
     m_Data: {fileID: 4005645203075789555, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 16
     m_Data: {fileID: 1295831625240796442, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -2845954390137113232, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 28
     m_Data: {fileID: -6741249039845119911, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 14
@@ -111613,7 +111448,7 @@ Tilemap:
   - m_RefCount: 5
     m_Data: {fileID: 1526580866124822744, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -8891093485973944848, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
+    m_Data: {fileID: -2845954390137113232, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 616
     m_Data: {fileID: 304145971, guid: bb9e922283f0d1a4f8aab5260ba080ed, type: 3}
   - m_RefCount: 23
@@ -111621,11 +111456,11 @@ Tilemap:
   - m_RefCount: 5
     m_Data: {fileID: 458669780, guid: bb9e922283f0d1a4f8aab5260ba080ed, type: 3}
   - m_RefCount: 1
+    m_Data: {fileID: -8891093485973944848, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
+  - m_RefCount: 1
     m_Data: {fileID: -3805364833372758515, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 8031222146650452148, guid: ca616c88802b2684e912f75340e1df3b, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 250297378, guid: ca616c88802b2684e912f75340e1df3b, type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -4740317406128584168, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -7083788093305814317, guid: fcf3e41bc47013345969eb76e3a515e2, type: 3}
   - m_RefCount: 1
@@ -111814,12 +111649,11 @@ GameObject:
   m_Component:
   - component: {fileID: 778554455}
   - component: {fileID: 778554459}
-  - component: {fileID: 778554458}
   - component: {fileID: 778554457}
-  - component: {fileID: 778554456}
-  m_Layer: 0
+  - component: {fileID: 778554460}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111839,18 +111673,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 1.207, z: -47.006}
---- !u!114 &778554456
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 778554454}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &778554457
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -111897,33 +111719,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &778554458
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 778554454}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &778554459
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -111979,6 +111774,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &778554460
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778554454}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &781741857
 GameObject:
   m_ObjectHideFlags: 0
@@ -111989,12 +111811,11 @@ GameObject:
   m_Component:
   - component: {fileID: 781741858}
   - component: {fileID: 781741862}
-  - component: {fileID: 781741861}
   - component: {fileID: 781741860}
-  - component: {fileID: 781741859}
-  m_Layer: 0
+  - component: {fileID: 781741863}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112014,18 +111835,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &781741859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 781741857}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &781741860
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -112072,33 +111881,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &781741861
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 781741857}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &781741862
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -112154,6 +111936,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &781741863
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 781741857}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &795180827
 GameObject:
   m_ObjectHideFlags: 0
@@ -112184,7 +111993,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77a5a8a330ce37a4d94f615c4bebb95f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  propulsionForce: 140
+  propulsionForce: 20
 --- !u!61 &795180829
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -112256,12 +112065,11 @@ GameObject:
   m_Component:
   - component: {fileID: 797745644}
   - component: {fileID: 797745648}
-  - component: {fileID: 797745647}
   - component: {fileID: 797745646}
-  - component: {fileID: 797745645}
-  m_Layer: 0
+  - component: {fileID: 797745649}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112281,18 +112089,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: -1.206, y: -0.052, z: 45.444}
---- !u!114 &797745645
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 797745643}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &797745646
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -112339,33 +112135,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &797745647
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 797745643}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &797745648
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -112421,6 +112190,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &797745649
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797745643}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &818296680
 GameObject:
   m_ObjectHideFlags: 0
@@ -112909,12 +112705,11 @@ GameObject:
   m_Component:
   - component: {fileID: 972275985}
   - component: {fileID: 972275989}
-  - component: {fileID: 972275988}
   - component: {fileID: 972275987}
-  - component: {fileID: 972275986}
-  m_Layer: 0
+  - component: {fileID: 972275990}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112934,18 +112729,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 1.207, z: -47.006}
---- !u!114 &972275986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 972275984}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &972275987
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -112992,33 +112775,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &972275988
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 972275984}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &972275989
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -113074,6 +112830,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &972275990
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972275984}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &994993525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -113379,12 +113162,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1063207963}
   - component: {fileID: 1063207967}
-  - component: {fileID: 1063207966}
   - component: {fileID: 1063207965}
-  - component: {fileID: 1063207964}
-  m_Layer: 0
+  - component: {fileID: 1063207968}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (32)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113404,18 +113186,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1063207964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1063207962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1063207965
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -113462,33 +113232,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1063207966
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1063207962}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1063207967
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -113544,6 +113287,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1063207968
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063207962}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1078375680
 GameObject:
   m_ObjectHideFlags: 0
@@ -113554,12 +113324,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1078375681}
   - component: {fileID: 1078375685}
-  - component: {fileID: 1078375684}
   - component: {fileID: 1078375683}
-  - component: {fileID: 1078375682}
-  m_Layer: 0
+  - component: {fileID: 1078375686}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113579,18 +113348,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1078375682
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1078375680}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1078375683
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -113637,33 +113394,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1078375684
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1078375680}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1078375685
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -113719,6 +113449,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1078375686
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078375680}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1084007457
 GameObject:
   m_ObjectHideFlags: 0
@@ -113729,12 +113486,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1084007458}
   - component: {fileID: 1084007462}
-  - component: {fileID: 1084007461}
   - component: {fileID: 1084007460}
-  - component: {fileID: 1084007459}
-  m_Layer: 0
+  - component: {fileID: 1084007463}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113754,18 +113510,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1084007459
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1084007457}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1084007460
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -113812,33 +113556,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1084007461
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1084007457}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1084007462
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -113894,6 +113611,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1084007463
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084007457}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &1185062600
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -113980,12 +113724,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1203977600}
   - component: {fileID: 1203977604}
-  - component: {fileID: 1203977603}
   - component: {fileID: 1203977602}
-  - component: {fileID: 1203977601}
-  m_Layer: 0
+  - component: {fileID: 1203977605}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (34)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114005,18 +113748,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1203977601
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1203977599}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1203977602
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114063,33 +113794,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1203977603
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1203977599}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1203977604
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -114145,6 +113849,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1203977605
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203977599}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1224258008
 GameObject:
   m_ObjectHideFlags: 0
@@ -114156,9 +113887,9 @@ GameObject:
   - component: {fileID: 1224258011}
   - component: {fileID: 1224258010}
   - component: {fileID: 1224258009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Zone de mort (eau)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114450,12 +114181,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1298643868}
   - component: {fileID: 1298643872}
-  - component: {fileID: 1298643871}
   - component: {fileID: 1298643870}
-  - component: {fileID: 1298643869}
-  m_Layer: 0
+  - component: {fileID: 1298643873}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114475,18 +114205,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1298643869
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1298643867}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1298643870
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114533,33 +114251,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1298643871
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1298643867}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1298643872
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -114615,6 +114306,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1298643873
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298643867}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1358413829
 GameObject:
   m_ObjectHideFlags: 0
@@ -114712,12 +114430,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1374163077}
   - component: {fileID: 1374163081}
-  - component: {fileID: 1374163080}
   - component: {fileID: 1374163079}
-  - component: {fileID: 1374163078}
-  m_Layer: 0
+  - component: {fileID: 1374163082}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114737,18 +114454,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1374163078
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1374163076}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1374163079
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114795,33 +114500,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1374163080
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1374163076}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1374163081
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -114877,6 +114555,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1374163082
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374163076}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1391226717
 GameObject:
   m_ObjectHideFlags: 0
@@ -114887,12 +114592,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1391226718}
   - component: {fileID: 1391226722}
-  - component: {fileID: 1391226721}
   - component: {fileID: 1391226720}
-  - component: {fileID: 1391226719}
-  m_Layer: 0
+  - component: {fileID: 1391226723}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114906,24 +114610,12 @@ Transform:
   m_GameObject: {fileID: 1391226717}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0.0066, z: 0}
+  m_LocalScale: {x: 1, y: 1.0209, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1391226719
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1391226717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1391226720
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114970,33 +114662,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1391226721
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1391226717}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1391226722
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -115052,6 +114717,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1391226723
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391226717}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1393066353
 GameObject:
   m_ObjectHideFlags: 0
@@ -115062,12 +114754,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1393066354}
   - component: {fileID: 1393066358}
-  - component: {fileID: 1393066357}
   - component: {fileID: 1393066356}
-  - component: {fileID: 1393066355}
-  m_Layer: 0
+  - component: {fileID: 1393066359}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115087,18 +114778,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: -1.206, y: -0.052, z: 45.444}
---- !u!114 &1393066355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1393066353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1393066356
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -115145,33 +114824,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1393066357
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1393066353}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1393066358
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -115227,6 +114879,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1393066359
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1393066353}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1424579854
 GameObject:
   m_ObjectHideFlags: 0
@@ -115237,12 +114916,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1424579855}
   - component: {fileID: 1424579859}
-  - component: {fileID: 1424579858}
   - component: {fileID: 1424579857}
-  - component: {fileID: 1424579856}
-  m_Layer: 0
+  - component: {fileID: 1424579860}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115262,18 +114940,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1424579856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1424579854}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1424579857
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -115320,33 +114986,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1424579858
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1424579854}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1424579859
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -115402,6 +115041,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1424579860
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424579854}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1513045038
 GameObject:
   m_ObjectHideFlags: 0
@@ -115412,12 +115078,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1513045039}
   - component: {fileID: 1513045043}
-  - component: {fileID: 1513045042}
   - component: {fileID: 1513045041}
-  - component: {fileID: 1513045040}
-  m_Layer: 0
+  - component: {fileID: 1513045044}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115437,18 +115102,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 1.207, z: -47.006}
---- !u!114 &1513045040
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513045038}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1513045041
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -115495,33 +115148,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1513045042
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513045038}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1513045043
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -115577,6 +115203,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1513045044
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1513045038}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1513071375
 GameObject:
   m_ObjectHideFlags: 0
@@ -115839,12 +115492,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1529135872}
   - component: {fileID: 1529135876}
-  - component: {fileID: 1529135875}
-  - component: {fileID: 1529135874}
   - component: {fileID: 1529135873}
-  m_Layer: 0
+  - component: {fileID: 1529135877}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_30 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115910,45 +115562,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.55, y: 0.35}
   m_EdgeRadius: 0
---- !u!50 &1529135874
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1529135871}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &1529135875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1529135871}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &1529135876
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -116004,6 +115617,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1529135877
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1529135871}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1547425015
 GameObject:
   m_ObjectHideFlags: 0
@@ -116190,12 +115830,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1621069783}
   - component: {fileID: 1621069787}
-  - component: {fileID: 1621069786}
   - component: {fileID: 1621069785}
-  - component: {fileID: 1621069784}
-  m_Layer: 0
+  - component: {fileID: 1621069788}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (33)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116215,18 +115854,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1621069784
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1621069782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1621069785
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -116273,33 +115900,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1621069786
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1621069782}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1621069787
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -116355,6 +115955,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1621069788
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621069782}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1630123397
 GameObject:
   m_ObjectHideFlags: 0
@@ -116365,12 +115992,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1630123398}
   - component: {fileID: 1630123402}
-  - component: {fileID: 1630123401}
   - component: {fileID: 1630123400}
-  - component: {fileID: 1630123399}
-  m_Layer: 0
+  - component: {fileID: 1630123403}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (35)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116390,18 +116016,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1630123399
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1630123397}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1630123400
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -116448,33 +116062,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1630123401
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1630123397}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1630123402
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -116530,6 +116117,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1630123403
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630123397}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1652130829
 GameObject:
   m_ObjectHideFlags: 0
@@ -116540,12 +116154,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1652130830}
   - component: {fileID: 1652130834}
-  - component: {fileID: 1652130833}
   - component: {fileID: 1652130832}
-  - component: {fileID: 1652130831}
-  m_Layer: 0
+  - component: {fileID: 1652130835}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116565,18 +116178,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1652130831
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1652130829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1652130832
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -116623,33 +116224,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1652130833
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1652130829}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1652130834
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -116705,6 +116279,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1652130835
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652130829}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1661395204
 GameObject:
   m_ObjectHideFlags: 0
@@ -116903,12 +116504,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1689166729}
   - component: {fileID: 1689166733}
-  - component: {fileID: 1689166732}
   - component: {fileID: 1689166731}
-  - component: {fileID: 1689166730}
-  m_Layer: 0
+  - component: {fileID: 1689166734}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116928,18 +116528,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1689166730
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1689166728}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1689166731
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -116986,33 +116574,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1689166732
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1689166728}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1689166733
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -117068,6 +116629,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1689166734
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689166728}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1691026451
 GameObject:
   m_ObjectHideFlags: 0
@@ -125250,7 +124838,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 80, y: -32, z: 0}
@@ -125628,7 +125216,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 101, y: -32, z: 0}
@@ -126114,7 +125702,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 86, y: -31, z: 0}
@@ -126258,7 +125846,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 94, y: -31, z: 0}
@@ -126312,7 +125900,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 97, y: -31, z: 0}
@@ -126402,7 +125990,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -31, z: 0}
@@ -126618,7 +126206,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 114, y: -31, z: 0}
@@ -126636,7 +126224,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 115, y: -31, z: 0}
@@ -127194,7 +126782,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 104, y: -30, z: 0}
@@ -127212,7 +126800,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 105, y: -30, z: 0}
@@ -127482,7 +127070,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 78, y: -29, z: 0}
@@ -127590,7 +127178,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 84, y: -29, z: 0}
@@ -127608,7 +127196,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 85, y: -29, z: 0}
@@ -127662,7 +127250,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 88, y: -29, z: 0}
@@ -127680,7 +127268,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 89, y: -29, z: 0}
@@ -127734,7 +127322,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 92, y: -29, z: 0}
@@ -127770,7 +127358,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 94, y: -29, z: 0}
@@ -128004,7 +127592,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 107, y: -29, z: 0}
@@ -128400,7 +127988,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -28, z: 0}
@@ -128508,7 +128096,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 93, y: -28, z: 0}
@@ -128652,7 +128240,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 101, y: -28, z: 0}
@@ -128670,7 +128258,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -28, z: 0}
@@ -128940,7 +128528,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 75, y: -27, z: 0}
@@ -128994,7 +128582,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 78, y: -27, z: 0}
@@ -129120,7 +128708,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 85, y: -27, z: 0}
@@ -129300,7 +128888,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 95, y: -27, z: 0}
@@ -129318,7 +128906,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 96, y: -27, z: 0}
@@ -129372,7 +128960,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 99, y: -27, z: 0}
@@ -129624,7 +129212,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 113, y: -27, z: 0}
@@ -129696,7 +129284,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 75, y: -26, z: 0}
@@ -129876,7 +129464,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 85, y: -26, z: 0}
@@ -129912,7 +129500,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -26, z: 0}
@@ -130128,7 +129716,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 99, y: -26, z: 0}
@@ -130272,7 +129860,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 107, y: -26, z: 0}
@@ -130434,7 +130022,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 116, y: -26, z: 0}
@@ -130470,7 +130058,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 76, y: -25, z: 0}
@@ -130524,7 +130112,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 79, y: -25, z: 0}
@@ -130650,7 +130238,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 86, y: -25, z: 0}
@@ -130920,7 +130508,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 101, y: -25, z: 0}
@@ -130992,7 +130580,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 105, y: -25, z: 0}
@@ -131064,7 +130652,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 109, y: -25, z: 0}
@@ -131154,7 +130742,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 114, y: -25, z: 0}
@@ -131172,7 +130760,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 115, y: -25, z: 0}
@@ -131334,7 +130922,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 82, y: -24, z: 0}
@@ -131424,7 +131012,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -24, z: 0}
@@ -131460,7 +131048,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 89, y: -24, z: 0}
@@ -131478,7 +131066,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 90, y: -24, z: 0}
@@ -131496,7 +131084,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 91, y: -24, z: 0}
@@ -131640,7 +131228,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 99, y: -24, z: 0}
@@ -131694,7 +131282,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -24, z: 0}
@@ -131712,7 +131300,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 103, y: -24, z: 0}
@@ -131730,7 +131318,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 104, y: -24, z: 0}
@@ -131838,7 +131426,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 110, y: -24, z: 0}
@@ -132054,7 +131642,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 80, y: -23, z: 0}
@@ -132072,7 +131660,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 81, y: -23, z: 0}
@@ -132162,7 +131750,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 86, y: -23, z: 0}
@@ -132306,7 +131894,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 94, y: -23, z: 0}
@@ -132504,7 +132092,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 105, y: -23, z: 0}
@@ -132540,7 +132128,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 107, y: -23, z: 0}
@@ -132558,7 +132146,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 108, y: -23, z: 0}
@@ -132666,7 +132254,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 114, y: -23, z: 0}
@@ -132756,7 +132344,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 77, y: -22, z: 0}
@@ -132954,7 +132542,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 88, y: -22, z: 0}
@@ -133098,7 +132686,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 96, y: -22, z: 0}
@@ -133134,7 +132722,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 98, y: -22, z: 0}
@@ -133422,7 +133010,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 114, y: -22, z: 0}
@@ -133458,7 +133046,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 116, y: -22, z: 0}
@@ -133530,7 +133118,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 78, y: -21, z: 0}
@@ -133602,7 +133190,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 82, y: -21, z: 0}
@@ -133692,7 +133280,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -21, z: 0}
@@ -133746,7 +133334,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 90, y: -21, z: 0}
@@ -133764,7 +133352,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 91, y: -21, z: 0}
@@ -133872,7 +133460,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 97, y: -21, z: 0}
@@ -133890,7 +133478,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 98, y: -21, z: 0}
@@ -133908,7 +133496,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 99, y: -21, z: 0}
@@ -134034,7 +133622,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 106, y: -21, z: 0}
@@ -134142,7 +133730,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 112, y: -21, z: 0}
@@ -134160,7 +133748,7 @@ Tilemap:
       - {fileID: 446797461, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -2131806587, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1072260106, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 113, y: -21, z: 0}
@@ -134592,7 +134180,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 95, y: -20, z: 0}
@@ -134646,7 +134234,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 98, y: -20, z: 0}
@@ -134718,7 +134306,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -20, z: 0}
@@ -134880,7 +134468,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 111, y: -20, z: 0}
@@ -134970,7 +134558,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 116, y: -20, z: 0}
@@ -135024,7 +134612,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 77, y: -19, z: 0}
@@ -135114,7 +134702,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 82, y: -19, z: 0}
@@ -135150,7 +134738,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 84, y: -19, z: 0}
@@ -135366,7 +134954,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 96, y: -19, z: 0}
@@ -135474,7 +135062,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -19, z: 0}
@@ -135492,7 +135080,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 103, y: -19, z: 0}
@@ -135546,7 +135134,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 106, y: -19, z: 0}
@@ -135690,7 +135278,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 114, y: -19, z: 0}
@@ -135708,7 +135296,7 @@ Tilemap:
       - {fileID: -1872786973, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -524721387, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 98523765, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 115, y: -19, z: 0}
@@ -135942,7 +135530,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 86, y: -18, z: 0}
@@ -135960,7 +135548,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -18, z: 0}
@@ -136086,7 +135674,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 94, y: -18, z: 0}
@@ -136122,7 +135710,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 96, y: -18, z: 0}
@@ -136194,7 +135782,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 100, y: -18, z: 0}
@@ -136266,7 +135854,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 104, y: -18, z: 0}
@@ -136518,7 +136106,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 76, y: -17, z: 0}
@@ -136536,7 +136124,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 77, y: -17, z: 0}
@@ -136554,7 +136142,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 78, y: -17, z: 0}
@@ -136662,7 +136250,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 84, y: -17, z: 0}
@@ -136752,7 +136340,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 89, y: -17, z: 0}
@@ -136788,7 +136376,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 91, y: -17, z: 0}
@@ -136824,7 +136412,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 93, y: -17, z: 0}
@@ -136860,7 +136448,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 95, y: -17, z: 0}
@@ -136968,7 +136556,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 101, y: -17, z: 0}
@@ -137040,7 +136628,7 @@ Tilemap:
       - {fileID: -566558797, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -322572893, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -671953294, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 105, y: -17, z: 0}
@@ -137490,7 +137078,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 88, y: -16, z: 0}
@@ -137724,7 +137312,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 101, y: -16, z: 0}
@@ -137742,7 +137330,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 102, y: -16, z: 0}
@@ -137760,7 +137348,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 103, y: -16, z: 0}
@@ -138210,7 +137798,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 86, y: -15, z: 0}
@@ -138282,7 +137870,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 90, y: -15, z: 0}
@@ -138372,7 +137960,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 95, y: -15, z: 0}
@@ -138444,7 +138032,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 99, y: -15, z: 0}
@@ -138462,7 +138050,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 100, y: -15, z: 0}
@@ -138606,7 +138194,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 108, y: -15, z: 0}
@@ -138678,7 +138266,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 112, y: -15, z: 0}
@@ -138732,7 +138320,7 @@ Tilemap:
       - {fileID: 615525404, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -1232616295, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: 1632308299, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 115, y: -15, z: 0}
@@ -138858,7 +138446,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 79, y: -14, z: 0}
@@ -139002,7 +138590,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 87, y: -14, z: 0}
@@ -139056,7 +138644,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 90, y: -14, z: 0}
@@ -139182,7 +138770,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 97, y: -14, z: 0}
@@ -139236,7 +138824,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 100, y: -14, z: 0}
@@ -139326,7 +138914,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 105, y: -14, z: 0}
@@ -139344,7 +138932,7 @@ Tilemap:
       - {fileID: -65753892, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -76479717, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
       - {fileID: -583617283, guid: 495d0a3c691a8ab458def4d63fb686ea, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 106, y: -14, z: 0}
@@ -139690,11 +139278,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 718751909734286191, guid: b49ab9c7a58af0c44b78312ea45b9402, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.45
+      value: 20.88
       objectReference: {fileID: 0}
     - target: {fileID: 718751909734286191, guid: b49ab9c7a58af0c44b78312ea45b9402, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.07
+      value: 2.97
       objectReference: {fileID: 0}
     - target: {fileID: 718751909734286191, guid: b49ab9c7a58af0c44b78312ea45b9402, type: 3}
       propertyPath: m_LocalPosition.z
@@ -139779,12 +139367,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1786248550}
   - component: {fileID: 1786248554}
-  - component: {fileID: 1786248553}
-  - component: {fileID: 1786248552}
   - component: {fileID: 1786248551}
-  m_Layer: 0
+  - component: {fileID: 1786248555}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_30
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -139850,45 +139437,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.55, y: 0.35}
   m_EdgeRadius: 0
---- !u!50 &1786248552
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1786248549}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &1786248553
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1786248549}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &1786248554
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -139944,6 +139492,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1786248555
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786248549}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1831952588
 GameObject:
   m_ObjectHideFlags: 0
@@ -140041,12 +139616,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1879763696}
   - component: {fileID: 1879763700}
-  - component: {fileID: 1879763699}
   - component: {fileID: 1879763698}
-  - component: {fileID: 1879763697}
-  m_Layer: 0
+  - component: {fileID: 1879763701}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (36)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -140066,18 +139640,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1879763697
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1879763695}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1879763698
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -140124,33 +139686,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1879763699
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1879763695}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1879763700
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -140206,6 +139741,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1879763701
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1879763695}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1907256955
 GameObject:
   m_ObjectHideFlags: 0
@@ -140638,12 +140200,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1970456995}
   - component: {fileID: 1970456999}
-  - component: {fileID: 1970456998}
   - component: {fileID: 1970456997}
-  - component: {fileID: 1970456996}
-  m_Layer: 0
+  - component: {fileID: 1970457000}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -140663,18 +140224,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: -1.206, y: -0.052, z: 45.444}
---- !u!114 &1970456996
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1970456994}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1970456997
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -140721,33 +140270,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &1970456998
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1970456994}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1970456999
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -140803,6 +140325,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1970457000
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970456994}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2076943079
 GameObject:
   m_ObjectHideFlags: 0
@@ -140813,12 +140362,11 @@ GameObject:
   m_Component:
   - component: {fileID: 2076943080}
   - component: {fileID: 2076943084}
-  - component: {fileID: 2076943083}
   - component: {fileID: 2076943082}
-  - component: {fileID: 2076943081}
-  m_Layer: 0
+  - component: {fileID: 2076943085}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -140838,18 +140386,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2076943081
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2076943079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2076943082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -140896,33 +140432,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &2076943083
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2076943079}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &2076943084
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -140978,6 +140487,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2076943085
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076943079}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2087588562
 GameObject:
   m_ObjectHideFlags: 0
@@ -140988,12 +140524,11 @@ GameObject:
   m_Component:
   - component: {fileID: 2087588563}
   - component: {fileID: 2087588567}
-  - component: {fileID: 2087588566}
   - component: {fileID: 2087588565}
-  - component: {fileID: 2087588564}
-  m_Layer: 0
+  - component: {fileID: 2087588568}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -141013,18 +140548,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2087588564
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2087588562}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2087588565
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -141071,33 +140594,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &2087588566
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2087588562}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &2087588567
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -141153,6 +140649,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2087588568
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087588562}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2090583343
 GameObject:
   m_ObjectHideFlags: 0
@@ -141163,12 +140686,11 @@ GameObject:
   m_Component:
   - component: {fileID: 2090583344}
   - component: {fileID: 2090583348}
-  - component: {fileID: 2090583347}
   - component: {fileID: 2090583346}
-  - component: {fileID: 2090583345}
-  m_Layer: 0
+  - component: {fileID: 2090583349}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -141188,18 +140710,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2090583345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090583343}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2090583346
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -141246,33 +140756,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &2090583347
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090583343}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &2090583348
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -141328,6 +140811,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2090583349
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2090583343}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2107711226
 GameObject:
   m_ObjectHideFlags: 0
@@ -141338,12 +140848,11 @@ GameObject:
   m_Component:
   - component: {fileID: 2107711227}
   - component: {fileID: 2107711231}
-  - component: {fileID: 2107711230}
   - component: {fileID: 2107711229}
-  - component: {fileID: 2107711228}
-  m_Layer: 0
+  - component: {fileID: 2107711232}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -141363,18 +140872,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2107711228
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2107711226}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2107711229
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -141421,33 +140918,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &2107711230
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2107711226}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &2107711231
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -141503,6 +140973,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2107711232
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107711226}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2121586845
 GameObject:
   m_ObjectHideFlags: 0
@@ -141513,12 +141010,11 @@ GameObject:
   m_Component:
   - component: {fileID: 2121586846}
   - component: {fileID: 2121586850}
-  - component: {fileID: 2121586849}
   - component: {fileID: 2121586848}
-  - component: {fileID: 2121586847}
-  m_Layer: 0
+  - component: {fileID: 2121586851}
+  m_Layer: 3
   m_Name: Snow-2D-Game-Tileset-Pixel-Art2-removebg-preview_40 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -141538,18 +141034,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 251493984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2121586847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2121586845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 632ccadae1c58894cb26e2dbc097941c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2121586848
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -141596,33 +141080,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.02, y: 0.63}
   m_EdgeRadius: 0
---- !u!50 &2121586849
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2121586845}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &2121586850
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -141678,6 +141135,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2121586851
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121586845}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2121616268
 GameObject:
   m_ObjectHideFlags: 0

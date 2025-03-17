@@ -6,25 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AudioTroll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AudioTroll.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PauseMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PauseMenu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/selectLevel.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/selectLevel.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Broly/BrolyIA.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Broly/BrolyIA.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/BuuMob1/Mob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/BuuMob1/Mob.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/buu.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/buu.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy1 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy1 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab ennemy/ennemy2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Pique/Pique.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Pique/Pique.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
@@ -54,19 +41,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "FinalisationRaphael",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Map-2-Snow---Volcan&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Unity.exe" />

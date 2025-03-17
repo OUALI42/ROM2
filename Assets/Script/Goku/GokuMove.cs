@@ -24,6 +24,7 @@ public class GokuMove : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
     [SerializeField] public AnimatorOverrideController superSaiyanController;
+    private GokuHealth health;
 
 
 
@@ -36,6 +37,7 @@ public class GokuMove : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         dashCooldownTimeLeft = 0f;
+        health = GetComponent<GokuHealth>();
     }
 
     // Update is called once per frame
@@ -155,6 +157,10 @@ public class GokuMove : MonoBehaviour
             
             SceneManager.LoadScene("Volcan");
         }
+        if (other.gameObject.layer == LayerMask.NameToLayer("Pike")) 
+        {
+            health.Die();
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -164,6 +170,10 @@ public class GokuMove : MonoBehaviour
             animator.SetBool("isJumping", true);
             isGrounded = false;
         }
+        
+        
+        
+        
     }
 }
 
