@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: a6bb8abc2c26b37459c937bd2d8bf634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5697071322756062616
+    second: mort_vegeta-removebg-preview_0
+  - first:
+      213: 6106588656552014088
+    second: mort_vegeta-removebg-preview_1
+  - first:
+      213: 4531955589547385793
+    second: mort_vegeta-removebg-preview_2
+  - first:
+      213: -7015588685134568538
+    second: mort_vegeta-removebg-preview_3
+  - first:
+      213: 6099476866505633399
+    second: mort_vegeta-removebg-preview_4
+  - first:
+      213: -7213070978429941961
+    second: mort_vegeta-removebg-preview_5
+  - first:
+      213: -1792391771896344194
+    second: mort_vegeta-removebg-preview_6
+  - first:
+      213: -4128925420373432618
+    second: mort_vegeta-removebg-preview_7
+  - first:
+      213: -7817167115410061501
+    second: mort_vegeta-removebg-preview_8
+  - first:
+      213: 2933228391738457565
+    second: mort_vegeta-removebg-preview_9
+  - first:
+      213: -2619012377555125161
+    second: mort_vegeta-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626f0bf0dfefe0b0800000000000000
+      internalID: -5697071322756062616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801763f6706feb450800000000000000
+      internalID: 6106588656552014088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c361dce89db4ee30800000000000000
+      internalID: 4531955589547385793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 32
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ed44d24f93ae90800000000000000
+      internalID: -7015588685134568538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 43
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee7c7c4e1b5a450800000000000000
+      internalID: 6099476866505633399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 49
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737010f592606eb90800000000000000
+      internalID: -7213070978429941961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 39
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7119c11e252027e0800000000000000
+      internalID: -1792391771896344194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 28
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6af86c43c13b6c0800000000000000
+      internalID: -4128925420373432618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 28
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474e18fce7d38390800000000000000
+      internalID: -7817167115410061501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 28
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd39ae6eabe4b820800000000000000
+      internalID: 2933228391738457565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mort_vegeta-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 28
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb9756e1667abd0800000000000000
+      internalID: -2619012377555125161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d3cc16c3b3e445440a52707b5675e7ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mort_vegeta-removebg-preview_0: -5697071322756062616
+      mort_vegeta-removebg-preview_1: 6106588656552014088
+      mort_vegeta-removebg-preview_10: -2619012377555125161
+      mort_vegeta-removebg-preview_2: 4531955589547385793
+      mort_vegeta-removebg-preview_3: -7015588685134568538
+      mort_vegeta-removebg-preview_4: 6099476866505633399
+      mort_vegeta-removebg-preview_5: -7213070978429941961
+      mort_vegeta-removebg-preview_6: -1792391771896344194
+      mort_vegeta-removebg-preview_7: -4128925420373432618
+      mort_vegeta-removebg-preview_8: -7817167115410061501
+      mort_vegeta-removebg-preview_9: 2933228391738457565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

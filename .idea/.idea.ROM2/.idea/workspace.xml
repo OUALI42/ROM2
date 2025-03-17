@@ -6,14 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/ennemyAnimation/ennemy2Animation/ennemy2.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/ennemyAnimation/ennemy2Animation/ennemy2.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Niveau 1/Tile Map Snow/21.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Niveau 1/Tile Map Snow/21.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Pique/Pique.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Pique/Pique.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/luffybouge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/bar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/bar.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/testRaphi.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/testRaphi.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Broly/DetectionBroly.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Broly/DetectionBroly.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/builds\ROM2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\coding factory\GitHub\ROM2\builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\coding factory\GitHub\ROM2&quot; -debugCodeOptimization" />
@@ -109,6 +119,8 @@
       <workItem from="1740663438685" duration="11000" />
       <workItem from="1740843115352" duration="10528000" />
       <workItem from="1741028645264" duration="975000" />
+      <workItem from="1742230174752" duration="662000" />
+      <workItem from="1742232613677" duration="629000" />
     </task>
     <servers />
   </component>

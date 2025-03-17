@@ -15,8 +15,8 @@ public class detectionBroly : MonoBehaviour
 
     void Start()
     {
-        healthBarBroly.SetActive(false);
-        cinematic.SetActive(false);
+        
+        
     }
 
     void Awake()
