@@ -37,29 +37,48 @@ public class GokuAnimAttack : MonoBehaviour
     [SerializeField] private GameObject footHitbox;
     [SerializeField] private GameObject kameHitbox;
     public int Ki;
+    private Hitbox degat;
+    public Canvas transformation;  
+    private bool canUseKamehameha = true;
+
+    [Header("Sound Effect")]
+    public AudioClip Audio_punch; 
+    private AudioSource audioSource;
 
     
 
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         Move= GetComponent<GokuMove>();
         animator = GetComponent<Animator>();
+        degat = GetComponentInChildren<Hitbox>(); // Recherche dans les enfants aussi
         cinematicCanvas.gameObject.SetActive(false);
+        transformation.gameObject.SetActive(false);
         kameHitbox.SetActive(false);
         punchHitbox.SetActive(false);
         footHitbox.SetActive(false);
         
     }
 
+
     void Update()
     {
         HandleCombat();
 
-        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 20) // Vérifie si Goku n'est PAS déjà transformé
-            {
-                StartCoroutine(PlayCinematicAndTransform());
-            }
+        if (Ki >= 9)
+        {
+            transformation.gameObject.SetActive(true);
+        }
+
+        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 9) // Vérifie si Goku n'est PAS déjà transformé
+        {
+            Destroy(transformation.gameObject);
+            StartCoroutine(PlayCinematicAndTransform());
+        }
+        
     }
+
 
    private void HandleCombat()
     {
@@ -80,7 +99,8 @@ public class GokuAnimAttack : MonoBehaviour
                 {
                     animator.SetTrigger("Punch");
                 }
-                StartCoroutine(AttackCooldown(0.5f)); 
+                StartCoroutine(AttackCooldown(0.5f));
+                PlaySound(Audio_punch); 
             }
         }
 
@@ -103,7 +123,7 @@ public class GokuAnimAttack : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KameKey) && isSuperSaiyan )
+        if (Input.GetKeyDown(KameKey) && isSuperSaiyan && canUseKamehameha)
         {
             if (!isAttacking)
             {
@@ -111,17 +131,25 @@ public class GokuAnimAttack : MonoBehaviour
                 if (!Move.isGrounded)
                 {
                     animator.Play("GokuKamehamehassj1");
-                    animator.SetBool("isJumping", false); //  Désactive l'animation de saut
-                    animator.SetBool("isFalling", false); //  Désactive l'animation de chute
+                    animator.SetBool("isJumping", false); // Désactive l'animation de saut
+                    animator.SetBool("isFalling", false); // Désactive l'animation de chute
                 }
                 else
                 {
                     animator.SetTrigger("Kame");
                 }
-                StartCoroutine(AttackCooldown(0.5f)); 
+                
+                StartCoroutine(KamehamehaCooldown(5f)); // Cooldown plus long
             }
         }
+}
+    private IEnumerator KamehamehaCooldown(float cooldownTime)
+    {
+        canUseKamehameha = false;
+        yield return new WaitForSeconds(cooldownTime);
+        canUseKamehameha = true;
     }
+
     private IEnumerator PlayCinematicAndTransform()
     {
         if (!isSuperSaiyan && !isInCinematic)
@@ -152,10 +180,14 @@ public class GokuAnimAttack : MonoBehaviour
             
             animator.Play("GokuSsj1"); // Joue l'animation de transformation
             yield return new WaitForSeconds(1.5f); // Temps de l'animation
-
             // Boost des stats
-            Move.moveSpeed *= 1.2f;
-            Move.jumpPower *= 1.2f;
+            Move.moveSpeed *= 1.5f;
+            Move.jumpPower *= 1.5f;
+
+            // Augmenter les dégâts après la transformation en Super Saiyan
+            degat.damage = Mathf.RoundToInt(degat.damage + 10f); // Augmente les dégâts de 50%
+
+            
 
             // Appliquer les nouvelles animations SSJ
             animator.runtimeAnimatorController = Move.superSaiyanController;
@@ -271,6 +303,14 @@ public class GokuAnimAttack : MonoBehaviour
         hitbox.SetActive(true);
         yield return new WaitForSeconds(duration);
         hitbox.SetActive(false);
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        if (audioSource != null && clip != null)
+        {
+            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+        }
     }
 
 
