@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: bdf3e99446f47954f9cc7e8f8c35f395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7257813427435981925
+    second: Pandaman-removebg-preview_0
+  - first:
+      213: -5884637173074150174
+    second: Pandaman-removebg-preview_1
+  - first:
+      213: -7074326075515865229
+    second: Pandaman-removebg-preview_2
+  - first:
+      213: 6839791751990572361
+    second: Pandaman-removebg-preview_3
+  - first:
+      213: 641120837563732900
+    second: Pandaman-removebg-preview_4
+  - first:
+      213: 7813826251782208124
+    second: Pandaman-removebg-preview_5
+  - first:
+      213: -7140786473584074913
+    second: Pandaman-removebg-preview_6
+  - first:
+      213: 7484013789814428907
+    second: Pandaman-removebg-preview_7
+  - first:
+      213: -7066840559107916712
+    second: Pandaman-removebg-preview_8
+  - first:
+      213: 3729618769666868300
+    second: Pandaman-removebg-preview_9
+  - first:
+      213: 7413760671890787446
+    second: Pandaman-removebg-preview_10
+  - first:
+      213: -5752437779397658234
+    second: Pandaman-removebg-preview_11
+  - first:
+      213: 6914371093513929790
+    second: Pandaman-removebg-preview_12
+  - first:
+      213: -2407597900919771512
+    second: Pandaman-removebg-preview_13
+  - first:
+      213: 3317455339385195192
+    second: Pandaman-removebg-preview_14
+  - first:
+      213: 2649249813712543224
+    second: Pandaman-removebg-preview_15
+  - first:
+      213: 6529098594838732048
+    second: Pandaman-removebg-preview_16
+  - first:
+      213: 8784223197444511583
+    second: Pandaman-removebg-preview_17
+  - first:
+      213: -1360094628378832594
+    second: Pandaman-removebg-preview_18
+  - first:
+      213: 2495182078426246314
+    second: Pandaman-removebg-preview_19
+  - first:
+      213: 34978233038769502
+    second: Pandaman-removebg-preview_20
+  - first:
+      213: -2022155180767904025
+    second: Pandaman-removebg-preview_21
+  - first:
+      213: 5335717961354190507
+    second: Pandaman-removebg-preview_22
+  - first:
+      213: 990378344162673716
+    second: Pandaman-removebg-preview_23
+  - first:
+      213: -6424606397351477452
+    second: Pandaman-removebg-preview_24
+  - first:
+      213: -8608178258183466133
+    second: Pandaman-removebg-preview_25
+  - first:
+      213: -202733806144013153
+    second: Pandaman-removebg-preview_26
+  - first:
+      213: -5732965103390324839
+    second: Pandaman-removebg-preview_27
+  - first:
+      213: 7823583239307876963
+    second: Pandaman-removebg-preview_28
+  - first:
+      213: 8361375991379097913
+    second: Pandaman-removebg-preview_29
+  - first:
+      213: 2387481115150780546
+    second: Pandaman-removebg-preview_30
+  - first:
+      213: 4079301349510898960
+    second: Pandaman-removebg-preview_31
+  - first:
+      213: 313318769819494133
+    second: Pandaman-removebg-preview_32
+  - first:
+      213: 1160739435464250983
+    second: Pandaman-removebg-preview_33
+  - first:
+      213: 2013892060496734623
+    second: Pandaman-removebg-preview_34
+  - first:
+      213: 5398894428031755106
+    second: Pandaman-removebg-preview_35
+  - first:
+      213: -233426255881171507
+    second: Pandaman-removebg-preview_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cc164dbdee8b460800000000000000
+      internalID: 7257813427435981925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 285
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3bd25ba1955ea0800000000000000
+      internalID: -5884637173074150174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 234
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f79b6ae1f2dd90800000000000000
+      internalID: -7074326075515865229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 234
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457b031c52dbee50800000000000000
+      internalID: 6839791751990572361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a356154108b5e800800000000000000
+      internalID: 641120837563732900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 233
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ab91a9399407c60800000000000000
+      internalID: 7813826251782208124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 234
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f5b192984d6ec90800000000000000
+      internalID: -7140786473584074913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 234
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4930cc3ee8cd760800000000000000
+      internalID: 7484013789814428907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 234
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cbc0604f98ded90800000000000000
+      internalID: -7066840559107916712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 234
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448f99b28442c330800000000000000
+      internalID: 3729618769666868300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 234
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ccfc12d08f2e660800000000000000
+      internalID: 7413760671890787446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689377e315c3b20b0800000000000000
+      internalID: -5752437779397658234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 132
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34802a20e7c4ff50800000000000000
+      internalID: 6914371093513929790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 132
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e63b1177e769ed0800000000000000
+      internalID: -2407597900919771512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 132
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0746fd08f90e20800000000000000
+      internalID: 3317455339385195192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 132
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1b935ba604c420800000000000000
+      internalID: 2649249813712543224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 132
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5dd054940c9a50800000000000000
+      internalID: 6529098594838732048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571d6f0574d7e970800000000000000
+      internalID: 8784223197444511583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 132
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21109e3429ff1de0800000000000000
+      internalID: -1360094628378832594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 170
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac648a51eaa0a220800000000000000
+      internalID: 2495182078426246314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 90
+        width: 91
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d852384844c7000800000000000000
+      internalID: 34978233038769502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 89
+        width: 91
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eefc91b39cdfe3e0800000000000000
+      internalID: -2022155180767904025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 91
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae103c47374c0a40800000000000000
+      internalID: 5335717961354190507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 86
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4344e055bd78ebd00800000000000000
+      internalID: 990378344162673716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb928458637d6a0800000000000000
+      internalID: -6424606397351477452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63dbb57b7b998880800000000000000
+      internalID: -8608178258183466133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb2dc6daebf2df0800000000000000
+      internalID: -202733806144013153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99785beec9a6070b0800000000000000
+      internalID: -5732965103390324839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a55a94183f29c60800000000000000
+      internalID: 7823583239307876963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93971a7e923990470800000000000000
+      internalID: 8361375991379097913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 45
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2880480cc69022120800000000000000
+      internalID: 2387481115150780546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 17
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156e5dd6f69c9830800000000000000
+      internalID: 4079301349510898960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 4
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ad88d2c1295400800000000000000
+      internalID: 313318769819494133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76652afdd56cb1010800000000000000
+      internalID: 1160739435464250983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 10
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9923e1b828c2fb10800000000000000
+      internalID: 2013892060496734623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 32
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2632ba2b0e9bcea40800000000000000
+      internalID: 5398894428031755106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandaman-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 8
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd04f89e04b2ccf0800000000000000
+      internalID: -233426255881171507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf6a26a67241a0c40ad894f91eb70415
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pandaman-removebg-preview_0: 7257813427435981925
+      Pandaman-removebg-preview_1: -5884637173074150174
+      Pandaman-removebg-preview_10: 7413760671890787446
+      Pandaman-removebg-preview_11: -5752437779397658234
+      Pandaman-removebg-preview_12: 6914371093513929790
+      Pandaman-removebg-preview_13: -2407597900919771512
+      Pandaman-removebg-preview_14: 3317455339385195192
+      Pandaman-removebg-preview_15: 2649249813712543224
+      Pandaman-removebg-preview_16: 6529098594838732048
+      Pandaman-removebg-preview_17: 8784223197444511583
+      Pandaman-removebg-preview_18: -1360094628378832594
+      Pandaman-removebg-preview_19: 2495182078426246314
+      Pandaman-removebg-preview_2: -7074326075515865229
+      Pandaman-removebg-preview_20: 34978233038769502
+      Pandaman-removebg-preview_21: -2022155180767904025
+      Pandaman-removebg-preview_22: 5335717961354190507
+      Pandaman-removebg-preview_23: 990378344162673716
+      Pandaman-removebg-preview_24: -6424606397351477452
+      Pandaman-removebg-preview_25: -8608178258183466133
+      Pandaman-removebg-preview_26: -202733806144013153
+      Pandaman-removebg-preview_27: -5732965103390324839
+      Pandaman-removebg-preview_28: 7823583239307876963
+      Pandaman-removebg-preview_29: 8361375991379097913
+      Pandaman-removebg-preview_3: 6839791751990572361
+      Pandaman-removebg-preview_30: 2387481115150780546
+      Pandaman-removebg-preview_31: 4079301349510898960
+      Pandaman-removebg-preview_32: 313318769819494133
+      Pandaman-removebg-preview_33: 1160739435464250983
+      Pandaman-removebg-preview_34: 2013892060496734623
+      Pandaman-removebg-preview_35: 5398894428031755106
+      Pandaman-removebg-preview_36: -233426255881171507
+      Pandaman-removebg-preview_4: 641120837563732900
+      Pandaman-removebg-preview_5: 7813826251782208124
+      Pandaman-removebg-preview_6: -7140786473584074913
+      Pandaman-removebg-preview_7: 7484013789814428907
+      Pandaman-removebg-preview_8: -7066840559107916712
+      Pandaman-removebg-preview_9: 3729618769666868300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

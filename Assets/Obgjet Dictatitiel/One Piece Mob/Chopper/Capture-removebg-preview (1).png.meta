@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 266cc9d959996394d99fb5d58850215f
+guid: 51f6693ab28ecee4b98e95eed52a4794
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5005218622238443134
-    second: asset boudon dragon  ball_0
+      213: -2448737892976432836
+    second: Capture-removebg-preview (1)_0
+  - first:
+      213: 1857517914741226292
+    second: Capture-removebg-preview (1)_1
+  - first:
+      213: -69678553678127255
+    second: Capture-removebg-preview (1)_2
+  - first:
+      213: 4440101280631858550
+    second: Capture-removebg-preview (1)_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: asset boudon dragon  ball_0
+      name: Capture-removebg-preview (1)_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 173
-        width: 458
-        height: 154
+        x: 2
+        y: 13
+        width: 88
+        height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 289be4e8e24e98ab0800000000000000
-      internalID: -5005218622238443134
+      spriteID: c39e91d3cd5540ed0800000000000000
+      internalID: -2448737892976432836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capture-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 13
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3310b3ba37c910800000000000000
+      internalID: 1857517914741226292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capture-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 14
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f5d8f79b3780ff0800000000000000
+      internalID: -69678553678127255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capture-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 13
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a1de07986e9d30800000000000000
+      internalID: 4440101280631858550
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 106f91dc187d30446a21b9b8ecebdf4d
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      asset boudon dragon  ball_0: -5005218622238443134
+      Capture-removebg-preview (1)_0: -2448737892976432836
+      Capture-removebg-preview (1)_1: 1857517914741226292
+      Capture-removebg-preview (1)_2: -69678553678127255
+      Capture-removebg-preview (1)_3: 4440101280631858550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
