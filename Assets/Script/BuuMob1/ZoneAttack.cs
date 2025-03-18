@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class ZoneAttack : MonoBehaviour
@@ -9,8 +10,7 @@ public class ZoneAttack : MonoBehaviour
     private GokuHealth GokuLife;
     private mob mobScript;
     private Coroutine damageCoroutine;
-	[SerializeField]
-	private Animator animator;
+    [SerializeField] private Animator animator;
     private bool isPlayerInZone = false;
 
 
@@ -25,14 +25,14 @@ public class ZoneAttack : MonoBehaviour
         {
             animator.SetBool("IsAttacking", true);
             GokuLife = other.GetComponent<GokuHealth>();
-            
+
             if (GokuLife != null)
             {
-                isPlayerInZone = true;  // Le joueur est dans la zone
-                
+                isPlayerInZone = true; // Le joueur est dans la zone
+
                 mobScript.StopMovement();
                 mobScript.StopChase();
-                
+
                 damageCoroutine = StartCoroutine(DealDamageContinuously());
             }
         }
@@ -43,8 +43,8 @@ public class ZoneAttack : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             animator.SetBool("IsAttacking", false);
-            isPlayerInZone = false;  // Le joueur est sorti de la zone
-            
+            isPlayerInZone = false; // Le joueur est sorti de la zone
+
             if (damageCoroutine != null)
             {
                 StopCoroutine(damageCoroutine);
@@ -66,8 +66,8 @@ public class ZoneAttack : MonoBehaviour
         }
     }
 
-    
-  private IEnumerator DealDamageContinuously()
+
+    private IEnumerator DealDamageContinuously()
     {
         while (isPlayerInZone && GokuLife != null && GokuLife.currentHealth > 0)
         {
@@ -76,5 +76,6 @@ public class ZoneAttack : MonoBehaviour
         }
     }
 
-
 }
+
+

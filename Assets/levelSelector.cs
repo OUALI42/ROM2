@@ -9,4 +9,9 @@ public class levelSelector : MonoBehaviour
         SceneManager.LoadScene(levelName);
     }
     
+    public void LoadMainMenu(){
+        
+        SceneManager.LoadScene("MainMenu");
+    }
+    
 }
