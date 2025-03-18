@@ -170,6 +170,7 @@ public class GokuMove : MonoBehaviour
         }
         if (other.gameObject.layer == LayerMask.NameToLayer("Pike")) 
         {
+            animator.Play("GokuDeath");
             health.Die();
         }
     }
