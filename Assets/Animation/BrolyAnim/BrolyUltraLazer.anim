@@ -238,6 +238,13 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 3.5
+    functionName: PlaySound
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: b8c5219b2e70b684b9bed20fcd4e07b6, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 5.3333335
     functionName: Lazer_haut
     data: 

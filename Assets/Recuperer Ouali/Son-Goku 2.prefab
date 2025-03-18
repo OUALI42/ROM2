@@ -526,7 +526,6 @@ GameObject:
   - component: {fileID: 7216379105064000329}
   - component: {fileID: 2843633808539864263}
   - component: {fileID: 4393086766572641191}
-  - component: {fileID: 7962953972827047953}
   - component: {fileID: 7412313039094233392}
   - component: {fileID: 2669204854859979740}
   - component: {fileID: 7990435553993421464}
@@ -650,52 +649,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &7962953972827047953
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5918467521984896614}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 6200000, guid: d00e6a538780a164383117f52887dbf8, type: 2}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.0008729696, y: 0.012807161}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.68, y: 0.81}
-    newSize: {x: 0.68, y: 0.81}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.642339, y: 0.78438574}
-  m_EdgeRadius: 0
 --- !u!95 &7412313039094233392
 Animator:
   serializedVersion: 7
@@ -779,6 +732,8 @@ MonoBehaviour:
   dashCooldown: 1
   dashKey: 304
   superSaiyanController: {fileID: 22100000, guid: de49b5a4d7db6124e9582254a3622a56, type: 2}
+  Audio_tp: {fileID: 0}
+  Audio_jump: {fileID: 0}
 --- !u!114 &7982680036089526412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -818,7 +773,7 @@ MonoBehaviour:
   kameHitbox: {fileID: 5582268327113345801}
   Ki: 0
   transformation: {fileID: 2607015354989544620}
-  Audio_punch: {fileID: 0}
+  Audio_foot: {fileID: 0}
 --- !u!114 &1292818716475251281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -837,6 +792,7 @@ MonoBehaviour:
   animator: {fileID: 7412313039094233392}
   isDead: 0
   timeBeforeRestart: 2
+  Audio_Death: {fileID: 0}
 --- !u!58 &5581607629775124523
 CircleCollider2D:
   m_ObjectHideFlags: 0
