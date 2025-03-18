@@ -42,7 +42,7 @@ public class GokuAnimAttack : MonoBehaviour
     private bool canUseKamehameha = true;
 
     [Header("Sound Effect")]
-    public AudioClip Audio_punch; 
+    public AudioClip Audio_foot;  
     private AudioSource audioSource;
 
     
@@ -99,8 +99,7 @@ public class GokuAnimAttack : MonoBehaviour
                 {
                     animator.SetTrigger("Punch");
                 }
-                StartCoroutine(AttackCooldown(0.5f));
-                PlaySound(Audio_punch); 
+                StartCoroutine(AttackCooldown(0.5f)); 
             }
         }
 
@@ -119,6 +118,7 @@ public class GokuAnimAttack : MonoBehaviour
                 {
                     animator.SetTrigger("Foot");
                 }
+                PlaySound(Audio_foot); 
                 StartCoroutine(AttackCooldown(0.5f)); 
             }
         }
@@ -139,7 +139,7 @@ public class GokuAnimAttack : MonoBehaviour
                     animator.SetTrigger("Kame");
                 }
                 
-                StartCoroutine(KamehamehaCooldown(5f)); // Cooldown plus long
+                StartCoroutine(KamehamehaCooldown(30f)); // Cooldown plus long
             }
         }
 }
