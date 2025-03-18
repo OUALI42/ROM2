@@ -25,6 +25,9 @@ public class GokuMove : MonoBehaviour
     Animator animator;
     [SerializeField] public AnimatorOverrideController superSaiyanController;
     private GokuHealth health;
+    private GokuAnimAttack attack;
+    public AudioClip Audio_tp; 
+    public AudioClip Audio_jump; 
 
 
 
@@ -38,11 +41,13 @@ public class GokuMove : MonoBehaviour
         animator = GetComponent<Animator>();
         dashCooldownTimeLeft = 0f;
         health = GetComponent<GokuHealth>();
+        attack = GetComponent<GokuAnimAttack>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(health.isDead == true) return;
         if (isDashing) return;
         horizontalInput = Input.GetAxis("Horizontal");
 
@@ -69,7 +74,9 @@ public class GokuMove : MonoBehaviour
                    animator.Play("GokuDash");
                 }
                 // dinoAttackAnimation.PlaySound(dashsong);
+
                 StartCoroutine(PlayDashWithDelay()); 
+                attack.PlaySound(Audio_tp);
         }
     }
     IEnumerator PlayDashWithDelay()
@@ -82,13 +89,16 @@ public class GokuMove : MonoBehaviour
     }
     private void HandleJump()
     {
+        if(health.isDead == true) return;
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
+            attack.PlaySound(Audio_jump);
             isJumping = true;
             jumpTimeCounter = maxJumpTime;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             isGrounded = false;
             animator.SetBool("isJumping", true);
+            
         }
 
         if (Input.GetButton("Jump") && isJumping)
@@ -109,6 +119,7 @@ public class GokuMove : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if(health.isDead == true) return;
         if (isDashing) return;
         rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
         animator.SetFloat("xVelocity", Math.Abs(rb.linearVelocity.x));

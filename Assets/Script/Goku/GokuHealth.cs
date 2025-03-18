@@ -13,8 +13,13 @@ public class GokuHealth : MonoBehaviour
     public bool isDead = false; // Empêche plusieurs appels à Die()
     public float timeBeforeRestart = 2f; // Temps avant le redémarrage du niveau après la mort
 
+    [Header("Sound Effect")]
+    public AudioClip Audio_Death; 
+    private AudioSource audioSource;
+
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
 
@@ -53,6 +58,7 @@ public class GokuHealth : MonoBehaviour
         if (animator != null)
         {
             animator.Play("GokuDeath");
+            PlaySound(Audio_Death); 
         }
 
         // Lancer le redémarrage du niveau après l'animation
@@ -76,5 +82,13 @@ public class GokuHealth : MonoBehaviour
     void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        if (audioSource != null && clip != null)
+        {
+            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+        }
     }
 }
