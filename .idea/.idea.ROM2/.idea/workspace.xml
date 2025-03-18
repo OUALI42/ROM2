@@ -7,12 +7,11 @@
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel (3).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Niveau 1/dialogue/New Piskel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Video/Broly.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Video/Broly.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/PauseMenu.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/PauseMenu.prefab.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,7 @@
       <workItem from="1741028645264" duration="975000" />
       <workItem from="1742230174752" duration="662000" />
       <workItem from="1742232613677" duration="629000" />
-      <workItem from="1742286920619" duration="8932000" />
+      <workItem from="1742286920619" duration="10541000" />
     </task>
     <servers />
   </component>
