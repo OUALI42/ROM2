@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 57525dcf5187e5c4f900243d697c9100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4514282244113754362
+    second: Hercule-removebg-preview_0
+  - first:
+      213: -2145631333016896880
+    second: Hercule-removebg-preview_1
+  - first:
+      213: 770602447007366271
+    second: Hercule-removebg-preview_2
+  - first:
+      213: -5562388936257286375
+    second: Hercule-removebg-preview_3
+  - first:
+      213: -4039990012379432645
+    second: Hercule-removebg-preview_4
+  - first:
+      213: 130259374179892817
+    second: Hercule-removebg-preview_5
+  - first:
+      213: -7604629040138489265
+    second: Hercule-removebg-preview_6
+  - first:
+      213: 3103599451671316311
+    second: Hercule-removebg-preview_7
+  - first:
+      213: -9219288671119136164
+    second: Hercule-removebg-preview_8
+  - first:
+      213: -4700712380967543123
+    second: Hercule-removebg-preview_9
+  - first:
+      213: -6234647690248190148
+    second: Hercule-removebg-preview_10
+  - first:
+      213: 8910409540984207705
+    second: Hercule-removebg-preview_11
+  - first:
+      213: 563648660129038976
+    second: Hercule-removebg-preview_12
+  - first:
+      213: -8810286167902000551
+    second: Hercule-removebg-preview_13
+  - first:
+      213: -5709026718503028951
+    second: Hercule-removebg-preview_14
+  - first:
+      213: 3654781624151115220
+    second: Hercule-removebg-preview_15
+  - first:
+      213: -3106295680170205625
+    second: Hercule-removebg-preview_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 109
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071fb7773c0a51c0800000000000000
+      internalID: -4514282244113754362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 109
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a7490bbaf2932e0800000000000000
+      internalID: -2145631333016896880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 109
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cbbecb7dab1ba00800000000000000
+      internalID: 770602447007366271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 109
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f42d7bbbc6ec2b0800000000000000
+      internalID: -5562388936257286375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b397fff0d721fe7c0800000000000000
+      internalID: -4039990012379432645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e38aee536cec100800000000000000
+      internalID: 130259374179892817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 172
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42fce5dd2ee67690800000000000000
+      internalID: -7604629040138489265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 108
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75747f9f143321b20800000000000000
+      internalID: 3103599451671316311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 114
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a292cacc18e0080800000000000000
+      internalID: -9219288671119136164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 108
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae1625bef6b3ceb0800000000000000
+      internalID: -4700712380967543123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 82
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c370c0355f41a79a0800000000000000
+      internalID: -6234647690248190148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 89
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597d95a44228ab70800000000000000
+      internalID: 8910409540984207705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 13
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082cd15587b72d700800000000000000
+      internalID: 563648660129038976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae9a0c8639bb580800000000000000
+      internalID: -8810286167902000551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b96e727675c0b0800000000000000
+      internalID: -5709026718503028951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 8
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50727f58468b230800000000000000
+      internalID: 3654781624151115220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hercule-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74edf18698834e4d0800000000000000
+      internalID: -3106295680170205625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8805e5da27255cd42a0071604cbcf9e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hercule-removebg-preview_0: -4514282244113754362
+      Hercule-removebg-preview_1: -2145631333016896880
+      Hercule-removebg-preview_10: -6234647690248190148
+      Hercule-removebg-preview_11: 8910409540984207705
+      Hercule-removebg-preview_12: 563648660129038976
+      Hercule-removebg-preview_13: -8810286167902000551
+      Hercule-removebg-preview_14: -5709026718503028951
+      Hercule-removebg-preview_15: 3654781624151115220
+      Hercule-removebg-preview_16: -3106295680170205625
+      Hercule-removebg-preview_2: 770602447007366271
+      Hercule-removebg-preview_3: -5562388936257286375
+      Hercule-removebg-preview_4: -4039990012379432645
+      Hercule-removebg-preview_5: 130259374179892817
+      Hercule-removebg-preview_6: -7604629040138489265
+      Hercule-removebg-preview_7: 3103599451671316311
+      Hercule-removebg-preview_8: -9219288671119136164
+      Hercule-removebg-preview_9: -4700712380967543123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
