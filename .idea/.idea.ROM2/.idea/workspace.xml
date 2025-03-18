@@ -5,8 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32cb156e-59a1-47b4-9a25-b238ac471424" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ROM2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scenes/Didacticiel V.Final.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/test.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/test.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Bruit de corps qui tombe.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Bruit de corps qui tombe.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Foot.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Foot.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream 2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream 2.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream3.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/GokuScream4.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Kick (8).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Kick (8).mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Kick.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Kick.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Punch dbZ (1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/Punch dbZ (1).mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/TOMBE COOORPPP.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/TOMBE COOORPPP.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/aura_zZl4Xdl.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/aura_zZl4Xdl.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/corp.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/corp.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/dbz-teleport.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/dbz-teleport.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/dragon-ball-z-songoku-kamehameha.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/dragon-ball-z-songoku-kamehameha.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/jump.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/jump.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/kameSpeed-[AudioTrimmer.com]2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/kameSpeed-[AudioTrimmer.com]2.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/sound-effect-for-editing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/sound-effect-for-editing.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/ssj-ost-dokkan.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/Sound Effect/ssj-ost-dokkan.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Video/super sayen 1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Video/super sayen 1.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/Goku.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/Goku.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuDeath.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuDeath.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuDeathSSJ1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuDeathSSJ1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuFoot.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuFoot.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuKamehamehassj1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuKamehamehassj1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuPunch.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuPunch.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuPunchSSJ1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuPunchSSJ1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuSsj1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/GokuAnim/GokuSsj1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Snow.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Niveau 1/Volcan.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Goku/GokuAnimAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Goku/GokuAnimAttack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Goku/GokuHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Goku/GokuHealth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Goku/GokuMove.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +91,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Finalraphael",
+    "git-widget-placeholder": "Merging Finalraphael",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,7 +165,7 @@
       <workItem from="1741028645264" duration="975000" />
       <workItem from="1742230174752" duration="662000" />
       <workItem from="1742232613677" duration="629000" />
-      <workItem from="1742286920619" duration="6737000" />
+      <workItem from="1742286920619" duration="7409000" />
     </task>
     <servers />
   </component>
