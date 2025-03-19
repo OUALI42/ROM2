@@ -49,11 +49,9 @@ public class GokuAnimAttack : MonoBehaviour
     private GokuHealth health;
     public HealthBar healthBar;
 
-    // [Header("Ki")]
-    // public int maxKi = 100; // Le max de Ki que Goku peut avoir
-    // public int currentKi = 0; // Le Ki actuel de Goku
-    // public Ki_Barre kiBar; // Référence à la barre de Ki
+    [Header("Ki")]
     public int Ki;
+    Ki_Barre kiBar;
 
 
 
@@ -62,7 +60,6 @@ public class GokuAnimAttack : MonoBehaviour
     {
         audioSource = GetComponent<AudioSource>();
         health= GetComponent<GokuHealth>();
-        // kiBar= GetComponent<Ki_Barre>();
         Move= GetComponent<GokuMove>();
         animator = GetComponent<Animator>();
         degat = GetComponentInChildren<Hitbox>(); // Recherche dans les enfants aussi
@@ -71,6 +68,11 @@ public class GokuAnimAttack : MonoBehaviour
         kameHitbox.SetActive(false);
         punchHitbox.SetActive(false);
         footHitbox.SetActive(false);
+
+        kiBar = FindObjectOfType<Ki_Barre>(); // Au lieu de GetComponent<Ki_Barre>()
+        Ki = 0;
+        kiBar.currentKi = 0;
+        kiBar.Ki_gestion();
     }
 
 
@@ -78,17 +80,17 @@ public class GokuAnimAttack : MonoBehaviour
     {
         HandleCombat();
 
-        if (Ki >= 9 && transformation != null) // Check if transformation exists
+        if (Ki == 50 && transformation != null) // Check if transformation exists
         {
             transformation.gameObject.SetActive(true);
         }
 
-        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 9)
+        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki == 50)
         {
             if (transformation != null) // Prevent null reference
             {
                 health.currentHealth = 100;
-                // healthBar.SetMaxHealth(100);
+                healthBar.SetHealth(100);
                 Destroy(transformation.gameObject);
                 transformation = null; // Avoid future access to destroyed object
             }
@@ -96,12 +98,6 @@ public class GokuAnimAttack : MonoBehaviour
             StartCoroutine(PlayCinematicAndTransform());
         }
     }
-
-
-    // private void Ki_gestion(){
-    //     currentKi = Ki;
-    //     kiBar.SetMaxKi(currentKi);
-    // }
 
    private void HandleCombat()
     {
