@@ -14,6 +14,7 @@ public class ZoneAttack : MonoBehaviour
     private bool isPlayerInZone = false;
 
 
+
     private void Start()
     {
         mobScript = GetComponentInParent<mob>();
@@ -21,7 +22,7 @@ public class ZoneAttack : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.name == "ZonAttack")
         {
             animator.SetBool("IsAttacking", true);
             GokuLife = other.GetComponent<GokuHealth>();
@@ -29,10 +30,6 @@ public class ZoneAttack : MonoBehaviour
             if (GokuLife != null)
             {
                 isPlayerInZone = true; // Le joueur est dans la zone
-
-                mobScript.StopMovement();
-                mobScript.StopChase();
-
                 damageCoroutine = StartCoroutine(DealDamageContinuously());
             }
         }
@@ -40,7 +37,7 @@ public class ZoneAttack : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.name == "ZonAttack")
         {
             animator.SetBool("IsAttacking", false);
             isPlayerInZone = false; // Le joueur est sorti de la zone
@@ -49,6 +46,7 @@ public class ZoneAttack : MonoBehaviour
             {
                 StopCoroutine(damageCoroutine);
                 damageCoroutine = null;
+
             }
 
             if (mobScript != null)

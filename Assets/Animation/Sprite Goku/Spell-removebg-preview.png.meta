@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 25180774ca4593a419de46195f9676ae
+guid: 683dfe7b221c6364fb0376351fcee42d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2053243819347550492
-    second: SPELLLLLLEUX_0
-  - first:
-      213: 5224732140593690523
-    second: SPELLLLLLEUX_1
-  - first:
-      213: -5607768413340209504
-    second: SPELLLLLLEUX_2
-  - first:
-      213: -1671793172955830242
-    second: SPELLLLLLEUX_3
+      213: 8385611424151189195
+    second: Spell-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPELLLLLLEUX_0
+      name: Spell-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 333
-        y: 414
-        width: 1254
-        height: 396
+        x: 114
+        y: 143
+        width: 438
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,74 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4eed586ff996183e0800000000000000
-      internalID: -2053243819347550492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPELLLLLLEUX_1
-      rect:
-        serializedVersion: 2
-        x: 471
-        y: 235
-        width: 99
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9737a6333af18840800000000000000
-      internalID: 5224732140593690523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPELLLLLLEUX_2
-      rect:
-        serializedVersion: 2
-        x: 905
-        y: 235
-        width: 60
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ae633cd6543d22b0800000000000000
-      internalID: -5607768413340209504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPELLLLLLEUX_3
-      rect:
-        serializedVersion: 2
-        x: 1337
-        y: 235
-        width: 83
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e186b0c77f89cc8e0800000000000000
-      internalID: -1671793172955830242
+      spriteID: bc63df0592daf5470800000000000000
+      internalID: 8385611424151189195
       vertices: []
       indices: 
       edges: []
@@ -210,10 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPELLLLLLEUX_0: -2053243819347550492
-      SPELLLLLLEUX_1: 5224732140593690523
-      SPELLLLLLEUX_2: -5607768413340209504
-      SPELLLLLLEUX_3: -1671793172955830242
+      Spell-removebg-preview_0: 8385611424151189195
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

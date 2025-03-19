@@ -237,7 +237,7 @@ public class BrolyBoss : MonoBehaviour
         if (!isAttacking)
         {
             animator.SetTrigger("BrolyFoot");
-            StartCoroutine(ActivateHitbox(BrolyfootHitbox, 0.8f));
+            StartCoroutine(ActivateHitbox(BrolyfootHitbox, 0.6f));
         }
     }
 
@@ -246,7 +246,7 @@ public class BrolyBoss : MonoBehaviour
         if (!isAttacking)
         {
             animator.SetTrigger("BrolyMarteaux");
-            StartCoroutine(ActivateHitbox(BrolyMarteauxHitbox, 1f));
+            StartCoroutine(ActivateHitbox(BrolyMarteauxHitbox, 0.8f));
         }
     }
 
