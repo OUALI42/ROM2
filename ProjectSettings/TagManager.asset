@@ -15,6 +15,8 @@ TagManager:
   - zone1-credits 1
   - Snow-Volcan
   - Spike
+  - AttackZone
+  - DetectionZone
   layers:
   - Default
   - TransparentFX
@@ -22,11 +24,11 @@ TagManager:
   - Pike
   - Water
   - UI
-  - 
+  - zoneAttack
   - Player
   - Ground
   - Enemy
-  - 
+  - detection
   - Danger
   - 
   - Mob

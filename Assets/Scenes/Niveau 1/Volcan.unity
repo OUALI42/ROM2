@@ -11959,6 +11959,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioMenuManager
       objectReference: {fileID: 0}
+    - target: {fileID: 4745154285985341516, guid: beac54d2cb733ac408ddbb8485f70103, type: 3}
+      propertyPath: 'playlist.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: dd8bd86ea364076418888f6b57698ede, type: 3}
     - target: {fileID: 5786114448914653046, guid: beac54d2cb733ac408ddbb8485f70103, type: 3}
       propertyPath: m_LocalPosition.x
       value: 566.76953
