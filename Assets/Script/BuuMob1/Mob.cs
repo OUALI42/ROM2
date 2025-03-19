@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class mob : MonoBehaviour
 {
@@ -14,6 +15,8 @@ public class mob : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private BoxCollider2D boxCollider;
 	private BoxCollider2D attackCollider;
+    private NavMeshAgent agent; // Référence à l’IA de déplacement
+    private Renderer rend; // Référence au renderer
 
 
     void Start()
@@ -21,11 +24,13 @@ public class mob : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         SetRandomDirectionChangeTime();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        Transform colliderChild = transform.Find("detectionMob1");
+        Transform colliderChild = transform.Find("Detection");
         boxCollider = colliderChild.GetComponent<BoxCollider2D>();
-		Transform attackColliderChild = transform.Find("zoneAttack");
+		Transform attackColliderChild = transform.Find("ZonAttack");
         attackCollider = attackColliderChild.GetComponent<BoxCollider2D>();
 		rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        agent = GetComponent<NavMeshAgent>();
+        rend = GetComponent<Renderer>();
     }
 
     void Update()
@@ -60,6 +65,31 @@ public class mob : MonoBehaviour
             boxCollider.offset = new Vector2(Mathf.Abs(boxCollider.offset.x), boxCollider.offset.y);
         }
     }
+    
+    void OnBecameInvisible()
+    {
+        if (gameObject.activeInHierarchy) // Vérifie si l'ennemi est actif
+        {
+            DisableEnemy();
+        }
+    }
+    void OnBecameVisible()
+    {
+        EnableEnemy();
+    }
+
+    void DisableEnemy()
+    {
+        agent.enabled = false;  // Désactiver le déplacement
+        gameObject.SetActive(false); // Désactiver complètement l’ennemi
+    }
+
+    void EnableEnemy()
+    {
+        gameObject.SetActive(true);  // Réactiver l’ennemi
+        agent.enabled = true;  // Réactiver le déplacement
+    }
+
     
     void ChasePlayer()
     {

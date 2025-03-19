@@ -17,6 +17,7 @@ public class BrolyHealth : MonoBehaviour
     private bool hasPlayed60 = false; // Pour suivre l'animation à 60 HP
     private bool hasPlayed40 = false; // Pour suivre l'animation à 40 HP
     public Transform Player;
+    public GameObject murInvisible3;
 
     
 
@@ -102,16 +103,19 @@ public class BrolyHealth : MonoBehaviour
         if (currentHealth <= 0)
         {
             Die();
+            
         }
     }
 
     void Die()
     {
+        murInvisible3.SetActive(false);
         Broly.patrolSpeed = 0;
         Broly.chaseSpeed = 0;
         Broly.isFrozen =true;
         animator.Play("BrolyDeath"); // Animation de mort
         Destroy(gameObject, 3.2f); // Détruit le mob après 1 seconde
+        
     }
 }
 

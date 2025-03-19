@@ -88,10 +88,10 @@ public class PlayerMovement : MonoBehaviour
             
             SceneManager.LoadScene("Didacticiel V.Final");
         }
-        if (collision.gameObject.CompareTag("zone1-credits 1")) // 
+        if (collision.gameObject.CompareTag("didactitiel-menu")) // 
         {
             
-            SceneManager.LoadScene("credits 1");
+            SceneManager.LoadScene("MainMenu");
         }
         
         

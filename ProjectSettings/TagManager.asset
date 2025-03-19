@@ -19,6 +19,7 @@ TagManager:
   - DetectionZone
   - murInvisible
   - murInvisible2
+  - didactitiel-menu
   layers:
   - Default
   - TransparentFX
