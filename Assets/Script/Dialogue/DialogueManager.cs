@@ -1,23 +1,17 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-    public Image dialogueImage; // Image UI où s'affiche le dialogue
-    public Sprite[] dialogues; // Liste des images de dialogue
-    private int currentDialogueIndex = 0; // Index du dialogue actuel
+    public Image dialogueBox; // L'image affichant le dialogue
+    public Sprite[] dialogues; // Tableau contenant toutes les images des dialogues
+    private int index = 0; // Index du dialogue actuel
     private bool isPlayerInZone = false; // Vérifie si le joueur est dans la zone
-
-    void Start()
-    {
-        dialogueImage.gameObject.SetActive(false); // Cache l’image au début
-    }
 
     void Update()
     {
-        if (isPlayerInZone && Input.GetKeyDown(KeyCode.H)) // Appui sur "H" pour changer de dialogue
+        // Vérifie si le joueur est dans la zone et appuie sur H
+        if (isPlayerInZone && Input.GetKeyDown(KeyCode.H))
         {
             NextDialogue();
         }
@@ -25,20 +19,22 @@ public class DialogueManager : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) // Vérifie si le joueur entre dans la zone
+        // Vérifie si le joueur est entré dans la zone
+        if (other.CompareTag("Player"))
         {
             isPlayerInZone = true;
+            index = 0; // Réinitialise le dialogue
             ShowDialogue();
         }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) // Si le joueur sort de la zone
+        // Désactive le dialogue quand le joueur quitte la zone
+        if (other.CompareTag("Player"))
         {
             isPlayerInZone = false;
-            dialogueImage.gameObject.SetActive(false);
-            currentDialogueIndex = 0; // Réinitialise le dialogue
+            dialogueBox.gameObject.SetActive(false);
         }
     }
 
@@ -46,21 +42,21 @@ public class DialogueManager : MonoBehaviour
     {
         if (dialogues.Length > 0)
         {
-            dialogueImage.sprite = dialogues[currentDialogueIndex];
-            dialogueImage.gameObject.SetActive(true);
+            dialogueBox.sprite = dialogues[index];
+            dialogueBox.gameObject.SetActive(true);
         }
     }
 
     void NextDialogue()
     {
-        if (currentDialogueIndex < dialogues.Length - 1)
+        index++; // Passe à l'image suivante
+        if (index < dialogues.Length)
         {
-            currentDialogueIndex++;
-            dialogueImage.sprite = dialogues[currentDialogueIndex];
+            dialogueBox.sprite = dialogues[index]; // Change l'image affichée
         }
         else
         {
-            dialogueImage.gameObject.SetActive(false); // Cache le dialogue après le dernier
+            dialogueBox.gameObject.SetActive(false); // Cache le dialogue quand c'est fini
         }
     }
 }
