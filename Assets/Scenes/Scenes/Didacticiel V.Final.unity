@@ -557,7 +557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 941916363791e8b40930525b604cd1b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 1874068923}
 --- !u!1 &177892752
 GameObject:
   m_ObjectHideFlags: 0
@@ -8319,7 +8318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 941916363791e8b40930525b604cd1b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 2057758860}
 --- !u!1 &1256961082
 GameObject:
   m_ObjectHideFlags: 0
@@ -30369,9 +30367,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 148b08b6c0dca6e40a04fc202160835c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: {fileID: 254069345}
-  dialogueText: {fileID: 862354846}
-  animator: {fileID: 1081276028}
 --- !u!1 &1728562951
 GameObject:
   m_ObjectHideFlags: 0
@@ -31131,15 +31126,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74f429aeeaf3fef4b9f71fdb65ccc993, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue:
-    name: 'Lunz :'
-    sentences:
-    - Hey vous, oui vous.
-    - "Si vous comptez aller de ce c\xF4t\xE9, faites attention \xE0 vous. "
-    - 'Il y a un type qui veut nous tuer si on essaie d''aller au port.. '
-    - 'Le seul moyen d''entrer au port, c''est de le vaincre. '
-    - "Mais personne n'a encore r\xE9ussie, donc bonne chance \xE0 vous."
-  isInRange: 0
 --- !u!1 &1952286892
 GameObject:
   m_ObjectHideFlags: 0
@@ -32227,7 +32213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 941916363791e8b40930525b604cd1b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 838983664}
 --- !u!1 &2142505386
 GameObject:
   m_ObjectHideFlags: 0
@@ -32388,11 +32373,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -37.6
+      value: 61.3
       objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 38.7
+      value: 44.82
       objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.z
