@@ -168,6 +168,12 @@ public class GokuMove : MonoBehaviour
             
             SceneManager.LoadScene("Volcan");
         }
+        
+        if (other.gameObject.CompareTag("zone1-credits 1")) // 
+        {
+            
+            SceneManager.LoadScene("Credits 1");
+        }
         if (other.gameObject.layer == LayerMask.NameToLayer("Pike")) 
         {
             animator.Play("GokuDeath");

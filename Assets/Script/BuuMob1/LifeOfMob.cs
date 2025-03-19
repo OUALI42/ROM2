@@ -27,7 +27,7 @@ public class MobHealth : MonoBehaviour
     void Die()
     {
         animator.Play("BuuDeath"); // Animation de mort
-        
+
         // Trouver Goku dans la scène et lui donner du Ki
         GokuAnimAttack goku = FindObjectOfType<GokuAnimAttack>();
         Ki_Barre kiBar = FindObjectOfType<Ki_Barre>();
@@ -36,7 +36,7 @@ public class MobHealth : MonoBehaviour
             goku.Ki += Give_Ki;
             kiBar.Ki_gestion();
         }
-        
+
         Destroy(gameObject, 1f); // Détruit le mob après 1 seconde
     }
 }
