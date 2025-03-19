@@ -2,75 +2,65 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 
 public class DialogueManager : MonoBehaviour
 {
+    public Image dialogueImage; // Image UI où s'affiche le dialogue
+    public Sprite[] dialogues; // Liste des images de dialogue
+    private int currentDialogueIndex = 0; // Index du dialogue actuel
+    private bool isPlayerInZone = false; // Vérifie si le joueur est dans la zone
 
-    public TextMeshProUGUI nameText;
-    public TextMeshProUGUI dialogueText;
-
-    public Animator animator;
-
-    private Queue<string> sentences;
-
-    public static DialogueManager instance;
-
-    private void Awake()
+    void Start()
     {
-        if(instance != null)
-        {
-            Debug.LogWarning("Il y a plus d'une instance de DialogueManager dans la scène");
-            return;
-        }
-
-        instance = this;
-
-        sentences = new Queue<string>();
+        dialogueImage.gameObject.SetActive(false); // Cache l’image au début
     }
 
-    public void StartDialogue(Dialogue dialogue)
+    void Update()
     {
-        animator.SetBool("isopen", true);
-
-        nameText.text = dialogue.name;
-
-        sentences.Clear();
-
-        foreach (string sentence in dialogue.sentences)
+        if (isPlayerInZone && Input.GetKeyDown(KeyCode.H)) // Appui sur "H" pour changer de dialogue
         {
-            sentences.Enqueue(sentence);
-        }
-
-        DisplayNextSentence();
-    }
-
-    public void DisplayNextSentence()
-    {
-        if(sentences.Count == 0)
-        {
-            EndDialogue();
-            return;
-        }
-
-        string sentence = sentences.Dequeue();
-        StopAllCoroutines();
-        StartCoroutine(TypeSentence(sentence));
-    }
-
-    IEnumerator TypeSentence(string sentence)
-    {
-        dialogueText.text = "";
-        foreach (char letter in sentence.ToCharArray())
-        {
-            dialogueText.text += letter;
-            yield return new WaitForSeconds(0.05f);
+            NextDialogue();
         }
     }
 
-    void EndDialogue()
+    void OnTriggerEnter2D(Collider2D other)
     {
-        animator.SetBool("isopen", false);
-        //Debug.Log("Fin du dialogue");
+        if (other.CompareTag("Player")) // Vérifie si le joueur entre dans la zone
+        {
+            isPlayerInZone = true;
+            ShowDialogue();
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player")) // Si le joueur sort de la zone
+        {
+            isPlayerInZone = false;
+            dialogueImage.gameObject.SetActive(false);
+            currentDialogueIndex = 0; // Réinitialise le dialogue
+        }
+    }
+
+    void ShowDialogue()
+    {
+        if (dialogues.Length > 0)
+        {
+            dialogueImage.sprite = dialogues[currentDialogueIndex];
+            dialogueImage.gameObject.SetActive(true);
+        }
+    }
+
+    void NextDialogue()
+    {
+        if (currentDialogueIndex < dialogues.Length - 1)
+        {
+            currentDialogueIndex++;
+            dialogueImage.sprite = dialogues[currentDialogueIndex];
+        }
+        else
+        {
+            dialogueImage.gameObject.SetActive(false); // Cache le dialogue après le dernier
+        }
     }
 }

@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
@@ -27,7 +27,7 @@ public class firstdialogur : MonoBehaviour
                 Debug.Log("Key M pressed");
                 TriggerDialogue();
             }
-        }*/
+        }
         if(isInRange && Input.GetKeyDown(KeyCode.D))
         {
             TriggerDialogue();
@@ -62,8 +62,8 @@ public class firstdialogur : MonoBehaviour
         {
             Debug.LogError("DialogueManager.instance is null");
             return;
-        }*/
+        }
 
         DialogueManager.instance.StartDialogue(dialogue);
     }
-}
+}*/
