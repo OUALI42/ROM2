@@ -17,6 +17,8 @@ TagManager:
   - Spike
   - AttackZone
   - DetectionZone
+  - murInvisible
+  - murInvisible2
   layers:
   - Default
   - TransparentFX

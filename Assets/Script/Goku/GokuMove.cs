@@ -28,6 +28,8 @@ public class GokuMove : MonoBehaviour
     private GokuAnimAttack attack;
     public AudioClip Audio_tp; 
     public AudioClip Audio_jump; 
+    public GameObject murInvisible;
+    public GameObject murInvisible2;
 
 
 
@@ -167,6 +169,17 @@ public class GokuMove : MonoBehaviour
         {
             
             SceneManager.LoadScene("Volcan");
+        }
+        
+        if (other.gameObject.CompareTag("murInvisible")) // 
+        {
+            
+            murInvisible.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("murInvisible2")) // 
+        {
+            
+            murInvisible2.SetActive(true);
         }
         
         if (other.gameObject.CompareTag("zone1-credits 1")) // 
