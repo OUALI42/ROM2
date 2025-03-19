@@ -63,6 +63,13 @@ public class BrolyBoss : MonoBehaviour
     [SerializeField] private GameObject BrolySuperAttacksHitbox2;
     [SerializeField] private GameObject BrolySuperLazerBasHitbox;
     [SerializeField] private GameObject BrolySuperLazerHautHitbox;
+
+    [Header("Sound Effect")]
+    // public AudioClip super_attaque1; 
+    // public AudioClip super_attaque2;
+    // public AudioClip super_lazer;  
+    private AudioSource audioSource;
+
     public float time_for_lazer_bas;
     public float time_for_lazer_haut;
     [SerializeField] private float meleeRange = 5f; // Plage d'attaque en mêlée
@@ -70,11 +77,15 @@ public class BrolyBoss : MonoBehaviour
     public float pauseBetweenAttacks = 1.5f; // Temps de pause entre chaque attaque
     public float pauseAfterKamehameha = 3f; // Pause spécifique pour le Kamehameha
     public bool isFrozen = true;
+    public bool canFlip = true;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        player = GameObject.FindWithTag("Player")?.transform;
+        audioSource = GetComponent<AudioSource>();
 
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         SetRandomDirectionChangeTime();
@@ -123,23 +134,26 @@ public class BrolyBoss : MonoBehaviour
         
     }
 
+
     void ChasePlayer()
     {
         if (player == null || isFrozen) return;
 
-        float direction = player.position.x > transform.position.x ? 1 : -1;
-        rb.linearVelocity = new Vector2(direction * chaseSpeed, rb.linearVelocity.y);
+        float direction2 = player.position.x > transform.position.x ? 1 : -1;
+        Vector2 direction = (player.position - transform.position).normalized;
+        rb.velocity = new Vector2(direction2 * chaseSpeed, rb.velocity.y);
 
-        // Broly doit se tourner vers le joueur en fonction de la position X
-        if (direction > 0 && !spriteRenderer.flipX)
+        // Inverser l'échelle seulement si canFlip est activé
+        if (canFlip)
         {
-            spriteRenderer.flipX = true; // Tourner vers la droite
-        }
-        else if (direction < 0 && spriteRenderer.flipX)
-        {
-            spriteRenderer.flipX = false; // Tourner vers la gauche
+            if (direction2 > 0)
+                transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+            else
+                transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
     }
+
+
 
 
     void SetRandomDirectionChangeTime()
@@ -155,7 +169,6 @@ public class BrolyBoss : MonoBehaviour
 
     public void StopChase()
     {
-        player = null;
         isChasing = false;
     }
 
@@ -424,18 +437,39 @@ public class BrolyBoss : MonoBehaviour
         }
     }
 
-    // Déplacer Broly vers le joueur
     private IEnumerator MoveToPlayer()
     {
-        // Déplacer Broly vers la position du joueur
         while (Vector3.Distance(transform.position, player.position) > meleeRange)
         {
+            // Vérifier si Broly est frozen à chaque itération
+            if (isFrozen)
+            {
+                rb.velocity = Vector2.zero; // Stoppe le mouvement
+                yield break; // Sort de la coroutine
+            }
+
+            // Déplacer Broly vers la position du joueur
             Vector3 direction = (player.position - transform.position).normalized;
-            rb.linearVelocity = new Vector2(direction.x * chaseSpeed, rb.linearVelocity.y);
-            yield return null;
+            rb.velocity = new Vector2(direction.x * chaseSpeed, rb.velocity.y);
+            
+            yield return null; // Attendre la prochaine frame
         }
+        
         // Arrêter Broly une fois qu'il est assez proche pour attaquer
-        rb.linearVelocity = Vector2.zero;
+        rb.velocity = Vector2.zero;
+    }
+
+
+
+    public void PlaySound(AudioClip clip)
+    {
+        if (audioSource != null && clip != null)
+        {
+            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+        }
     }
 
 }
+
+
+

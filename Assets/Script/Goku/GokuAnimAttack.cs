@@ -36,7 +36,7 @@ public class GokuAnimAttack : MonoBehaviour
     [SerializeField] private GameObject punchHitbox;
     [SerializeField] private GameObject footHitbox;
     [SerializeField] private GameObject kameHitbox;
-    public int Ki;
+    
     private Hitbox degat;
     public Canvas transformation;  
     private bool canUseKamehameha = true;
@@ -45,11 +45,21 @@ public class GokuAnimAttack : MonoBehaviour
     public AudioClip Audio_foot;  
     private AudioSource audioSource;
 
-    
+    [Header("Health")]
+    private GokuHealth health;
+    public HealthBar healthBar;
+
+    [Header("Ki")]
+    public int Ki;
+    Ki_Barre kiBar;
+
+
+
 
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        health= GetComponent<GokuHealth>();
         Move= GetComponent<GokuMove>();
         animator = GetComponent<Animator>();
         degat = GetComponentInChildren<Hitbox>(); // Recherche dans les enfants aussi
@@ -58,7 +68,11 @@ public class GokuAnimAttack : MonoBehaviour
         kameHitbox.SetActive(false);
         punchHitbox.SetActive(false);
         footHitbox.SetActive(false);
-        
+
+        kiBar = FindObjectOfType<Ki_Barre>(); // Au lieu de GetComponent<Ki_Barre>()
+        Ki = 0;
+        kiBar.currentKi = 0;
+        kiBar.Ki_gestion();
     }
 
 
@@ -66,19 +80,24 @@ public class GokuAnimAttack : MonoBehaviour
     {
         HandleCombat();
 
-        if (Ki >= 9)
+        if (Ki == 50 && transformation != null) // Check if transformation exists
         {
             transformation.gameObject.SetActive(true);
         }
 
-        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 9) // Vérifie si Goku n'est PAS déjà transformé
+        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki == 50)
         {
-            Destroy(transformation.gameObject);
+            if (transformation != null) // Prevent null reference
+            {
+                health.currentHealth = 100;
+                healthBar.SetHealth(100);
+                Destroy(transformation.gameObject);
+                transformation = null; // Avoid future access to destroyed object
+            }
+
             StartCoroutine(PlayCinematicAndTransform());
         }
-        
     }
-
 
    private void HandleCombat()
     {
@@ -182,7 +201,6 @@ public class GokuAnimAttack : MonoBehaviour
             yield return new WaitForSeconds(1.5f); // Temps de l'animation
             // Boost des stats
             Move.moveSpeed *= 1.5f;
-            Move.jumpPower *= 1.5f;
 
             // Augmenter les dégâts après la transformation en Super Saiyan
             degat.damage = Mathf.RoundToInt(degat.damage + 10f); // Augmente les dégâts de 50%

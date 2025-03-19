@@ -30,9 +30,11 @@ public class MobHealth : MonoBehaviour
         
         // Trouver Goku dans la scène et lui donner du Ki
         GokuAnimAttack goku = FindObjectOfType<GokuAnimAttack>();
+        Ki_Barre kiBar = FindObjectOfType<Ki_Barre>();
         if (goku != null)
         {
             goku.Ki += Give_Ki;
+            kiBar.Ki_gestion();
         }
         
         Destroy(gameObject, 1f); // Détruit le mob après 1 seconde

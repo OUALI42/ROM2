@@ -12,6 +12,11 @@ public class BrolyHealth : MonoBehaviour
     public GameObject superAttackCanvas; // Référence au Canvas de l'animation
     public Animator canvasAnimator;
     public float freezeDuration = 3f; // Durée du freeze en secondes
+    public AudioClip Rage_Broly;
+    private bool hasPlayed80 = false; // Pour suivre l'animation à 80 HP
+    private bool hasPlayed60 = false; // Pour suivre l'animation à 60 HP
+    private bool hasPlayed40 = false; // Pour suivre l'animation à 40 HP
+    public Transform Player;
 
     
 
@@ -35,28 +40,37 @@ public class BrolyHealth : MonoBehaviour
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
 
-        if(currentHealth == 60)
+        if(currentHealth <= 80 && !hasPlayed80)
         {
+            hasPlayed80 = true;
             Broly.isFrozen =true;
             animator.Play("BrolyAnimSuperAttack");
             Broly.isFrozen =false;
         }
 
-        if(currentHealth == 40)
+        if(currentHealth <= 60 && !hasPlayed60)
         {
+            hasPlayed60 = true;
             Broly.isFrozen =true;
             animator.Play("BrolySuperAttacks2");
             Broly.isFrozen =false;
         }
 
-        if(currentHealth == 20)
+        if(currentHealth <= 40 && !hasPlayed40)
         {
+            hasPlayed40 = true;
             StartCoroutine(SpecialAttackSequence("BrolyUltraLazer"));
         }
 
 
    IEnumerator SpecialAttackSequence(string animationName)
     {
+        Broly.canFlip = false;
+        Broly.isFrozen = true;
+        Broly.patrolSpeed = 0;
+        Broly.chaseSpeed = 0;
+        Broly.PlaySound(Rage_Broly);
+
         Time.timeScale = 0; // Arrête le temps
         superAttackCanvas.SetActive(true); // Active le Canvas
 
@@ -73,6 +87,15 @@ public class BrolyHealth : MonoBehaviour
         superAttackCanvas.SetActive(false); // Désactive l'animation
         Time.timeScale = 1; // Reprend le temps
         animator.Play("BrolyUltraLazer"); // Joue l'attaque spéciale
+
+        // yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+
+        yield return new WaitForSecondsRealtime(8.02f);
+
+        Broly.canFlip = true;
+        Broly.isFrozen = false;
+        Broly.patrolSpeed = 2;
+        Broly.chaseSpeed = 4;
     }
 
 
@@ -84,9 +107,11 @@ public class BrolyHealth : MonoBehaviour
 
     void Die()
     {
+        Broly.patrolSpeed = 0;
+        Broly.chaseSpeed = 0;
         Broly.isFrozen =true;
         animator.Play("BrolyDeath"); // Animation de mort
-        Destroy(gameObject, 3.4f); // Détruit le mob après 1 seconde
+        Destroy(gameObject, 3.2f); // Détruit le mob après 1 seconde
     }
 }
 

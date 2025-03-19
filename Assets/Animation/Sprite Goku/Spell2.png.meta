@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 266cc9d959996394d99fb5d58850215f
+guid: 1ad072627de0705408d7a0d5a8aabe57
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5005218622238443134
-    second: asset boudon dragon  ball_0
+      213: -7132710336831216126
+    second: Spell2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: asset boudon dragon  ball_0
+      name: Spell2_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 173
-        width: 458
-        height: 154
+        x: 333
+        y: 414
+        width: 1254
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 289be4e8e24e98ab0800000000000000
-      internalID: -5005218622238443134
+      spriteID: 2062b674db5830d90800000000000000
+      internalID: -7132710336831216126
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      asset boudon dragon  ball_0: -5005218622238443134
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

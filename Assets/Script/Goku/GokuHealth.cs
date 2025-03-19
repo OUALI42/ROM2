@@ -57,7 +57,7 @@ public class GokuHealth : MonoBehaviour
         Debug.Log("Goku est mort !");
         if (animator != null)
         {
-            animator.Play("GokuDeath");
+            animator.SetTrigger("Die");
             PlaySound(Audio_Death); 
         }
 

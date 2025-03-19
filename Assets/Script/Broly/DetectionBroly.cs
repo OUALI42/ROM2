@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class detectionBroly : MonoBehaviour
 {
-    private mob parentMob;
+    // private mob parentMob;
     public GameObject healthBarBroly; // Référence à la barre de vie
     private BrolyBoss Broly;
     public GameObject cinematic; // Référence à l'objet de la cinématique
@@ -15,13 +15,14 @@ public class detectionBroly : MonoBehaviour
 
     void Start()
     {
-        
+        healthBarBroly.SetActive(false);
+        cinematic.SetActive(false);
         
     }
 
     void Awake()
     {
-        parentMob = GetComponentInParent<mob>();
+        // parentMob = GetComponentInParent<mob>();
         Broly = GetComponentInParent<BrolyBoss>(); // Correction ici
     }
 
@@ -37,7 +38,7 @@ public class detectionBroly : MonoBehaviour
             // Si la cinématique a déjà été jouée, lancer directement le combat
             healthBarBroly.SetActive(true);
             Broly.isFrozen = false; 
-            parentMob.StartChase(other.transform);
+            Broly.StartChase(other.transform);
         }
     }
       private IEnumerator TriggerCinematicSequence(Transform player)
@@ -71,16 +72,15 @@ public class detectionBroly : MonoBehaviour
         Broly.isFrozen = false; 
         
         // Commencer la poursuite
-        parentMob.StartChase(player);
+        Broly.StartChase(player);
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            healthBarBroly.SetActive(false);
-            Broly.isFrozen = true; // Broly reste figé
-            parentMob.StopChase();
+            Broly.isFrozen = true; 
+            Broly.StopChase();
         }
     }
 }
