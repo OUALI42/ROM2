@@ -71498,6 +71498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VraiMenuPause
       objectReference: {fileID: 0}
+    - target: {fileID: 7100280506730803001, guid: 487022b13ab41fe4b8ced6c8558d01f0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7432392693389513658, guid: 487022b13ab41fe4b8ced6c8558d01f0, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
