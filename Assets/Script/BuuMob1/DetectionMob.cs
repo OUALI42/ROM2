@@ -13,7 +13,7 @@ public class detectionMob : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.name == "Detection")
         {
             parentMob.StartChase(other.transform);
         }
@@ -21,9 +21,11 @@ public class detectionMob : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.name == "Detection")
         {
             parentMob.StopChase();
         }
     }
+
+
 }
