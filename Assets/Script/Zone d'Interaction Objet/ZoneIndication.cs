@@ -30,10 +30,4 @@ public class ZoneIndication : MonoBehaviour
     {
         panel.SetActive(show);
     }
-
-    // Pour être sûr que le panel est désactivé au début
-    private void Start()
-    {
-        panel.SetActive(false);
-    }
 }

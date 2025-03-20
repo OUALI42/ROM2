@@ -1,36 +1,38 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class DialogueManager : MonoBehaviour
 {
-    public Image dialogueBox; // L'image affichant le dialogue
-    public Sprite[] dialogues; // Tableau contenant toutes les images des dialogues
-    private int index = 0; // Index du dialogue actuel
-    private bool isPlayerInZone = false; // Vérifie si le joueur est dans la zone
+    
+    public Image dialogueBox; 
+    public Sprite[] dialogues; 
+    private int index = 0; 
+    private bool isPlayerInZone = false; 
 
+    // Si le joueur est dans la zone on peut appuyer sur H et un autre dialogue apparaît.
     void Update()
     {
-        // Vérifie si le joueur est dans la zone et appuie sur H
         if (isPlayerInZone && Input.GetKeyDown(KeyCode.H))
         {
             NextDialogue();
         }
     }
 
+    // Si le joueur est dans la zone, un dialogue apparait
     void OnTriggerEnter2D(Collider2D other)
     {
-        // Vérifie si le joueur est entré dans la zone
         if (other.CompareTag("Player"))
         {
             isPlayerInZone = true;
-            index = 0; // Réinitialise le dialogue
+            index = 0; 
             ShowDialogue();
         }
     }
 
+    // Si le joueur n’est pas dans la zone, le dialogue n'apparaît pas.
     void OnTriggerExit2D(Collider2D other)
     {
-        // Désactive le dialogue quand le joueur quitte la zone
         if (other.CompareTag("Player"))
         {
             isPlayerInZone = false;
@@ -38,6 +40,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+    // Si il y a bien une image référencée alors la boîte de dialogue s’affiche.
     void ShowDialogue()
     {
         if (dialogues.Length > 0)
@@ -47,16 +50,17 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+    // Tant qu'il y a une image référencée, les dialogues continuent de s'afficher, et quand il dépasse le nombre d'images référencer cela s'arrête.
     void NextDialogue()
     {
-        index++; // Passe à l'image suivante
+        index++; 
         if (index < dialogues.Length)
         {
-            dialogueBox.sprite = dialogues[index]; // Change l'image affichée
+            dialogueBox.sprite = dialogues[index]; 
         }
         else
         {
-            dialogueBox.gameObject.SetActive(false); // Cache le dialogue quand c'est fini
+            dialogueBox.gameObject.SetActive(false); 
         }
     }
 }
