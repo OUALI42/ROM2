@@ -41,7 +41,7 @@ public class BrolyHealth : MonoBehaviour
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
 
-        if(currentHealth <= 80 && !hasPlayed80)
+        if(currentHealth <= 180 && !hasPlayed80)
         {
             hasPlayed80 = true;
             Broly.isFrozen =true;
@@ -49,7 +49,7 @@ public class BrolyHealth : MonoBehaviour
             Broly.isFrozen =false;
         }
 
-        if(currentHealth <= 60 && !hasPlayed60)
+        if(currentHealth <= 120 && !hasPlayed60)
         {
             hasPlayed60 = true;
             Broly.isFrozen =true;
@@ -57,7 +57,7 @@ public class BrolyHealth : MonoBehaviour
             Broly.isFrozen =false;
         }
 
-        if(currentHealth <= 40 && !hasPlayed40)
+        if(currentHealth <= 60 && !hasPlayed40)
         {
             hasPlayed40 = true;
             StartCoroutine(SpecialAttackSequence("BrolyUltraLazer"));

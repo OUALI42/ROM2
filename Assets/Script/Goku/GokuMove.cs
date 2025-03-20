@@ -9,16 +9,16 @@ public class GokuMove : MonoBehaviour
     [SerializeField] public float moveSpeed = 5f;
     public bool isFacingRight = true;
     [SerializeField] public float jumpPower = 5f;
-    [SerializeField] private float jumpBoostMultiplier = 0.5f; // Boost en maintenant la touche
-    [SerializeField] private float maxJumpTime = 0.3f; // Durée max du boost
+    [SerializeField] private float jumpBoostMultiplier = 0.5f; 
+    [SerializeField] private float maxJumpTime = 0.3f; 
     private bool isJumping = false;
     private float jumpTimeCounter;
     public bool isGrounded = false;
     public bool isDashing = false;
     private float dashCooldownTimeLeft;
-    [SerializeField] private float dashSpeed = 15f; // Vitesse du dash
-    [SerializeField] private float dashDuration = 0.2f; // Durée du dash
-    [SerializeField] private float dashCooldown = 1f; // Temps de recharge du dash
+    [SerializeField] private float dashSpeed = 15f; 
+    [SerializeField] private float dashDuration = 0.2f; 
+    [SerializeField] private float dashCooldown = 1f; 
     [SerializeField] private KeyCode dashKey = KeyCode.LeftShift;
 
     Rigidbody2D rb;
@@ -54,8 +54,6 @@ public class GokuMove : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
 
         FlipSprite();
-
-        // Gestion du saut
         HandleJump();
 
         if (dashCooldownTimeLeft > 0)
@@ -68,27 +66,27 @@ public class GokuMove : MonoBehaviour
             if (!isGrounded)
                 {
                     animator.Play("GokuDash");
-                    animator.SetBool("isJumping", false); //  Désactive l'animation de saut
-                    animator.SetBool("isFalling", false); //  Désactive l'animation de chute
+                    animator.SetBool("isJumping", false); 
+                    animator.SetBool("isFalling", false); 
                 }
                 else
                 {
                    animator.Play("GokuDash");
                 }
-                // dinoAttackAnimation.PlaySound(dashsong);
-
                 StartCoroutine(PlayDashWithDelay()); 
                 attack.PlaySound(Audio_tp);
         }
     }
+
+    // Delai pour le Dash
     IEnumerator PlayDashWithDelay()
     {
-        // Attendre une fraction de seconde pour laisser l'animation démarrer
-        yield return new WaitForSeconds(0.1f);  // Ajuste ce délai si nécessaire
-
-        // Lancer la fonction Dash après le délai
+        yield return new WaitForSeconds(0.1f);  
         StartCoroutine(Dash());
     }
+
+
+    // Gestion du saut
     private void HandleJump()
     {
         if(health.isDead == true) return;
@@ -119,6 +117,7 @@ public class GokuMove : MonoBehaviour
 
     }
 
+    // Gestion des déplacements 
     private void FixedUpdate()
     {
         if(health.isDead == true) return;
@@ -128,6 +127,7 @@ public class GokuMove : MonoBehaviour
         animator.SetFloat("yVelocity", rb.linearVelocity.y);
     }
 
+    // Gestion du flip
     void FlipSprite()
     {
         if(isFacingRight && horizontalInput < 0f || !isFacingRight && horizontalInput > 0f)
@@ -138,6 +138,8 @@ public class GokuMove : MonoBehaviour
             transform.localScale = ls;
         }
     }
+
+    // Gestion du Dash
     private IEnumerator Dash()
     {
         isDashing = true;
@@ -156,7 +158,7 @@ public class GokuMove : MonoBehaviour
     }
 
 
-
+    // Quand un objet rentre en collision avec goku
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Ground"))
@@ -167,7 +169,7 @@ public class GokuMove : MonoBehaviour
         } 
         if (other.gameObject.CompareTag("Snow-Volcan")) // 
         {
-            
+            // Gestion des transitions
             SceneManager.LoadScene("Volcan");
         }
         
@@ -194,17 +196,14 @@ public class GokuMove : MonoBehaviour
         }
     }
 
+    // Gestion du saut lorsque qu'il sort du sol
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Ground"))
         {
             animator.SetBool("isJumping", true);
             isGrounded = false;
-        }
-        
-        
-        
-        
+        }   
     }
 }
 
