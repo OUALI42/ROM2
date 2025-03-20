@@ -10,6 +10,7 @@ public class BarDialogue : MonoBehaviour
     private bool isPlayerInZone = false; 
     private bool dialogueStarted = false;
 
+    // Si on est dans la zone, on appuie sur h et le dialogue peut commencer sinon non
     void Update()
     {
         if (isPlayerInZone && Input.GetKeyDown(KeyCode.H))
@@ -26,6 +27,7 @@ public class BarDialogue : MonoBehaviour
         }
     }
 
+    // Si le joueur est dans la zone on peut appuyer sur h
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -37,6 +39,7 @@ public class BarDialogue : MonoBehaviour
         }
     }
 
+    // Si le joueur n'est pas dans la zone on ne peut appuyer sur h
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -57,6 +60,7 @@ public class BarDialogue : MonoBehaviour
         }
     }
 
+    // Tant qu'il y a une image référencée, les dialogues continuent de s'afficher, et quand il dépasse le nombre d'images référencer cela s'arrête.
     void NextDialogue()
     {
         index++; 
@@ -73,6 +77,7 @@ public class BarDialogue : MonoBehaviour
         }
     }
 
+    // L'image "Appuyer sur H" passe avant les autre images
     void ShowPressHImage()
     {
         if (pressHImage != null)
