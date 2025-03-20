@@ -14,11 +14,11 @@ public class morgan : MonoBehaviour
     public string[] dialogues;
     public KeyCode interactionKey = KeyCode.H; 
 
-    public GameObject attackZone1; // Zone de l'attaque 1
-    public GameObject attackZone2; // Zone de l'attaque 2
-    public AudioClip attackSound1; // Effet sonore de l'attaque 1
-    public AudioClip attackSound2; // Effet sonore de l'attaque 2
-    public AudioClip talkSound; // Effet sonore de la parole
+    public GameObject attackZone1; 
+    public GameObject attackZone2; 
+    public AudioClip attackSound1; 
+    public AudioClip attackSound2; 
+    public AudioClip talkSound; 
     private AudioSource audioSource;
 
     private Transform target;
@@ -27,12 +27,12 @@ public class morgan : MonoBehaviour
     private bool playerInRange = false;
     private int dialogueIndex = 0;
     private bool hasTalked = false;
-    private bool isAttacking = false; // Pour savoir si le boss a commencé son cycle d'attaques
+    private bool isAttacking = false; 
 
     public float attack1Duration = 1f;
     public float attack2Duration = 1.5f;
     public float attackCooldown = 5f;
-    public GameObject healthBar; // Référence à la barre de vie
+    public GameObject healthBar; 
 
     void Start()
     {
@@ -46,11 +46,6 @@ public class morgan : MonoBehaviour
 
     void Update()
     {
-        if (!isTalking && !isAttacking) // Le boss bouge tant qu'il ne parle pas et n'attaque pas
-        {
-            MoveBoss();
-        }
-
         if (isTalking && Input.GetKeyDown(interactionKey))
         {
             // Le dialogue est terminé, on ferme la boîte et on commence le cycle d'attaques
@@ -60,35 +55,20 @@ public class morgan : MonoBehaviour
         }
     }
 
-    void MoveBoss()
-    {
-        if (playerInRange && !isTalking) return; 
-
-        Vector2 dir = target.position - transform.position;
-        transform.Translate(dir.normalized * speed * Time.deltaTime, Space.World);
-
-        if (Vector2.Distance(transform.position, target.position) < 0.3f)
-        {
-            destPoint = (destPoint + 1) % waypoints.Length;
-            target = waypoints[destPoint];
-            Morgan.flipX = !Morgan.flipX;
-        }
-    }
-
+    // Gestion des dialogues
     void StartDialogue()
     {
         isTalking = true;
         dialogueBox.SetActive(true);
         dialogueIndex = 0;
-        // dialogueText.text = dialogues[dialogueIndex];
-
         animator.SetTrigger("parle");
         animator.SetBool("isTalking", true);
     }
 
+    // Si le joueur entre dans la zone
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.layer == LayerMask.NameToLayer("morgancoll"))
         {
             healthBar.SetActive(true); // Toujours afficher la barre de vie quand le joueur entre
 
@@ -103,9 +83,10 @@ public class morgan : MonoBehaviour
         }
     }
 
+    // Si le joueur sort de la zone
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && gameObject.layer == LayerMask.NameToLayer("morgancoll"))
         {
             playerInRange = false;
             healthBar.SetActive(false);
@@ -128,6 +109,7 @@ public class morgan : MonoBehaviour
         PlayAttackSound(2);
     }
 
+    // Fonction pour desactiver les zone d'attaque 
     IEnumerator DeactivateAttackZone(GameObject attackZone, float duration)
     {
         yield return new WaitForSeconds(duration);
@@ -136,7 +118,7 @@ public class morgan : MonoBehaviour
 
     IEnumerator AttackCycle()
     {
-        isAttacking = true; // Empêche le boss de bouger une fois qu'il attaque
+        isAttacking = true; 
 
         while (true)
         {
@@ -152,6 +134,7 @@ public class morgan : MonoBehaviour
         }
     }
 
+    // Joue le son du cycle d'attaque
     void PlayAttackSound(int attackNumber)
     {
         if (attackNumber == 1 && attackSound1 != null)

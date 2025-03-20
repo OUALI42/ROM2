@@ -5,32 +5,26 @@ public class LuffyCombatController : MonoBehaviour
     private PlayerMovement mouvement;
     private Animator animator;
 
-    [Header("Input Keys")]
+    [Header("Touche")]
     public KeyCode guardKey = KeyCode.R;            
     public KeyCode autoAttackKey = KeyCode.A;     
     public KeyCode specialAttackKey = KeyCode.Z;   
     public KeyCode ultimateAttackKey = KeyCode.E; 
 
-    [Header("Attack Properties")]
+    [Header("Propriété des attaques")]
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
-
-    public int autoAttackDamage = 5;
+    public int autoAttackDamage = 5; // Degats
     public int specialAttackDamage = 15;
     public int ultimateAttackDamage = 50;
-
-    [Header("Stamina")]
-    public int  specialAttackStaminaCost = 33 ; // Coût en endurance pour l'attaque spéciale
-    private LuffyStamina stamina; // Référence au script d'endurance
-
     public bool isGuarding = false;
     private bool canGuard = true;
-    public float guardDuration = 1.5f; // Durée de la garde
-    public float guardCooldown = 2f; // Temps de recharge avant de pouvoir bloquer à nouveau
+    public float guardDuration = 1.5f; 
+    public float guardCooldown = 2f; 
 
     [Header("SoundEffect")]
-    public AudioClip autoAttackSound; 
+    public AudioClip autoAttackSound; //Son
     public AudioClip specialAttackSound; 
     public AudioClip ultimateAttackSound;
     private AudioSource audioSource;
@@ -40,10 +34,10 @@ public class LuffyCombatController : MonoBehaviour
     public float cinematicDuration = 3f;  // Durée de la cinématique
     private bool isInCinematic = false;  // Indicateur pour savoir si la cinématique est en cours
 
-    [Header(" Haki")]
+    [Header("Haki")]
     [SerializeField] private GameObject Hakiprefab; // Le prefab du slash
-    [SerializeField] private Transform Hakipoint; // L'endroit où le slash apparaît
-    [SerializeField] private float time_destruct;
+    [SerializeField] private Transform Hakipoint; // L'endroit où le haki apparaît
+    [SerializeField] private float time_destruct; //Temp de destruction du prefab
 
 
 
@@ -53,7 +47,6 @@ public class LuffyCombatController : MonoBehaviour
     {
         mouvement = GetComponent<PlayerMovement>();
         animator = GetComponent<Animator>();
-        stamina = GetComponent<LuffyStamina>(); 
         audioSource = GetComponent<AudioSource>();
         cinematicCanvas.gameObject.SetActive(false);
     }
@@ -63,13 +56,13 @@ public class LuffyCombatController : MonoBehaviour
         HandleCombat();
     }
     
-
+    // Gestion des dégats
     public void TriggerAttack(int damage)
     {
         PerformAttack(damage);
     }
 
-
+    // Gestion des attaques
     private void HandleCombat()
     {
         if (Input.GetKeyDown(guardKey) && canGuard)
@@ -82,27 +75,25 @@ public class LuffyCombatController : MonoBehaviour
         {
             if (!mouvement.isGrounded){
                 SetCombatState("isAutoAttacking");
-                animator.SetBool("isJumping", false); //  Désactive l'animation de saut
+                animator.SetBool("isJumping", false); 
             }else{
                 SetCombatState("isAutoAttacking");
             }
             PlaySound(autoAttackSound); 
         }
 
-        if (Input.GetKeyDown(specialAttackKey) && stamina.currentStamina >= specialAttackStaminaCost)
+        if (Input.GetKeyDown(specialAttackKey))
         {
             mouvement.isAttacking = true;
             SetCombatState("isSpecialAttacking");
-            stamina.UseStamina(specialAttackStaminaCost);
             PlaySound(specialAttackSound);
-            
         }
         if (Input.GetKeyDown(ultimateAttackKey) && !isInCinematic)
         {
             StartCoroutine(PlayCinematicAndUltimateAttack());
         }
-
     }
+
     private System.Collections.IEnumerator PlayCinematicAndUltimateAttack()
     {
         isInCinematic = true;
@@ -114,7 +105,7 @@ public class LuffyCombatController : MonoBehaviour
         Time.timeScale = 0f;
 
         // Attends la durée de la cinématique
-        yield return new WaitForSecondsRealtime(cinematicDuration);  // WaitForSecondsRealtime permet de garder un temps réel, même si Time.timeScale est à 0
+        yield return new WaitForSecondsRealtime(cinematicDuration); 
 
         // Cache le canvas de la cinématique
         cinematicCanvas.gameObject.SetActive(false);
@@ -132,7 +123,7 @@ public class LuffyCombatController : MonoBehaviour
         isInCinematic = false;
     }
 
-
+    // Appelle des animations 
     private void SetCombatState(string state)
     {
         animator.SetBool("isGuarding", false);
@@ -144,6 +135,7 @@ public class LuffyCombatController : MonoBehaviour
         StartCoroutine(ResetState(state, 0.5f));
     }
 
+    // Le Cooldown
     private System.Collections.IEnumerator ResetState(string state, float delay)
     {
         yield return new WaitForSeconds(delay);
@@ -151,8 +143,8 @@ public class LuffyCombatController : MonoBehaviour
         mouvement.isAttacking = false;
     }
 
-     // Ajoute cette variable pour définir les ennemis que Luffy peut toucher
 
+    // Gestion des degats
     private void PerformAttack(int damage)
     {
         // Vérifie les ennemis dans la zone de l'attaque en utilisant le LayerMask
@@ -169,7 +161,7 @@ public class LuffyCombatController : MonoBehaviour
         }
     }
 
-
+    // La hitbox
     void OnDrawGizmosSelected()
     {
         if (attackPoint == null)
@@ -179,6 +171,7 @@ public class LuffyCombatController : MonoBehaviour
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
+    // Gestion de la garde
     void StartGuarding()
     {
         isGuarding = true;
@@ -203,10 +196,11 @@ public class LuffyCombatController : MonoBehaviour
     {
         if (audioSource != null && clip != null)
         {
-            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+            audioSource.PlayOneShot(clip); 
         }
     }
 
+    // Gestion des eclaires rouges du haki
     void SpawnSlashEffect()
     {
         if (Hakiprefab != null && Hakipoint != null)
@@ -216,7 +210,7 @@ public class LuffyCombatController : MonoBehaviour
             
             // Vérifier la direction du joueur et ajuster l'orientation
             float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse l'eclaires rouges si nécessaire
             
             slash.transform.parent = transform; // Le lier au personnage
             Destroy(slash, time_destruct); // Détruire après 0.5 secondes

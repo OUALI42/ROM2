@@ -80,12 +80,12 @@ public class GokuAnimAttack : MonoBehaviour
     {
         HandleCombat();
 
-        if (Ki == 50 && transformation != null) // Check if transformation exists
+        if (Ki >= 50 && transformation != null) // Check if transformation exists
         {
             transformation.gameObject.SetActive(true);
         }
 
-        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki == 50)
+        if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 50)
         {
             if (transformation != null) // Prevent null reference
             {

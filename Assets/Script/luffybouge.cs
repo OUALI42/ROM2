@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
     bool isDead = false; 
-    public bool isAttacking = false; // Empêche les actions comme le saut pendant une attaque
+    public bool isAttacking = false; 
 
 
 
@@ -25,8 +25,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (isDead)
-            return; 
+        //Si mort aucun n'impact
+        if (isDead)return; 
 
         horizontalInput = Input.GetAxis("Horizontal");
 
@@ -34,6 +34,7 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetFloat("xVelocity", Math.Abs(horizontalInput));
 
+        // Gestion du saut
         if (Input.GetButtonDown("Jump") && isGrounded && !isAttacking)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
@@ -45,9 +46,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isDead)
-            return; 
+        //Si mort aucun n'impact
+        if (isDead)return; 
 
+        //Gestion des déplacements
         rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
         animator.SetFloat("xVelocity", Math.Abs(rb.linearVelocity.x));
         animator.SetFloat("yVelocity", rb.linearVelocity.y);
@@ -55,34 +57,31 @@ public class PlayerMovement : MonoBehaviour
 
     void FlipSprite()
     {
+        // Gestion du changement de direction du personnage
         if ((isFacingRight && horizontalInput < 0f) || (!isFacingRight && horizontalInput > 0f))
         {
             isFacingRight = !isFacingRight;
             Vector2 ls = transform.localScale;
             ls.x *= -1f;
             transform.localScale = ls;
-
-            // Debug.Log("Direction inversée : " + (isFacingRight ? "Droite" : "Gauche"));
         }
     }
     
-    
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         isGrounded = true;
         animator.SetBool("isJumping", false);
         animator.Play("Movement");
 
-        if (isDead)
-            return; 
+        if (isDead)return; 
 
-        
+        // Rencontre en collision d'un danger = mort
         if (collision.CompareTag("Danger") && !FindObjectOfType<LuffyCombatController>().isGuarding)
         {
             Die();
         }
-        
+
+        // Gestion des transitions
         if (collision.gameObject.CompareTag("bar-zone1")) // 
         {
             
@@ -93,39 +92,30 @@ public class PlayerMovement : MonoBehaviour
             
             SceneManager.LoadScene("MainMenu");
         }
-        
-        
-        
-
-
-
     }
     
 
+    // Gestion de la mort et son animation
     void Die()
     {
-        if (isDead)
-            return;
+        if (isDead)return;
 
         isDead = true;
 
        
         animator.SetTrigger("Death");
-
         
         rb.linearVelocity = Vector2.zero;
         rb.isKinematic = true; 
 
-        
         GetComponent<Collider2D>().enabled = false;
 
-        
         Invoke("RestartLevel", 2f);
     }
 
+    // Relance du niveaux
     void RestartLevel()
     {
-       
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

@@ -532,13 +532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 148b08b6c0dca6e40a04fc202160835c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueBox: {fileID: 1024746952}
-  dialogues:
-  - {fileID: 7978169778013116960, guid: b06cb1cf2040eac40862cf93b11b6583, type: 3}
-  - {fileID: -7264795299992111315, guid: d5b86eefaa8ab124c8cc67ce969f002d, type: 3}
-  - {fileID: -602832384033528757, guid: b405214b882ebea4884c6c0533e23447, type: 3}
-  - {fileID: 4034739638816501708, guid: 95eb8bfde63b22f47bcd57de8ce82b14, type: 3}
-  - {fileID: -7212227282332139650, guid: 6cf5068dd635dca45aaafac0c07ae09d, type: 3}
 --- !u!61 &205015423
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1236,6 +1229,7 @@ GameObject:
   - component: {fileID: 396375687}
   - component: {fileID: 396375689}
   - component: {fileID: 396375690}
+  - component: {fileID: 396375691}
   m_Layer: 9
   m_Name: "Sensibilit\xE9"
   m_TagString: Untagged
@@ -1265,7 +1259,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396375684}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -1288,7 +1282,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -1358,6 +1352,42 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!58 &396375691
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396375684}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.017656906, y: 0.038650915}
+  m_Radius: 0.15543492
 --- !u!1 &458917578
 GameObject:
   m_ObjectHideFlags: 0
@@ -2708,7 +2738,7 @@ RectTransform:
   m_Father: {fileID: 1278248813}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -8140,7 +8170,7 @@ GameObject:
   - component: {fileID: 1177605206}
   - component: {fileID: 1177605207}
   - component: {fileID: 1177605208}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: morgan
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -8214,9 +8244,9 @@ MonoBehaviour:
   attackSound1: {fileID: 8300000, guid: 90f7f8186d5147b49868fae4c7c72137, type: 3}
   attackSound2: {fileID: 8300000, guid: 90f7f8186d5147b49868fae4c7c72137, type: 3}
   talkSound: {fileID: 8300000, guid: 2191d05dae33fa04f858fba5a0d556a5, type: 3}
-  attack1Duration: 1
-  attack2Duration: 1
-  attackCooldown: 1.5
+  attack1Duration: 0.1
+  attack2Duration: 0.1
+  attackCooldown: 2
   healthBar: {fileID: 2031427039}
 --- !u!212 &1177605203
 SpriteRenderer:
@@ -9011,7 +9041,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 941916363791e8b40930525b604cd1b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 2057758860}
 --- !u!1 &1256961082
 GameObject:
   m_ObjectHideFlags: 0
@@ -9368,7 +9397,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1278248813
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31130,18 +31159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 148b08b6c0dca6e40a04fc202160835c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueBox: {fileID: 1327267226}
-  dialogues:
-  - {fileID: 2373183141213679312, guid: 3acebbe623c9ec04bba4c0a96a7ed56d, type: 3}
-  - {fileID: 4810702507026764722, guid: bb33492a37806884aa7d01e9b416f0e5, type: 3}
-  - {fileID: 3275028520990625885, guid: f71ce3744be143549b83c7751dc598f3, type: 3}
-  - {fileID: -6665356834582444394, guid: 11bec44cd9b8fa64c96ff296ffbaaa0d, type: 3}
-  - {fileID: -5515851078783427038, guid: 34f2e6227cc596d40a4de780559027e3, type: 3}
-  - {fileID: 3416150400190533875, guid: 80ae073163c6f5e4f81899ca11296b4e, type: 3}
-  - {fileID: 3313733511368546993, guid: 53ad1925ad5a7564f834ebd3710282c0, type: 3}
-  - {fileID: -6574452492598237238, guid: dd2201daa45494346a481a2a22854a1c, type: 3}
-  - {fileID: 8191758569173932779, guid: 2036f341d7b983849ab84c0733019698, type: 3}
-  - {fileID: -7049636142591061226, guid: 0b2a64867022e974c916ece73fe29404, type: 3}
 --- !u!61 &1370347552
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34621,7 +34638,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 941916363791e8b40930525b604cd1b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 838983664}
 --- !u!1 &2142505386
 GameObject:
   m_ObjectHideFlags: 0
@@ -34833,6 +34849,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Luffy
       objectReference: {fileID: 0}
+    - target: {fileID: 4077415044691249308, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.213
+      objectReference: {fileID: 0}
+    - target: {fileID: 4077415044691249308, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.121
+      objectReference: {fileID: 0}
+    - target: {fileID: 4542797649474762533, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
+      propertyPath: jumpPower
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 4605141653367703319, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: cinematicCanvas
       value: 
@@ -34841,13 +34869,17 @@ PrefabInstance:
       propertyPath: cinematicDuration
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4605141653367703319, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
+      propertyPath: specialAttackSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f06858a8facc38c42aa28bb16871da72, type: 3}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -36.97
+      value: 60.8
       objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 38.5
+      value: 46.3
       objectReference: {fileID: 0}
     - target: {fileID: 7500127160716069633, guid: 3872adadcd4bddb43879b01fce7cfff5, type: 3}
       propertyPath: m_LocalPosition.z
