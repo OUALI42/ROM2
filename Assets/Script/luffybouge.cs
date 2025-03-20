@@ -70,7 +70,7 @@ public class PlayerMovement : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         isGrounded = true;
-        animator.SetBool("isJumping", false);
+        animator.SetBool("isJumping", false); //Désactivé l'animation de saut
         animator.Play("Movement");
 
         if (isDead)return; 
@@ -82,12 +82,12 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // Gestion des transitions
-        if (collision.gameObject.CompareTag("bar-zone1")) // 
+        if (collision.gameObject.CompareTag("bar-zone1")) // Transition dans la zone bar
         {
             
             SceneManager.LoadScene("Didacticiel V.Final");
         }
-        if (collision.gameObject.CompareTag("didactitiel-menu")) // 
+        if (collision.gameObject.CompareTag("didactitiel-menu")) // Transition dans la scene didacticiel
         {
             
             SceneManager.LoadScene("MainMenu");

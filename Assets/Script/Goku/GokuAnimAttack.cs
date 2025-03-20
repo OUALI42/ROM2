@@ -105,11 +105,11 @@ public class GokuAnimAttack : MonoBehaviour
     {
         if (isAttacking) return;
 
-        if (Input.GetKeyDown(punchKey))
+        if (Input.GetKeyDown(punchKey)) //Lorsque l'ont appuie sur la touche pour le coup de poing
         {
             if (!isAttacking)
             {
-                if (!Move.isGrounded)
+                if (!Move.isGrounded) //Peut attaqué lorsqu'il est en l'air
                 {
                     animator.Play("GokuPunch");
                     animator.SetBool("isJumping", false); 
@@ -117,7 +117,7 @@ public class GokuAnimAttack : MonoBehaviour
                 }
                 else
                 {
-                    animator.SetTrigger("Punch");
+                    animator.SetTrigger("Punch"); //Cherche l'animation pour le coup de poing 
                 }
                 StartCoroutine(AttackCooldown(0.5f)); 
             }

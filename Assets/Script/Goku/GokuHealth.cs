@@ -16,6 +16,7 @@ public class GokuHealth : MonoBehaviour
     [Header("Sound Effect")]
     public AudioClip Audio_Death; 
     private AudioSource audioSource;
+    public Rigidbody rb;
 
     void Start()
     {
@@ -60,7 +61,14 @@ public class GokuHealth : MonoBehaviour
             animator.SetTrigger("Die");
             PlaySound(Audio_Death); 
         }
-
+        
+        // Désactiver le mouvement physique
+        if (rb != null)
+        {
+            rb.isKinematic = true; // Rend le Rigidbody statique
+            rb.velocity = Vector3.zero; // Stoppe tout mouvement
+            rb.angularVelocity = Vector3.zero; // Stoppe toute rotation
+        }
         // Lancer le redémarrage du niveau après l'animation
         StartCoroutine(RestartLevelAfterDeath());
     }

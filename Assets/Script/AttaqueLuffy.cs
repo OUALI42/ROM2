@@ -70,7 +70,6 @@ public class LuffyCombatController : MonoBehaviour
             StartGuarding();
         }
 
-
         if (Input.GetKeyDown(autoAttackKey))
         {
             if (!mouvement.isGrounded){
@@ -88,6 +87,7 @@ public class LuffyCombatController : MonoBehaviour
             SetCombatState("isSpecialAttacking");
             PlaySound(specialAttackSound);
         }
+        
         if (Input.GetKeyDown(ultimateAttackKey) && !isInCinematic)
         {
             StartCoroutine(PlayCinematicAndUltimateAttack());

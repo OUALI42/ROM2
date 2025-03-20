@@ -172,6 +172,7 @@ public class BrolyBoss : MonoBehaviour
         isChasing = false;
     }
 
+    // Gestion du cycle d'attaque 
     void ChooseAttack()
     {
         if (isFrozen) return;
@@ -187,7 +188,7 @@ public class BrolyBoss : MonoBehaviour
             return;
         }
 
-        int attackType = Random.Range(0, isClose ? 4 : 4); // 3 attaques en mêlée, 1 attaque à distance
+        int attackType = Random.Range(0, isClose ? 4 : 4); // 4 attaques en mêlée
        switch (attackType)
         {
             case 0:
