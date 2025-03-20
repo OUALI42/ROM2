@@ -365,8 +365,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -0.000061035156, y: -5408.6914}
-  m_SizeDelta: {x: 0, y: 10817.39}
+  m_AnchoredPosition: {x: -302.99994, y: -5692.7075}
+  m_SizeDelta: {x: 0, y: 4735.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &894927491
 Animator:
@@ -515,8 +515,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.000061035, y: -5408.7}
-  m_SizeDelta: {x: 1920, y: 10817}
+  m_AnchoredPosition: {x: -0.000061035, y: -2368}
+  m_SizeDelta: {x: 1920, y: 4735.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1148486098
 MonoBehaviour:
@@ -538,26 +538,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<SIZE=200><B>Arise From           the                 Forest</B>\n</SIZE>\n\n<SIZE=120>-
-    GRAPHISTE</SIZE>\n\n<SIZE=60>BANDHAVONG Estelle</SIZE>\n\n<SIZE=120>- DEVELOPPEURS</SIZE>\n\n<SIZE=60>KHIARI
-    Ghazi</SIZE>\n\n<SIZE=60>ROUYARD Rapha\xEBl</SIZE>\n\n<SIZE=60>OPPIO Nolhan</SIZE>\n\n<SIZE=60>MAP
-    DESIGN\n<I>BY  KHIARI Ghazi</I></SIZE>\n\n<SIZE=60>PLATFORMES\n<I>BY  BANDHAVONG
-    Estelle</I></SIZE>\n\n<SIZE=60>CHARACTER DEVELOPED\n<I>BY  OPPIO Nolhan</I></SIZE>\n\n<SIZE=60>MENU
-    DESIGNED\n<I>BY  ROUYARD Rapha\xEBl</I></SIZE>\n\n\n<SIZE=120>- AUDIO -</SIZE>\n\n<SIZE=60>DEVELOPPEUR
-    AUDIO\n<I> ROUYARD Rapha\xEBl</I></SIZE>\n\n\n<SIZE=60>FANTASY MUSIC in a Magical
-    Forest\n<I>BY  \r      FanTaisia Ambience</I></SIZE>\n\n\n<SIZE=120>- FONT -</SIZE>\n\n\n<SIZE=60>ENDOR\n<I>BY  
-    Apostrophic Labs</I></SIZE>\n\n\n<SIZE=120>- Approuv\xE9 par  -</SIZE>\n\n<SIZE=360>
-    Badis </SIZE>\n\n\n\n\n\n\n\n\n\n\n\n\n<SIZE=80>- Remerciement Speciale -</SIZE>\n\n<SIZE=60>\n<I>Rapha\xEBl
-    ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl
-    ROUYARD,Rapha\xEBl ROUYARD,Thomas le GOAT,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl
-    ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Liam,Rapha\xEBl
-    ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl
-    ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl
-    ROUYARD,Shrek,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,Rapha\xEBl ROUYARD,</I>\n</SIZE>\n\n<SIZE=80><I>-
-    Soutien Mental -</I></SIZE>\n<SIZE=60><I>Ines CHARFI </I></SIZE>\n\n\n<SIZE=80>-
-    REMERCIEMENT A NOTRE SENSE\xCF -</SIZE>\n\n\n\n\n\nLiam-sama\n\n<SIZE=60><I>Et
-    aussi \xE0 :</I></SIZE>\n\n<SIZE=60><I>TUTO  UNITY  FR   </I></SIZE>\n\n<SIZE=40><I>(
-    et Chat GPT ) hihihi   </I></SIZE>"
+  m_text: "<SIZE=200><B>BATTLEVERSE</B>\n</SIZE>\n\n<SIZE=120>- DEVELOPERS</SIZE>\n\n<SIZE=60>TIGUEMOUNINE
+    Ouali</SIZE>\n\n<SIZE=60>ROUYARD Rapha\xEBl</SIZE>\n\n<SIZE=60>KOHN Matis</SIZE>\n\n<SIZE=60>--
+    MAP DESIGNER --\n\n<I>KOHN Matis</I></SIZE>\n\n<SIZE=60>-- CHARACTER DEVELOPER
+    --\n\n<I>TIGUEMOUNINE Ouali</I></SIZE>\n\n<SIZE=60>-- MENU DESIGNER --\n\n<I>ROUYARD
+    Rapha\xEBl</I></SIZE>\n\n\n<SIZE=120>- AUDIO -</SIZE>\n\n<SIZE=60>-- AUDIO DEVELOPER
+    --\n\n<I> ROUYARD Rapha\xEBl</I></SIZE>\n\n\n<SIZE=120>-- FONT --</SIZE>\n\n\n<SIZE=60>OK-Esport\n<I>BY
+    ghielzact</I></SIZE>\n\n\n<SIZE=80>De futur mises \xE0 jours seront disponible
+    a l'avenir !\n\n\n\nUn grand merci \xE0 vous d'avoir jou\xE9 \xE0 notre jeu !</SIZE>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
