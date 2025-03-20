@@ -6,19 +6,18 @@ public class GokuAnimAttack : MonoBehaviour
 {
     private GokuMove Move;
     public Animator animator;
-    public bool isAttacking = false; // Empêche le spam
+    public bool isAttacking = false; 
     public bool isSuperSaiyan = false;
 
     [Header("Touches personnalisables")]
     [SerializeField] public KeyCode punchKey = KeyCode.A; 
     [SerializeField] public KeyCode  footKey = KeyCode.E; 
-    // [SerializeField] public KeyCode  Ssj1Key = KeyCode.R;
     [SerializeField] public KeyCode  KameKey = KeyCode.R;
 
     [Header("cinématique de transformation en SSJ1")]
-    public Canvas cinematicCanvas;  // Canvas pour la cinématique
-    public float cinematicDuration = 3f;  // Durée de la cinématique
-    private bool isInCinematic = false;  // Indicateur pour savoir si la cinématique est en cours
+    public Canvas cinematicCanvas;  
+    public float cinematicDuration = 3f;  
+    private bool isInCinematic = false;  
     [SerializeField] private GameObject éclair1prefab; 
     [SerializeField] private Transform éclair1pooint; 
     [SerializeField] private GameObject éclair2prefab; 
@@ -33,6 +32,8 @@ public class GokuAnimAttack : MonoBehaviour
     [SerializeField] private float time_destruct_for_aura;
     [SerializeField] private float time_destruct_for_boule;
     [SerializeField] private float time_destruct_for_Kame;
+
+    [Header("Gestion des hitboxs")]
     [SerializeField] private GameObject punchHitbox;
     [SerializeField] private GameObject footHitbox;
     [SerializeField] private GameObject kameHitbox;
@@ -62,14 +63,14 @@ public class GokuAnimAttack : MonoBehaviour
         health= GetComponent<GokuHealth>();
         Move= GetComponent<GokuMove>();
         animator = GetComponent<Animator>();
-        degat = GetComponentInChildren<Hitbox>(); // Recherche dans les enfants aussi
+        degat = GetComponentInChildren<Hitbox>(); 
         cinematicCanvas.gameObject.SetActive(false);
         transformation.gameObject.SetActive(false);
         kameHitbox.SetActive(false);
         punchHitbox.SetActive(false);
         footHitbox.SetActive(false);
 
-        kiBar = FindObjectOfType<Ki_Barre>(); // Au lieu de GetComponent<Ki_Barre>()
+        kiBar = FindObjectOfType<Ki_Barre>(); 
         Ki = 0;
         kiBar.currentKi = 0;
         kiBar.Ki_gestion();
@@ -80,26 +81,27 @@ public class GokuAnimAttack : MonoBehaviour
     {
         HandleCombat();
 
-        if (Ki >= 50 && transformation != null) // Check if transformation exists
+        if (Ki >= 50 && transformation != null) 
         {
             transformation.gameObject.SetActive(true);
         }
 
+        // Gestion de la transformation en SSJ1
         if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 50)
         {
-            if (transformation != null) // Prevent null reference
+            if (transformation != null) 
             {
                 health.currentHealth = 100;
                 healthBar.SetHealth(100);
                 Destroy(transformation.gameObject);
-                transformation = null; // Avoid future access to destroyed object
+                transformation = null; 
             }
-
             StartCoroutine(PlayCinematicAndTransform());
         }
     }
 
-   private void HandleCombat()
+    // Gestion du combat
+    private void HandleCombat()
     {
         if (isAttacking) return;
 
@@ -107,12 +109,11 @@ public class GokuAnimAttack : MonoBehaviour
         {
             if (!isAttacking)
             {
-                // Si le joueur est en l'air, il joue l'attaque aérienne
                 if (!Move.isGrounded)
                 {
                     animator.Play("GokuPunch");
-                    animator.SetBool("isJumping", false); //  Désactive l'animation de saut
-                    animator.SetBool("isFalling", false); //  Désactive l'animation de chute
+                    animator.SetBool("isJumping", false); 
+                    animator.SetBool("isFalling", false); 
                 }
                 else
                 {
@@ -179,8 +180,8 @@ public class GokuAnimAttack : MonoBehaviour
 
             yield return new WaitForSecondsRealtime(cinematicDuration); // Attends sans être affecté par Time.timeScale
 
-            Time.timeScale = 1f; // Reprend le temps
-            cinematicCanvas.gameObject.SetActive(false); // Cache la cinématique
+            Time.timeScale = 1f; 
+            cinematicCanvas.gameObject.SetActive(false); 
             isInCinematic = false;
 
             // Lance la transformation après la cinématique
@@ -189,7 +190,7 @@ public class GokuAnimAttack : MonoBehaviour
     }
 
 
-
+    // Gestion de la transformation
     private IEnumerator TransformToSuperSaiyan()
     {
         if (!isSuperSaiyan)
@@ -198,14 +199,13 @@ public class GokuAnimAttack : MonoBehaviour
             animator.SetBool("isSuperSaiyan", true); // Active la transition vers GokuSsj1
             
             animator.Play("GokuSsj1"); // Joue l'animation de transformation
-            yield return new WaitForSeconds(1.5f); // Temps de l'animation
+            yield return new WaitForSeconds(1.5f); 
+
             // Boost des stats
             Move.moveSpeed *= 1.5f;
 
             // Augmenter les dégâts après la transformation en Super Saiyan
-            degat.damage = Mathf.RoundToInt(degat.damage + 10f); // Augmente les dégâts de 50%
-
-            
+            degat.damage = Mathf.RoundToInt(degat.damage + 10f); 
 
             // Appliquer les nouvelles animations SSJ
             animator.runtimeAnimatorController = Move.superSaiyanController;
@@ -218,8 +218,9 @@ public class GokuAnimAttack : MonoBehaviour
     {
         isAttacking = true;     
         yield return new WaitForSeconds(duration); // Attend la fin de l'animation d'attaque
-        isAttacking = false; // Permet de réutiliser les attaques après le cooldown
+        isAttacking = false; 
     }
+
     void eclair1()
     {
         if (éclair1prefab != null && éclair1pooint != null)
@@ -229,81 +230,81 @@ public class GokuAnimAttack : MonoBehaviour
             
             // Vérifier la direction du joueur et ajuster l'orientation
             float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            slash.transform.localScale = new Vector3(direction, 1, 1); 
             
             slash.transform.parent = transform; // Le lier au personnage
-            Destroy(slash, time_destruct); // Détruire après 0.5 secondes
+            Destroy(slash, 0.8f); 
         }
     }
 
+    // Gestion de l'éclair durant la tranformation
     void eclair2()
     {
         if (éclair2prefab != null && éclair2pooint != null)
         {
-            // Créer l'effet à la bonne position
             GameObject slash = Instantiate(éclair2prefab, éclair2pooint.position, Quaternion.identity);
-            
-            // Vérifier la direction du joueur et ajuster l'orientation
-            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
-            
-            slash.transform.parent = transform; // Le lier au personnage
-            Destroy(slash,  0.5f); // Détruire après 0.5 secondes
+            float direction = transform.localScale.x; 
+            slash.transform.localScale = new Vector3(direction, 1, 1); 
+            slash.transform.parent = transform; 
+            Destroy(slash,  0.8f); 
         }
     }
 
+
+    // Gestion de l'aura durant la tranformation
     void Aura()
         {
             if (Auraprefab != null && Aurapooint != null)
             {
-                // Créer l'effet à la bonne position
                 GameObject slash = Instantiate(Auraprefab, Aurapooint.position, Quaternion.identity);
                 
-                // Vérifier la direction du joueur et ajuster l'orientation
-                float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-                slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+                float direction = transform.localScale.x; 
+                slash.transform.localScale = new Vector3(direction, 1, 1); 
                 
-                slash.transform.parent = transform; // Le lier au personnage
-                Destroy(slash, time_destruct_for_aura); // Détruire après 0.5 secondes
+                slash.transform.parent = transform; 
+                Destroy(slash, time_destruct_for_aura); 
             }
         }
 
+
+    // Gestion Boule de Kikoa
     void Boule()
     {
         if (bouleprefab != null && boulepooint != null)
         {
-            // Créer l'effet à la bonne position
             GameObject slash = Instantiate(bouleprefab, boulepooint.position, Quaternion.identity);
             
-            // Vérifier la direction du joueur et ajuster l'orientation
-            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
+            float direction = transform.localScale.x; 
+            slash.transform.localScale = new Vector3(direction, 1, 1); 
             
-            slash.transform.parent = transform; // Le lier au personnage
-            Destroy(slash, time_destruct_for_boule); // Détruire après 0.5 secondes
+            slash.transform.parent = transform; 
+            Destroy(slash, time_destruct_for_boule); 
         }
     }
 
+
+    // Gestion de l'effet du kamehameha 
     void Kame()
     {
         if (Kameprefab != null && Kamepooint != null)
         {
-            // Créer l'effet à la bonne position
+            
             GameObject slash = Instantiate(Kameprefab, Kamepooint.position, Quaternion.identity);
             
-            // Vérifier la direction du joueur et ajuster l'orientation
-            float direction = transform.localScale.x; // Suppose que l'échelle X change selon la direction
-            slash.transform.localScale = new Vector3(direction, 1, 1); // Inverse le slash si nécessaire
             
-            slash.transform.parent = transform; // Le lier au personnage
-            Destroy(slash, time_destruct_for_Kame); // Détruire après 0.5 secondes
+            float direction = transform.localScale.x; 
+            slash.transform.localScale = new Vector3(direction, 1, 1); 
+            
+            slash.transform.parent = transform; 
+            Destroy(slash, time_destruct_for_Kame); 
         }
     }
 
 
+    // Gestion des hitboxs
      void PunchAttack()
     {
-        StartCoroutine(ActivateHitbox(punchHitbox, 0.2f)); // Active 0.2 sec
+        StartCoroutine(ActivateHitbox(punchHitbox, 0.2f)); 
     }
 
     void FootAttack()
@@ -313,7 +314,7 @@ public class GokuAnimAttack : MonoBehaviour
 
     void KameAttack()
     {
-        StartCoroutine(ActivateHitbox(kameHitbox, 1.3f)); // Plus long pour le Kamehameha
+        StartCoroutine(ActivateHitbox(kameHitbox, 1.3f)); 
     }
 
     private IEnumerator ActivateHitbox(GameObject hitbox, float duration)
@@ -323,11 +324,13 @@ public class GokuAnimAttack : MonoBehaviour
         hitbox.SetActive(false);
     }
 
+
+    // Joue le son 
     public void PlaySound(AudioClip clip)
     {
         if (audioSource != null && clip != null)
         {
-            audioSource.PlayOneShot(clip); // Joue le son une seule fois
+            audioSource.PlayOneShot(clip); 
         }
     }
 
