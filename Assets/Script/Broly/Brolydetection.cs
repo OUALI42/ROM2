@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Brolydetection : MonoBehaviour
 {
-    // private mob parentMob;
     public GameObject healthBarBroly; // Référence à la barre de vie
     private BrolyBoss Broly;
     public GameObject cinematic; // Référence à l'objet de la cinématique
@@ -12,6 +11,7 @@ public class Brolydetection : MonoBehaviour
     public float durer_cinematic_broly;
     public float durer_anim_broly;
     private bool hasPlayedCinematic = false; // Booléen pour vérifier si la cinématique a déjà été jouée
+    public bool perm = true;
 
     void Start()
     {
@@ -29,6 +29,7 @@ public class Brolydetection : MonoBehaviour
     {
         if (other.CompareTag("Player") && !hasPlayedCinematic)
         {
+            perm = false;
             hasPlayedCinematic = true;
             StartCoroutine(TriggerCinematicSequence(other.transform));
         }
@@ -40,9 +41,8 @@ public class Brolydetection : MonoBehaviour
             Broly.StartChase(other.transform);
         }
     }
-      private IEnumerator TriggerCinematicSequence(Transform player)
+    private IEnumerator TriggerCinematicSequence(Transform player)
     { 
-
         // Figer le temps
         Time.timeScale = 0;
         
@@ -69,7 +69,7 @@ public class Brolydetection : MonoBehaviour
         yield return new WaitForSecondsRealtime(durer_anim_broly);
 
         Broly.isFrozen = false; 
-        
+        perm = true;
         // Commencer la poursuite
         Broly.StartChase(player);
     }

@@ -33,6 +33,7 @@ public class morgan : MonoBehaviour
     public float attack2Duration = 1.5f;
     public float attackCooldown = 5f;
     public GameObject healthBar; 
+    public bool prends_degats = false;
 
     void Start()
     {
@@ -48,6 +49,7 @@ public class morgan : MonoBehaviour
     {
         if (isTalking && Input.GetKeyDown(interactionKey))
         {
+            prends_degats = true;
             // Le dialogue est terminé, on ferme la boîte et on commence le cycle d'attaques
             dialogueBox.SetActive(false);
             isTalking = false;

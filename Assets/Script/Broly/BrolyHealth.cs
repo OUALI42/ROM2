@@ -18,11 +18,14 @@ public class BrolyHealth : MonoBehaviour
     private bool hasPlayed40 = false; // Pour suivre l'animation à 40 HP
     public Transform Player;
     public GameObject murInvisible3;
+    Rigidbody2D rb;
+    bool degat =true;
 
     
 
     void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
         animator = GetComponent<Animator>();
@@ -38,34 +41,61 @@ public class BrolyHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        if (degat == false) return; // Empêche de prendre des dégâts pendant les animations
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+        
+        if (currentHealth <= 0)
+        {
+            Die();
+            
+        }
 
-        if(currentHealth <= 180 && !hasPlayed80)
+        if (currentHealth <= 180 && !hasPlayed80)
         {
             hasPlayed80 = true;
-            Broly.isFrozen =true;
-            animator.Play("BrolyAnimSuperAttack");
-            Broly.isFrozen =false;
+            StartCoroutine(PlayAnimation("BrolyAnimSuperAttack"));
         }
 
-        if(currentHealth <= 120 && !hasPlayed60)
+        if (currentHealth <= 120 && !hasPlayed60)
         {
             hasPlayed60 = true;
-            Broly.isFrozen =true;
-            animator.Play("BrolySuperAttacks2");
-            Broly.isFrozen =false;
+            StartCoroutine(PlayAnimation2("BrolySuperAttacks2"));
         }
 
-        if(currentHealth <= 60 && !hasPlayed40)
+        if (currentHealth <= 60 && !hasPlayed40)
         {
             hasPlayed40 = true;
             StartCoroutine(SpecialAttackSequence("BrolyUltraLazer"));
         }
-
-
-   IEnumerator SpecialAttackSequence(string animationName)
+    }
+    IEnumerator PlayAnimation(string animationName)
     {
+        degat = false; // Désactive la prise de dégâts
+        // Broly.isFrozen = true;
+        animator.Play(animationName);
+
+        yield return new WaitForSecondsRealtime(9f);
+
+        // Broly.isFrozen = false;
+        degat = true; // Réactive la prise de dégâts
+    }
+    IEnumerator PlayAnimation2(string animationName)
+    {
+        degat = false; // Désactive la prise de dégâts
+        // Broly.isFrozen = true;
+        animator.Play(animationName);
+
+        yield return new WaitForSecondsRealtime(7f);
+
+        // Broly.isFrozen = false;
+        degat = true; // Réactive la prise de dégâts
+    }
+            
+
+    IEnumerator SpecialAttackSequence(string animationName)
+    {
+        degat = false;
         Broly.canFlip = false;
         Broly.isFrozen = true;
         Broly.patrolSpeed = 0;
@@ -97,27 +127,23 @@ public class BrolyHealth : MonoBehaviour
         Broly.isFrozen = false;
         Broly.patrolSpeed = 2;
         Broly.chaseSpeed = 4;
+        degat = true;
     }
 
-
-        if (currentHealth <= 0)
-        {
-            Die();
-            
-        }
-    }
+    
 
     void Die()
     {
         murInvisible3.SetActive(false);
-        Broly.patrolSpeed = 0;
-        Broly.chaseSpeed = 0;
+        rb.isKinematic = true; // Rend le Rigidbody statique
+        rb.velocity = Vector3.zero; // Stoppe tout mouvement
         Broly.isFrozen =true;
         animator.Play("BrolyDeath"); // Animation de mort
         Destroy(gameObject, 3.2f); // Détruit le mob après 1 seconde
         
     }
 }
+
 
 
 

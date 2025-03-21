@@ -54,11 +54,12 @@ public class GokuAnimAttack : MonoBehaviour
     public int Ki;
     Ki_Barre kiBar;
 
-
+    private Brolydetection Broly;
 
 
     void Start()
     {
+        Broly = FindObjectOfType<Brolydetection>();
         audioSource = GetComponent<AudioSource>();
         health= GetComponent<GokuHealth>();
         Move= GetComponent<GokuMove>();
@@ -89,6 +90,7 @@ public class GokuAnimAttack : MonoBehaviour
         // Gestion de la transformation en SSJ1
         if (Input.GetKeyDown(KeyCode.T) && !isSuperSaiyan && !isInCinematic && Ki >= 50)
         {
+            if(Broly.perm == false) return;
             if (transformation != null) 
             {
                 health.currentHealth = 100;
@@ -103,6 +105,7 @@ public class GokuAnimAttack : MonoBehaviour
     // Gestion du combat
     private void HandleCombat()
     {
+        if (health.isDead) return;
         if (isAttacking) return;
 
         if (Input.GetKeyDown(punchKey)) //Lorsque l'ont appuie sur la touche pour le coup de poing
@@ -203,6 +206,7 @@ public class GokuAnimAttack : MonoBehaviour
 
             // Boost des stats
             Move.moveSpeed *= 1.5f;
+            Move.jumpPower += 2;
 
             // Augmenter les dégâts après la transformation en Super Saiyan
             degat.damage = Mathf.RoundToInt(degat.damage + 10f); 
@@ -302,7 +306,7 @@ public class GokuAnimAttack : MonoBehaviour
 
 
     // Gestion des hitboxs
-     void PunchAttack()
+    void PunchAttack()
     {
         StartCoroutine(ActivateHitbox(punchHitbox, 0.2f)); 
     }
@@ -317,7 +321,7 @@ public class GokuAnimAttack : MonoBehaviour
         StartCoroutine(ActivateHitbox(kameHitbox, 1.3f)); 
     }
 
-    private IEnumerator ActivateHitbox(GameObject hitbox, float duration)
+    public IEnumerator ActivateHitbox(GameObject hitbox, float duration)
     {
         hitbox.SetActive(true);
         yield return new WaitForSeconds(duration);

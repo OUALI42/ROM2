@@ -16,10 +16,11 @@ public class GokuHealth : MonoBehaviour
     [Header("Sound Effect")]
     public AudioClip Audio_Death; 
     private AudioSource audioSource;
-    public Rigidbody rb;
+    Rigidbody2D rb;
 
     void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         audioSource = GetComponent<AudioSource>();
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
@@ -67,7 +68,7 @@ public class GokuHealth : MonoBehaviour
         {
             rb.isKinematic = true; // Rend le Rigidbody statique
             rb.velocity = Vector3.zero; // Stoppe tout mouvement
-            rb.angularVelocity = Vector3.zero; // Stoppe toute rotation
+            // rb.angularVelocity = Vector3.zero; // Stoppe toute rotation
         }
         // Lancer le redémarrage du niveau après l'animation
         StartCoroutine(RestartLevelAfterDeath());

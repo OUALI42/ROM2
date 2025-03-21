@@ -19,9 +19,8 @@ public class MorganHealth : MonoBehaviour
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
-        morgan = GetComponent<morgan>();
+        morgan = GetComponentInParent<morgan>();
         
-
         // Accéder à l'Animator du parent "morgan"
         Transform parentmorgan = transform.parent; 
         if (parentmorgan != null)
@@ -39,6 +38,7 @@ public class MorganHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
         if (isDead) return; // Ne prend pas de dégâts si déjà mort
+        if(morgan.prends_degats == false) return;
 
             currentHealth -= damage;
             healthBar.SetHealth(currentHealth);

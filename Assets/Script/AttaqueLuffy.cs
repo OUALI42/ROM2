@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 public class LuffyCombatController : MonoBehaviour
 {
 
@@ -13,7 +14,7 @@ public class LuffyCombatController : MonoBehaviour
 
     [Header("Propriété des attaques")]
     public Transform attackPoint;
-    public float attackRange = 0.5f;
+    public float attackRange = 0f;
     public LayerMask enemyLayers;
     public int autoAttackDamage = 5; // Degats
     public int specialAttackDamage = 15;
@@ -39,16 +40,30 @@ public class LuffyCombatController : MonoBehaviour
     [SerializeField] private Transform Hakipoint; // L'endroit où le haki apparaît
     [SerializeField] private float time_destruct; //Temp de destruction du prefab
 
+    [Header("Gestion des hitboxs")]
+    [SerializeField] private GameObject punchHitbox;
+    [SerializeField] private GameObject specialHitbox;
+    [SerializeField] private GameObject UltimateHitbox;
+    private attackLuffy degat;
+    public float durationPunch;
+    public float durationSpecial;
+    public float durationUltime;
+    private GokuAnimAttack gokuAnimAttack;
 
 
 
 
     void Start()
     {
+        degat = GetComponentInChildren<attackLuffy>(); 
         mouvement = GetComponent<PlayerMovement>();
+        gokuAnimAttack = GetComponent<GokuAnimAttack>();
         animator = GetComponent<Animator>();
         audioSource = GetComponent<AudioSource>();
         cinematicCanvas.gameObject.SetActive(false);
+        punchHitbox.SetActive(false);
+        specialHitbox.SetActive(false);
+        UltimateHitbox.SetActive(false);
     }
 
     void Update()
@@ -57,10 +72,10 @@ public class LuffyCombatController : MonoBehaviour
     }
     
     // Gestion des dégats
-    public void TriggerAttack(int damage)
-    {
-        PerformAttack(damage);
-    }
+    // public void TriggerAttack(int damage)
+    // {
+    //     PerformAttack(damage);
+    // }
 
     // Gestion des attaques
     private void HandleCombat()
@@ -132,7 +147,7 @@ public class LuffyCombatController : MonoBehaviour
         animator.SetBool("isUltimateAttacking", false);
 
         animator.SetBool(state, true);
-        StartCoroutine(ResetState(state, 0.5f));
+        StartCoroutine(ResetState(state, 0f));
     }
 
     // Le Cooldown
@@ -145,31 +160,31 @@ public class LuffyCombatController : MonoBehaviour
 
 
     // Gestion des degats
-    private void PerformAttack(int damage)
-    {
-        // Vérifie les ennemis dans la zone de l'attaque en utilisant le LayerMask
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+    // private void PerformAttack(int damage)
+    // {
+    //     // Vérifie les ennemis dans la zone de l'attaque en utilisant le LayerMask
+    //     Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
-        foreach (Collider2D enemy in hitEnemies)
-        {
-            // Vérifie que l'objet touché est bien de type `MorganHealth` (Morgan)
-            MorganHealth enemyHealth = enemy.GetComponent<MorganHealth>();
-            if (enemyHealth != null)
-            {
-                enemyHealth.TakeDamage(damage);
-            }
-        }
-    }
+    //     foreach (Collider2D enemy in hitEnemies)
+    //     {
+    //         // Vérifie que l'objet touché est bien de type `MorganHealth` (Morgan)
+    //         MorganHealth enemyHealth = enemy.GetComponent<MorganHealth>();
+    //         if (enemyHealth != null)
+    //         {
+    //             enemyHealth.TakeDamage(damage);
+    //         }
+    //     }
+    // }
 
     // La hitbox
-    void OnDrawGizmosSelected()
-    {
-        if (attackPoint == null)
-            return;
+    // void OnDrawGizmosSelected()
+    // {
+    //     if (attackPoint == null)
+    //         return;
 
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
-    }
+    //     Gizmos.color = Color.red;
+    //     Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+    // }
 
     // Gestion de la garde
     void StartGuarding()
@@ -199,6 +214,28 @@ public class LuffyCombatController : MonoBehaviour
             audioSource.PlayOneShot(clip); 
         }
     }
+
+    // Hitbox
+    void PunchLuffy()
+    {
+        StartCoroutine(ActivateHitbox_Luffy(punchHitbox, durationPunch)); 
+    }
+
+    void SpecialLuffy()
+    {
+        StartCoroutine(ActivateHitbox_Luffy(specialHitbox, durationSpecial)); 
+    }
+    void UltimeLuffy()
+    {
+        StartCoroutine(ActivateHitbox_Luffy(UltimateHitbox, durationUltime)); 
+    }
+    public IEnumerator ActivateHitbox_Luffy(GameObject hitbox, float duration)
+    {
+        hitbox.SetActive(true);
+        yield return new WaitForSeconds(duration);
+        hitbox.SetActive(false);
+    }
+
 
     // Gestion des eclaires rouges du haki
     void SpawnSlashEffect()
